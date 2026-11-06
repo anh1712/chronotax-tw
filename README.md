@@ -108,6 +108,12 @@ Answering (`src/answer.py`) calls any OpenAI-compatible endpoint set by `LLM_BAS
 - Work in progress (not in this repository yet): real taxpayer questions, and LLM verifiers for grounded but
   inapplicable answers.
 
+## Data access note
+The amendment histories were read in October 2026 from the MOJ `LawHistory.aspx` pages, one request per act, for
+this research. The site's `robots.txt` asks crawlers not to fetch those pages, so please do not re-run the history
+fetchers at scale; use the prebuilt stores from the Releases page. Moving the fetchers to the MOJ open-data
+downloads (which include the amendment history) is planned.
+
 ## Data and licence
 Code: MIT (see `LICENSE`). Law texts are not subject to copyright in Taiwan (Copyright Act §9). Version data: LYAPI v2
 (OpenFun, CC BY 4.0). Dates and English texts: Ministry of Justice Laws & Regulations Database; announced amounts:
