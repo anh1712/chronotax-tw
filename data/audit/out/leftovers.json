@@ -1,0 +1,160 @@
+{
+ "partial_exceptions_not_applied": [
+  {
+   "law_id": "01513",
+   "ly_version": "01513:2007-12-14-修正",
+   "moj_no": 43,
+   "article_no": "第十四條",
+   "effective": "2008-01-01",
+   "basis": "explicit",
+   "kind": "partial",
+   "promulgated": "2008-01-02",
+   "article_version": {
+    "id": 665,
+    "valid_from": "2008-01-01",
+    "valid_to": "2009-04-24",
+    "from_basis": "commencement_article"
+   }
+  },
+  {
+   "law_id": "01513",
+   "ly_version": "01513:2009-05-01-修正",
+   "moj_no": 47,
+   "article_no": "第五條",
+   "effective": "2010-01-01",
+   "basis": "explicit_tax_year",
+   "kind": "partial",
+   "promulgated": "2009-05-27",
+   "article_version": {
+    "id": 704,
+    "valid_from": "2009-05-29",
+    "valid_to": "2010-01-01",
+    "from_basis": "default_§13"
+   }
+  },
+  {
+   "law_id": "01513",
+   "ly_version": "01513:2011-01-07-修正",
+   "moj_no": 49,
+   "article_no": "第四條",
+   "effective": "2012-01-01",
+   "basis": "explicit",
+   "kind": "partial",
+   "promulgated": "2011-01-19",
+   "article_version": {
+    "id": 813,
+    "valid_from": "2012-01-01",
+    "valid_to": null,
+    "from_basis": "commencement_article"
+   }
+  },
+  {
+   "law_id": "01513",
+   "ly_version": "01513:2011-01-07-修正",
+   "moj_no": 49,
+   "article_no": "第十七條",
+   "effective": "2012-01-01",
+   "basis": "explicit",
+   "kind": "partial",
+   "promulgated": "2011-01-19",
+   "article_version": {
+    "id": 715,
+    "valid_from": "2012-01-01",
+    "valid_to": "2012-01-01",
+    "from_basis": "commencement_article"
+   }
+  },
+  {
+   "law_id": "01526",
+   "ly_version": "01526:2005-12-09-制定",
+   "moj_no": 1,
+   "article_no": "第十二條",
+   "effective": "2010-01-01",
+   "basis": "executive_yuan_order",
+   "kind": "partial",
+   "promulgated": "2005-12-28",
+   "article_version": {
+    "id": 1013,
+    "valid_from": "2006-01-01",
+    "valid_to": "2013-01-01",
+    "from_basis": "explicit"
+   }
+  }
+ ],
+ "income_tax_art5_2009_window_probes": [
+  "tt-version_id-00721",
+  "tt-amount-00725",
+  "tt-amount-00727",
+  "tt-amount-00729",
+  "tt-amount-00731",
+  "tt-amount-00733",
+  "tt-amount-00735",
+  "tt-span-00763",
+  "tt-span-00765",
+  "tt-span-00766"
+ ],
+ "unmatched": [
+  {
+   "law_id": "01513",
+   "ly_version": "01513:2000-12-28-修正",
+   "effective": "2000-12-28",
+   "effective_basis": "ly_date_fallback"
+  },
+  {
+   "law_id": "01513",
+   "ly_version": "01513:2007-06-15-修正",
+   "effective": "2007-06-15",
+   "effective_basis": "ly_date_fallback"
+  }
+ ],
+ "unmatched_detail": {
+  "01513:2000-12-28-修正": [
+   {
+    "id": 624,
+    "article_no": "第一百二十六條",
+    "valid_from": "2000-12-28",
+    "valid_to": "2001-06-15",
+    "from_basis": "ly_date_fallback",
+    "deleted": 0
+   },
+   {
+    "id": 635,
+    "article_no": "第十七條",
+    "valid_from": "2000-12-28",
+    "valid_to": "2003-06-27",
+    "from_basis": "ly_date_fallback",
+    "deleted": 0
+   }
+  ],
+  "01513:2007-06-15-修正": [
+   {
+    "id": 666,
+    "article_no": "第十四條之一",
+    "valid_from": "2007-06-15",
+    "valid_to": "2009-04-24",
+    "from_basis": "ly_date_fallback",
+    "deleted": 0
+   },
+   {
+    "id": 668,
+    "article_no": "第二十四條之一",
+    "valid_from": "2007-06-15",
+    "valid_to": "2009-04-24",
+    "from_basis": "ly_date_fallback",
+    "deleted": 0
+   },
+   {
+    "id": 987,
+    "article_no": "第二十四條之二",
+    "valid_from": "2007-06-15",
+    "valid_to": null,
+    "from_basis": "ly_date_fallback",
+    "deleted": 0
+   }
+  ],
+  "income_tax_art17_2000_window_probes": [
+   "tt-version_id-00935",
+   "tt-amount-00973"
+  ]
+ }
+}

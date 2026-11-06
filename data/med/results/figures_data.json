@@ -1,0 +1,92 @@
+{
+ "fig1_wrong_version": {
+  "amount/static/tax": [
+   43.2,
+   37.3,
+   49.2
+  ],
+  "amount/static/health": [
+   28.8,
+   21.4,
+   37.6
+  ],
+  "amount/latest/tax": [
+   39.0,
+   33.3,
+   45.0
+  ],
+  "amount/latest/health": [
+   28.8,
+   21.4,
+   37.6
+  ],
+  "amount/temporal/tax": [
+   0.0,
+   0.0,
+   1.4
+  ],
+  "amount/temporal/health": [
+   0.0,
+   0.0,
+   3.2
+  ],
+  "span/static/tax": [
+   10.3,
+   9.1,
+   11.8
+  ],
+  "span/static/health": [
+   3.5,
+   2.9,
+   4.2
+  ],
+  "span/latest/tax": [
+   11.8,
+   10.5,
+   13.3
+  ],
+  "span/latest/health": [
+   5.4,
+   4.7,
+   6.3
+  ],
+  "span/temporal/tax": [
+   0.0,
+   0.0,
+   0.2
+  ],
+  "span/temporal/health": [
+   0.0,
+   -0.0,
+   0.1
+  ]
+ },
+ "fig2_commencement_delay": {
+  "tax": {
+   "n_delayed_since_1990": 43,
+   "median_days": 51,
+   "max_days": 2062
+  },
+  "medical": {
+   "n_delayed_since_1990": 20,
+   "median_days": 183.0,
+   "max_days": 1096
+  }
+ },
+ "fig3_change_profile": {
+  "share_from_full_text_revision/tax": 16.7,
+  "share_from_full_text_revision/medical": 54.9,
+  "with_amount_change/tax": 4.6,
+  "with_amount_change/medical": 2.4,
+  "with_percentage_change/tax": 11.6,
+  "with_percentage_change/medical": 1.9
+ },
+ "fig4_examples_timeline": {
+  "nhi_supplementary_premium/2012-06-01": "No",
+  "nhi_supplementary_premium/2013-06-01": "Yes",
+  "pharma_fine_cap/2014-06-01": "NT$150,000",
+  "pharma_fine_cap/2016-06-01": "NT$2,000,000",
+  "smoking_age/2022-06-01": "Yes (ban is under 18)",
+  "smoking_age/2024-06-01": "No (ban is under 20)"
+ }
+}

@@ -1,0 +1,643 @@
+{
+ "probes": {
+  "medical": {
+   "version_id": 1925,
+   "amount": 118,
+   "span": 3160,
+   "bitemporal": 0
+  },
+  "tax": {
+   "version_id": 1225,
+   "amount": 264,
+   "span": 2010,
+   "bitemporal": 104
+  }
+ },
+ "results": {
+  "medical_amount": {
+   "static": {
+    "n": 118,
+    "R@1": 0.22,
+    "R@1_ci": [
+     0.155,
+     0.303
+    ],
+    "R@5": 0.771,
+    "wrong_version@1": 0.288,
+    "wrong_version@1_ci": [
+     0.214,
+     0.376
+    ],
+    "k_R@1": 26,
+    "k_wrong_version@1": 34
+   },
+   "latest": {
+    "n": 118,
+    "R@1": 0.153,
+    "R@1_ci": [
+     0.099,
+     0.228
+    ],
+    "R@5": 0.246,
+    "wrong_version@1": 0.288,
+    "wrong_version@1_ci": [
+     0.214,
+     0.376
+    ],
+    "k_R@1": 18,
+    "k_wrong_version@1": 34
+   },
+   "temporal": {
+    "n": 118,
+    "R@1": 0.585,
+    "R@1_ci": [
+     0.495,
+     0.67
+    ],
+    "R@5": 0.932,
+    "wrong_version@1": 0.0,
+    "wrong_version@1_ci": [
+     0.0,
+     0.032
+    ],
+    "k_R@1": 69,
+    "k_wrong_version@1": 0
+   },
+   "paired_R@1_static_vs_temporal": {
+    "a_only": 0,
+    "b_only": 43,
+    "p": 2.2737367544323206e-13
+   },
+   "paired_R@1_latest_vs_temporal": {
+    "a_only": 1,
+    "b_only": 52,
+    "p": 1.199040866595169e-14
+   }
+  },
+  "tax_amount": {
+   "static": {
+    "n": 264,
+    "R@1": 0.239,
+    "R@1_ci": [
+     0.191,
+     0.294
+    ],
+    "R@5": 0.644,
+    "wrong_version@1": 0.432,
+    "wrong_version@1_ci": [
+     0.373,
+     0.492
+    ],
+    "k_R@1": 63,
+    "k_wrong_version@1": 114
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "wrong_version@1": 0.39,
+    "wrong_version@1_ci": [
+     0.333,
+     0.45
+    ],
+    "k_R@1": 31,
+    "k_wrong_version@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.697,
+    "R@1_ci": [
+     0.639,
+     0.749
+    ],
+    "R@5": 0.788,
+    "wrong_version@1": 0.0,
+    "wrong_version@1_ci": [
+     0.0,
+     0.014
+    ],
+    "k_R@1": 184,
+    "k_wrong_version@1": 0
+   },
+   "paired_R@1_static_vs_temporal": {
+    "a_only": 0,
+    "b_only": 121,
+    "p": 7.52316384526264e-37
+   },
+   "paired_R@1_latest_vs_temporal": {
+    "a_only": 0,
+    "b_only": 153,
+    "p": 1.7516230804060213e-46
+   }
+  },
+  "medical_amount_unflagged": {
+   "static": {
+    "n": 114,
+    "R@1": 0.211,
+    "R@1_ci": [
+     0.146,
+     0.294
+    ],
+    "R@5": 0.781,
+    "wrong_version@1": 0.298,
+    "wrong_version@1_ci": [
+     0.222,
+     0.388
+    ],
+    "k_R@1": 24,
+    "k_wrong_version@1": 34
+   },
+   "latest": {
+    "n": 114,
+    "R@1": 0.149,
+    "R@1_ci": [
+     0.095,
+     0.226
+    ],
+    "R@5": 0.246,
+    "wrong_version@1": 0.298,
+    "wrong_version@1_ci": [
+     0.222,
+     0.388
+    ],
+    "k_R@1": 17,
+    "k_wrong_version@1": 34
+   },
+   "temporal": {
+    "n": 114,
+    "R@1": 0.588,
+    "R@1_ci": [
+     0.496,
+     0.674
+    ],
+    "R@5": 0.939,
+    "wrong_version@1": 0.0,
+    "wrong_version@1_ci": [
+     0.0,
+     0.033
+    ],
+    "k_R@1": 67,
+    "k_wrong_version@1": 0
+   }
+  },
+  "static_wrong_version_medical_minus_tax_amount": {
+   "diff": -0.144,
+   "ci": [
+    -0.239,
+    -0.038
+   ]
+  },
+  "medical_span": {
+   "static": {
+    "n": 3160,
+    "R@1": 0.639,
+    "R@1_ci": [
+     0.622,
+     0.655
+    ],
+    "R@5": 0.789,
+    "wrong_version@1": 0.035,
+    "wrong_version@1_ci": [
+     0.029,
+     0.042
+    ],
+    "k_R@1": 2019,
+    "k_wrong_version@1": 110
+   },
+   "latest": {
+    "n": 3160,
+    "R@1": 0.251,
+    "R@1_ci": [
+     0.236,
+     0.267
+    ],
+    "R@5": 0.261,
+    "wrong_version@1": 0.054,
+    "wrong_version@1_ci": [
+     0.047,
+     0.063
+    ],
+    "k_R@1": 794,
+    "k_wrong_version@1": 172
+   },
+   "temporal": {
+    "n": 3160,
+    "R@1": 0.765,
+    "R@1_ci": [
+     0.75,
+     0.78
+    ],
+    "R@5": 0.793,
+    "wrong_version@1": 0.0,
+    "wrong_version@1_ci": [
+     -0.0,
+     0.001
+    ],
+    "k_R@1": 2418,
+    "k_wrong_version@1": 0
+   },
+   "paired_R@1_static_vs_temporal": {
+    "a_only": 0,
+    "b_only": 399,
+    "p": 1.5490367659397273e-120
+   },
+   "paired_R@1_latest_vs_temporal": {
+    "a_only": 2,
+    "b_only": 1626,
+    "p": 0.0
+   }
+  },
+  "tax_span": {
+   "static": {
+    "n": 2010,
+    "R@1": 0.568,
+    "R@1_ci": [
+     0.546,
+     0.59
+    ],
+    "R@5": 0.781,
+    "wrong_version@1": 0.103,
+    "wrong_version@1_ci": [
+     0.091,
+     0.118
+    ],
+    "k_R@1": 1142,
+    "k_wrong_version@1": 208
+   },
+   "latest": {
+    "n": 2010,
+    "R@1": 0.185,
+    "R@1_ci": [
+     0.169,
+     0.203
+    ],
+    "R@5": 0.2,
+    "wrong_version@1": 0.118,
+    "wrong_version@1_ci": [
+     0.105,
+     0.133
+    ],
+    "k_R@1": 372,
+    "k_wrong_version@1": 238
+   },
+   "temporal": {
+    "n": 2010,
+    "R@1": 0.762,
+    "R@1_ci": [
+     0.743,
+     0.78
+    ],
+    "R@5": 0.799,
+    "wrong_version@1": 0.0,
+    "wrong_version@1_ci": [
+     0.0,
+     0.002
+    ],
+    "k_R@1": 1532,
+    "k_wrong_version@1": 0
+   },
+   "paired_R@1_static_vs_temporal": {
+    "a_only": 0,
+    "b_only": 390,
+    "p": 7.931068241611404e-118
+   },
+   "paired_R@1_latest_vs_temporal": {
+    "a_only": 0,
+    "b_only": 1160,
+    "p": 0.0
+   }
+  },
+  "medical_span_unflagged": {
+   "static": {
+    "n": 3074,
+    "R@1": 0.641,
+    "R@1_ci": [
+     0.624,
+     0.658
+    ],
+    "R@5": 0.792,
+    "wrong_version@1": 0.035,
+    "wrong_version@1_ci": [
+     0.029,
+     0.042
+    ],
+    "k_R@1": 1971,
+    "k_wrong_version@1": 107
+   },
+   "latest": {
+    "n": 3074,
+    "R@1": 0.254,
+    "R@1_ci": [
+     0.239,
+     0.269
+    ],
+    "R@5": 0.264,
+    "wrong_version@1": 0.054,
+    "wrong_version@1_ci": [
+     0.047,
+     0.063
+    ],
+    "k_R@1": 780,
+    "k_wrong_version@1": 167
+   },
+   "temporal": {
+    "n": 3074,
+    "R@1": 0.768,
+    "R@1_ci": [
+     0.753,
+     0.783
+    ],
+    "R@5": 0.796,
+    "wrong_version@1": 0.0,
+    "wrong_version@1_ci": [
+     0.0,
+     0.001
+    ],
+    "k_R@1": 2361,
+    "k_wrong_version@1": 0
+   }
+  },
+  "static_wrong_version_medical_minus_tax_span": {
+   "diff": -0.069,
+   "ci": [
+    -0.084,
+    -0.054
+   ]
+  },
+  "medical_static_by_act_amount_plus_span": {
+   "02508": {
+    "law": "醫師法",
+    "law_en": "Physicians Act",
+    "n": 138,
+    "wrong_version": 9,
+    "hit": 95
+   },
+   "02510": {
+    "law": "藥事法",
+    "law_en": "Pharmaceutical Affairs Act",
+    "n": 439,
+    "wrong_version": 16,
+    "hit": 259
+   },
+   "02513": {
+    "law": "食品安全衛生管理法",
+    "law_en": "Act Governing Food Safety and Sanitation",
+    "n": 364,
+    "wrong_version": 33,
+    "hit": 192
+   },
+   "02516": {
+    "law": "傳染病防治法",
+    "law_en": "Communicable Disease Control Act",
+    "n": 489,
+    "wrong_version": 21,
+    "hit": 306
+   },
+   "02533": {
+    "law": "醫療法",
+    "law_en": "Medical Care Act",
+    "n": 364,
+    "wrong_version": 12,
+    "hit": 231
+   },
+   "02542": {
+    "law": "護理人員法",
+    "law_en": "Nursing Personnel Act",
+    "n": 75,
+    "wrong_version": 3,
+    "hit": 57
+   },
+   "02547": {
+    "law": "緊急醫療救護法",
+    "law_en": "Emergency Medical Services Act",
+    "n": 179,
+    "wrong_version": 6,
+    "hit": 102
+   },
+   "02556": {
+    "law": "健康食品管理法",
+    "law_en": "Health Food Governing Act",
+    "n": 28,
+    "wrong_version": 1,
+    "hit": 23
+   },
+   "01189": {
+    "law": "全民健康保險法",
+    "law_en": "National Health Insurance Act",
+    "n": 340,
+    "wrong_version": 14,
+    "hit": 225
+   },
+   "02509": {
+    "law": "藥師法",
+    "law_en": "Pharmacists Act",
+    "n": 84,
+    "wrong_version": 6,
+    "hit": 60
+   },
+   "02512": {
+    "law": "管制藥品管理條例",
+    "law_en": "Controlled Drugs Act",
+    "n": 95,
+    "wrong_version": 11,
+    "hit": 63
+   },
+   "02526": {
+    "law": "精神衛生法",
+    "law_en": "Mental Health Act",
+    "n": 335,
+    "wrong_version": 4,
+    "hit": 222
+   },
+   "02535": {
+    "law": "人體器官移植條例",
+    "law_en": "Human Organ Transplant Act",
+    "n": 61,
+    "wrong_version": 1,
+    "hit": 38
+   },
+   "02536": {
+    "law": "病人自主權利法",
+    "law_en": "Patient Right to Autonomy Act",
+    "n": 5,
+    "wrong_version": 0,
+    "hit": 3
+   },
+   "02549": {
+    "law": "菸害防制法",
+    "law_en": "Tobacco Hazards Prevention Act",
+    "n": 178,
+    "wrong_version": 2,
+    "hit": 100
+   },
+   "02562": {
+    "law": "安寧緩和醫療條例",
+    "law_en": "Hospice Palliative Care Act",
+    "n": 25,
+    "wrong_version": 3,
+    "hit": 15
+   },
+   "02563": {
+    "law": "罕見疾病防治及藥物法",
+    "law_en": "Prevention of Rare Diseases and Orphan Drug Act",
+    "n": 42,
+    "wrong_version": 1,
+    "hit": 28
+   },
+   "02564": {
+    "law": "藥害救濟法",
+    "law_en": "Drug Injury Relief Act",
+    "n": 10,
+    "wrong_version": 0,
+    "hit": 7
+   },
+   "02588": {
+    "law": "長期照顧服務法",
+    "law_en": "Long-Term Care Services Act",
+    "n": 27,
+    "wrong_version": 1,
+    "hit": 19
+   }
+  },
+  "medical_span_static_wrong_version_by_change_kind": {
+   "full_text_revision": {
+    "n": 2153,
+    "wrong_version@1": 0.031,
+    "ci": [
+     0.024,
+     0.039
+    ]
+   },
+   "partial_amendment": {
+    "n": 1007,
+    "wrong_version@1": 0.044,
+    "ci": [
+     0.033,
+     0.058
+    ]
+   }
+  },
+  "tax_span_static_wrong_version_by_change_kind": {
+   "full_text_revision": {
+    "n": 480,
+    "wrong_version@1": 0.052,
+    "ci": [
+     0.036,
+     0.076
+    ]
+   },
+   "partial_amendment": {
+    "n": 1530,
+    "wrong_version@1": 0.12,
+    "ci": [
+     0.104,
+     0.137
+    ]
+   }
+  },
+  "medical_probes_on_tax_parser_store": {
+   "amount": {
+    "temporal": {
+     "n": 118,
+     "R@1": 0.559,
+     "R@1_ci": [
+      0.469,
+      0.646
+     ],
+     "R@5": 0.915,
+     "wrong_version@1": 0.017,
+     "wrong_version@1_ci": [
+      0.005,
+      0.06
+     ],
+     "k_R@1": 66,
+     "k_wrong_version@1": 2
+    },
+    "gold_text_missing_in_tax_parser_store": 0
+   },
+   "span": {
+    "temporal": {
+     "n": 3160,
+     "R@1": 0.741,
+     "R@1_ci": [
+      0.726,
+      0.756
+     ],
+     "R@5": 0.768,
+     "wrong_version@1": 0.0,
+     "wrong_version@1_ci": [
+      -0.0,
+      0.001
+     ],
+     "k_R@1": 2343,
+     "k_wrong_version@1": 0
+    },
+    "gold_text_missing_in_tax_parser_store": 0
+   },
+   "version_id_lookup": {
+    "n": 1925,
+    "chronomed_correct": 1925,
+    "tax_parser_correct": 1859,
+    "tax_parser_wrong": 66,
+    "tax_parser_wrong_rate": 0.034,
+    "tax_parser_wrong_ci": [
+     0.027,
+     0.043
+    ],
+    "tax_parser_wrong_by_act": {
+     "食品安全衛生管理法": 7,
+     "精神衛生法": 53,
+     "菸害防制法": 6
+    }
+   }
+  }
+ },
+ "published_chronotax_results_retrieval_json": {
+  "static": {
+   "n": 264,
+   "R@1": 0.239,
+   "R@1_ci": [
+    0.191,
+    0.294
+   ],
+   "R@5": 0.644,
+   "misgrounding@1": 0.432,
+   "misgrounding@1_ci": [
+    0.373,
+    0.492
+   ]
+  },
+  "latest": {
+   "n": 264,
+   "R@1": 0.117,
+   "R@1_ci": [
+    0.084,
+    0.162
+   ],
+   "R@5": 0.121,
+   "misgrounding@1": 0.39,
+   "misgrounding@1_ci": [
+    0.333,
+    0.45
+   ]
+  },
+  "temporal": {
+   "n": 264,
+   "R@1": 0.693,
+   "R@1_ci": [
+    0.635,
+    0.746
+   ],
+   "R@5": 0.788,
+   "misgrounding@1": 0.0,
+   "misgrounding@1_ci": [
+    0.0,
+    0.014
+   ]
+  }
+ }
+}

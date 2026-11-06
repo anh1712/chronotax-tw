@@ -1,0 +1,350 @@
+{
+ "per_law": {
+  "01189": {
+   "name": "全民健康保險法",
+   "name_en": "National Health Insurance Act",
+   "ly_versions": 14,
+   "moj_entries": 14,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 255,
+   "per_article_dates_applied": 3,
+   "pending_articles": 0,
+   "commencement_article_rules": 1,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 10,
+    "executive_yuan_order": 4
+   }
+  },
+  "02533": {
+   "name": "醫療法",
+   "name_en": "Medical Care Act",
+   "ly_versions": 20,
+   "moj_entries": 20,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 278,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 20
+   }
+  },
+  "02510": {
+   "name": "藥事法",
+   "name_en": "Pharmaceutical Affairs Act",
+   "ly_versions": 20,
+   "moj_entries": 20,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 332,
+   "per_article_dates_applied": 27,
+   "pending_articles": 3,
+   "commencement_article_rules": 2,
+   "commencement_article_unparsed": [
+    "本法中華民國八十六年五月七日修正公布之第五十三條",
+    "一百零七年一月三十一日修正公布之第四章之一、第九十二條之一、第一百條及第一百條之一"
+   ],
+   "version_basis": {
+    "default_§13": 19,
+    "explicit": 1
+   }
+  },
+  "02508": {
+   "name": "醫師法",
+   "name_en": "Physicians Act",
+   "ly_versions": 16,
+   "moj_entries": 16,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 205,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 10,
+    "executive_yuan_order": 2,
+    "explicit": 4
+   }
+  },
+  "02542": {
+   "name": "護理人員法",
+   "name_en": "Nursing Personnel Act",
+   "ly_versions": 11,
+   "moj_entries": 11,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 121,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 11
+   }
+  },
+  "02588": {
+   "name": "長期照顧服務法",
+   "name_en": "Long-Term Care Services Act",
+   "ly_versions": 4,
+   "moj_entries": 4,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 92,
+   "per_article_dates_applied": 4,
+   "pending_articles": 0,
+   "commencement_article_rules": 1,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 2,
+    "explicit": 1,
+    "relative_after_promulgation": 1
+   }
+  },
+  "02516": {
+   "name": "傳染病防治法",
+   "name_en": "Communicable Disease Control Act",
+   "ly_versions": 17,
+   "moj_entries": 18,
+   "unmatched_ly": 0,
+   "moj_without_ly": [
+    18
+   ],
+   "article_versions_built": 312,
+   "per_article_dates_applied": 2,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 17
+   }
+  },
+  "02549": {
+   "name": "菸害防制法",
+   "name_en": "Tobacco Hazards Prevention Act",
+   "ly_versions": 5,
+   "moj_entries": 5,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 114,
+   "per_article_dates_applied": 1,
+   "pending_articles": 1,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 2,
+    "executive_yuan_order": 1,
+    "relative_after_promulgation": 2
+   }
+  },
+  "02513": {
+   "name": "食品安全衛生管理法",
+   "name_en": "Act Governing Food Safety and Sanitation",
+   "ly_versions": 19,
+   "moj_entries": 19,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 265,
+   "per_article_dates_applied": 2,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [
+    "第二十二條第一項第四款自中華民國一百零三年六月十九日施行",
+    "本法一百零三年一月二十八日修正條文第二十一條第三項，自公布後一年施行",
+    "本法一百零三年十一月十八日修正條文，除第二十二條第一項第五款應標示可追溯之來源或生產系統規定，自公布後六個月施行"
+   ],
+   "version_basis": {
+    "default_§13": 19
+   }
+  },
+  "02526": {
+   "name": "精神衛生法",
+   "name_en": "Mental Health Act",
+   "ly_versions": 6,
+   "moj_entries": 6,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 214,
+   "per_article_dates_applied": 24,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 4,
+    "relative_after_promulgation": 2
+   }
+  },
+  "07121": {
+   "name": "醫療器材管理法",
+   "name_en": "Medical Devices Act",
+   "ly_versions": 1,
+   "moj_entries": 1,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 85,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "executive_yuan_order": 1
+   }
+  },
+  "02536": {
+   "name": "病人自主權利法",
+   "name_en": "Patient Right to Autonomy Act",
+   "ly_versions": 3,
+   "moj_entries": 3,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 23,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 2,
+    "relative_after_promulgation": 1
+   }
+  },
+  "02562": {
+   "name": "安寧緩和醫療條例",
+   "name_en": "Hospice Palliative Care Act",
+   "ly_versions": 5,
+   "moj_entries": 5,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 30,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 5
+   }
+  },
+  "02535": {
+   "name": "人體器官移植條例",
+   "name_en": "Human Organ Transplant Act",
+   "ly_versions": 7,
+   "moj_entries": 7,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 64,
+   "per_article_dates_applied": 2,
+   "pending_articles": 0,
+   "commencement_article_rules": 1,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 6,
+    "explicit": 1
+   }
+  },
+  "02547": {
+   "name": "緊急醫療救護法",
+   "name_en": "Emergency Medical Services Act",
+   "ly_versions": 6,
+   "moj_entries": 6,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 147,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 6
+   }
+  },
+  "02564": {
+   "name": "藥害救濟法",
+   "name_en": "Drug Injury Relief Act",
+   "ly_versions": 4,
+   "moj_entries": 4,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 39,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 1,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 4
+   }
+  },
+  "02563": {
+   "name": "罕見疾病防治及藥物法",
+   "name_en": "Prevention of Rare Diseases and Orphan Drug Act",
+   "ly_versions": 4,
+   "moj_entries": 4,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 71,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 3,
+    "relative_after_promulgation": 1
+   }
+  },
+  "02509": {
+   "name": "藥師法",
+   "name_en": "Pharmacists Act",
+   "ly_versions": 12,
+   "moj_entries": 12,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 135,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [
+    "本法中華民國一百年一月十日修正之第十九條條文，自公布後三個月施行"
+   ],
+   "version_basis": {
+    "default_§13": 11,
+    "relative_after_promulgation": 1
+   }
+  },
+  "02512": {
+   "name": "管制藥品管理條例",
+   "name_en": "Controlled Drugs Act",
+   "ly_versions": 15,
+   "moj_entries": 15,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 187,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 15
+   }
+  },
+  "02556": {
+   "name": "健康食品管理法",
+   "name_en": "Health Food Governing Act",
+   "ly_versions": 7,
+   "moj_entries": 7,
+   "unmatched_ly": 0,
+   "moj_without_ly": [],
+   "article_versions_built": 50,
+   "per_article_dates_applied": 0,
+   "pending_articles": 0,
+   "commencement_article_rules": 0,
+   "commencement_article_unparsed": [],
+   "version_basis": {
+    "default_§13": 6,
+    "relative_after_promulgation": 1
+   }
+  }
+ },
+ "interval_changes_by_reorder": 8
+}

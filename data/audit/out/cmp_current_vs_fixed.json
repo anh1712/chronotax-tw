@@ -1,0 +1,7743 @@
+{
+ "a": "data/audit/lawtw_current_copy.db",
+ "b": "data/audit/lawtw_fixed.db",
+ "versions": [
+  406,
+  406
+ ],
+ "version_rows_differing": 82,
+ "version_fields_differing": [
+  "effective",
+  "effective_basis",
+  "moj_note"
+ ],
+ "version_date_changes": [
+  {
+   "key": [
+    "01512",
+    "01512:2011-04-26-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2011-05-13",
+     "2011-07-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01512",
+    "01512:2021-11-30-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2022-01-01",
+     "2021-12-19"
+    ],
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:1993-01-18-修正"
+   ],
+   "fields": {
+    "effective": [
+     "1993-01-01",
+     "1993-02-07"
+    ],
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2001-05-29-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2001-06-15",
+     "2001-07-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "explicit"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2007-12-14-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2008-01-01",
+     "2008-01-04"
+    ],
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2011-01-07-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2012-01-01",
+     "2011-01-21"
+    ],
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2013-12-24-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2014-05-16-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2014-06-06",
+     "2015-01-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "explicit_tax_year"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2015-06-05-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2015-06-26",
+     "2016-01-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "explicit"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2016-07-12-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2018-01-18-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2019-01-01",
+     "2018-01-01"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2019-07-01-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2019-07-26",
+     "2019-01-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "explicit"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01513",
+    "01513:2024-07-15-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01516",
+    "01516:1986-01-07-修正"
+   ],
+   "fields": {
+    "effective": [
+     "1986-01-19",
+     "1986-04-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01517",
+    "01517:1990-01-18-全文修正"
+   ],
+   "fields": {
+    "effective": [
+     "1990-01-24",
+     "1990-06-01"
+    ],
+    "effective_basis": [
+     "unknown_using_promulgation",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01517",
+    "01517:1997-04-15-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01517",
+    "01517:2001-10-11-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01517",
+    "01517:2025-08-05-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1985-11-05-全文修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1988-05-10-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1995-07-12-修正"
+   ],
+   "fields": {
+    "effective": [
+     "1995-08-04",
+     "1995-09-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1997-04-15-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1997-05-16-修正"
+   ],
+   "fields": {
+    "effective": [
+     "1997-06-01",
+     "1997-07-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1997-10-09-修正"
+   ],
+   "fields": {
+    "effective": [
+     "1997-10-31",
+     "1997-12-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:1998-05-28-修正"
+   ],
+   "fields": {
+    "effective": [
+     "1998-06-19",
+     "1998-07-10"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2001-05-29-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2001-06-27-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2003-06-05-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2005-05-31-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2006-01-13-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2007-11-21-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2007-12-21-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2008-03-07-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2010-04-20-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2010-11-12-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2011-01-10-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2011-09-01",
+     "2011-04-01"
+    ],
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2011-11-08-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2013-12-24-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2014-05-16-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2015-12-14-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2016-12-09-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2023-11-21-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2024-07-15-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01521",
+    "01521:2025-05-09-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01522",
+    "01522:2014-05-30-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2015-01-01",
+     "2014-06-20"
+    ],
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01524",
+    "01524:2023-12-19-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2024-07-01",
+     "2024-01-05"
+    ],
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01525",
+    "01525:2001-05-29-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2001-06-15",
+     "2001-07-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "explicit"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01526",
+    "01526:2005-12-09-制定"
+   ],
+   "fields": {
+    "effective": [
+     "2010-01-01",
+     "2006-01-01"
+    ],
+    "moj_note": [
+     "1.中華民國九十四年十二月二十八日總統華總一義字第 09400212601 號 令制定公布全文 18 條；本條例施行日期除另有規定外，自九十五年一 月一日施行。但第 15 條規定，自九十六年一月一日施行 中華民國九十七年九月十五日行政院院臺財字第 0970038167 號令發布 第 12 條第 1 項第 1 款條文定自九十九年一月一日施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,908人 本月瀏覽人次 12,668,457人 目前使用人次 2,529人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。",
+     "1.中華民國九十四年十二月二十八日總統華總一義字第 09400212601 號 令制定公布全文 18 條；本條例施行日期除另有規定外，自九十五年一 月一日施行。但第 15 條規定，自九十六年一月一日施行 中華民國九十七年九月十五日行政院院臺財字第 0970038167 號令發布 第 12 條第 1 項第 1 款條文定自九十九年一月一日施行"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01526",
+    "01526:2012-07-25-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2012-08-10",
+     "2013-01-01"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "explicit_tax_year"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01526",
+    "01526:2017-04-21-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2000-03-28-制定"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ],
+    "moj_note": [
+     "1.中華民國八十九年四月十九日總統（89）華總一義字第 8900098140 號 令制定公布全文 23 條 中華民國九十年十一月二十九日行政院（90）台財字第 069671 號令發 布自九十一年一月一日施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,964人 本月瀏覽人次 12,668,513人 目前使用人次 2,372人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。",
+     "1.中華民國八十九年四月十九日總統（89）華總一義字第 8900098140 號 令制定公布全文 23 條 中華民國九十年十一月二十九日行政院（90）台財字第 069671 號令發 布自九十一年一月一日施行"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2006-01-03-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2008-04-22-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2008-11-07-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2009-04-28-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order_unnamed"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2009-12-11-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2010-08-19-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2017-04-21-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01622",
+    "01622:2023-01-12-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01655",
+    "01655:2016-12-09-制定"
+   ],
+   "fields": {
+    "effective": [
+     "2016-12-30",
+     "2017-12-28"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "relative_after_promulgation"
+    ],
+    "moj_note": [
+     "1.中華民國一百零五年十二月二十八日總統華總一義字第 10500161471 號令制定公布全文 23 條；並自公布後一年施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,916人 本月瀏覽人次 12,668,465人 目前使用人次 2,537人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。",
+     "1.中華民國一百零五年十二月二十八日總統華總一義字第 10500161471 號令制定公布全文 23 條；並自公布後一年施行"
+    ]
+   }
+  },
+  {
+   "key": [
+    "01655",
+    "01655:2025-05-09-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2025-05-30",
+     "2026-05-28"
+    ],
+    "effective_basis": [
+     "default_§13",
+     "relative_after_promulgation"
+    ]
+   }
+  },
+  {
+   "key": [
+    "07158",
+    "07158:2019-07-03-制定"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "executive_yuan_order"
+    ],
+    "moj_note": [
+     "1.中華民國一百零八年七月二十四日總統華總一經字第 10800075631 號 令制定公布全文 13 條；依第 13 條規定：施行日期，由行政院定之 中華民國一百零八年八月六日行政院院臺財字第 1080025482 號令發布 定自一百零八年八月十五日施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,979人 本月瀏覽人次 12,668,528人 目前使用人次 2,387人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。",
+     "1.中華民國一百零八年七月二十四日總統華總一經字第 10800075631 號 令制定公布全文 13 條；依第 13 條規定：施行日期，由行政院定之 中華民國一百零八年八月六日行政院院臺財字第 1080025482 號令發布 定自一百零八年八月十五日施行"
+    ]
+   }
+  },
+  {
+   "key": [
+    "08128",
+    "08128:2015-12-15-修正"
+   ],
+   "fields": {
+    "effective_basis": [
+     "explicit",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "08128",
+    "08128:2025-04-18-修正"
+   ],
+   "fields": {
+    "effective": [
+     "2025-05-07",
+     "2025-05-09"
+    ],
+    "effective_basis": [
+     "unknown_using_promulgation",
+     "default_§13"
+    ]
+   }
+  },
+  {
+   "key": [
+    "08148",
+    "08148:2011-04-15-制定"
+   ],
+   "fields": {
+    "effective": [
+     "2011-05-04",
+     "2011-06-01"
+    ],
+    "effective_basis": [
+     "unknown_using_promulgation",
+     "executive_yuan_order"
+    ],
+    "moj_note": [
+     "1.中華民國一百年五月四日總統華總一義字第 10000085291 號令制定公 布全文 26 條；依第 26 條規定：施行日期，由行政院定之 中華民國一百年五月十九日行政院院臺財字第 1000025165 號令定自一 百年六月一日施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,966人 本月瀏覽人次 12,668,515人 目前使用人次 2,374人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。",
+     "1.中華民國一百年五月四日總統華總一義字第 10000085291 號令制定公 布全文 26 條；依第 26 條規定：施行日期，由行政院定之 中華民國一百年五月十九日行政院院臺財字第 1000025165 號令定自一 百年六月一日施行"
+    ]
+   }
+  }
+ ],
+ "article_version_rows": [
+  3662,
+  3662
+ ],
+ "article_version_non_deleted": [
+  3555,
+  3555
+ ],
+ "ids_identical": true,
+ "identity_mismatch_ids": [],
+ "article_versions_changed": 535,
+ "article_versions_changed_non_deleted": 535,
+ "article_versions_valid_from_changed_non_deleted": 211,
+ "changed_columns_count": {
+  "valid_from": 211,
+  "valid_to": 107,
+  "from_basis": 438,
+  "retro": 6,
+  "overtaken": 0,
+  "pending": 3
+ },
+ "changed": [
+  {
+   "id": 599,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:1963-01-15-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1993-01-01",
+    "1993-02-07"
+   ]
+  },
+  {
+   "id": 602,
+   "law_id": "01513",
+   "article_no": "第十七條",
+   "first_ly_version": "01513:1993-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 621,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:1993-01-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1993-01-01",
+    "1993-02-07"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ],
+   "retro": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": 622,
+   "law_id": "01513",
+   "article_no": "第五十六條",
+   "first_ly_version": "01513:1963-01-15-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2001-06-15",
+    "2001-07-01"
+   ]
+  },
+  {
+   "id": 623,
+   "law_id": "01513",
+   "article_no": "第一百二十三條",
+   "first_ly_version": "01513:1980-12-26-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2001-06-15",
+    "2001-07-01"
+   ]
+  },
+  {
+   "id": 624,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2000-12-28-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2001-06-15",
+    "2001-07-01"
+   ]
+  },
+  {
+   "id": 636,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 653,
+   "law_id": "01513",
+   "article_no": "第一百二十三條",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 659,
+   "law_id": "01513",
+   "article_no": "第三十三條",
+   "first_ly_version": "01513:1985-12-24-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2008-01-01",
+    "2008-01-04"
+   ]
+  },
+  {
+   "id": 660,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2005-12-06-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2008-01-01",
+    "2008-01-04"
+   ]
+  },
+  {
+   "id": 661,
+   "law_id": "01513",
+   "article_no": "第五條之一",
+   "first_ly_version": "01513:1993-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 663,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2007-12-14-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2008-01-01",
+    "2008-01-04"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ],
+   "retro": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": 674,
+   "law_id": "01513",
+   "article_no": "第八十九條之一",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 700,
+   "law_id": "01513",
+   "article_no": "第一百十一條之一",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 707,
+   "law_id": "01513",
+   "article_no": "第十七條",
+   "first_ly_version": "01513:2008-12-12-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 708,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2010-05-28-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2012-01-01",
+    "2011-01-21"
+   ]
+  },
+  {
+   "id": 709,
+   "law_id": "01513",
+   "article_no": "第三條之四",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 718,
+   "law_id": "01513",
+   "article_no": "第九十二條之一",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 723,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2011-01-07-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2012-01-01",
+    "2011-01-21"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 741,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2013-12-24-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 761,
+   "law_id": "01513",
+   "article_no": "第六十六條之四",
+   "first_ly_version": "01513:2014-05-16-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 763,
+   "law_id": "01513",
+   "article_no": "第六十六條之六",
+   "first_ly_version": "01513:2014-05-16-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 768,
+   "law_id": "01513",
+   "article_no": "第七十三條之二",
+   "first_ly_version": "01513:2014-05-16-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 778,
+   "law_id": "01513",
+   "article_no": "第一百零二條之一",
+   "first_ly_version": "01513:2013-12-24-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 785,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2016-07-12-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order_unnamed"
+   ]
+  },
+  {
+   "id": 801,
+   "law_id": "01513",
+   "article_no": "第九十四條之一",
+   "first_ly_version": "01513:2013-12-24-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 809,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 814,
+   "law_id": "01513",
+   "article_no": "第五條",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 842,
+   "law_id": "01513",
+   "article_no": "第三十三條",
+   "first_ly_version": "01513:2007-12-14-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2008-01-01",
+    "2008-01-04"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ],
+   "retro": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": 865,
+   "law_id": "01513",
+   "article_no": "第五十六條",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 880,
+   "law_id": "01513",
+   "article_no": "第七十一條",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 884,
+   "law_id": "01513",
+   "article_no": "第七十五條",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 888,
+   "law_id": "01513",
+   "article_no": "第七十九條",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 897,
+   "law_id": "01513",
+   "article_no": "第八十八條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 898,
+   "law_id": "01513",
+   "article_no": "第八十九條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 901,
+   "law_id": "01513",
+   "article_no": "第九十二條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 917,
+   "law_id": "01513",
+   "article_no": "第一百零八條",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 919,
+   "law_id": "01513",
+   "article_no": "第一百十條",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 920,
+   "law_id": "01513",
+   "article_no": "第一百十一條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 921,
+   "law_id": "01513",
+   "article_no": "第一百十二條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 923,
+   "law_id": "01513",
+   "article_no": "第一百十四條",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 963,
+   "law_id": "01513",
+   "article_no": "第六十六條之九",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_tax_year",
+    "article_explicit_tax_year"
+   ]
+  },
+  {
+   "id": 964,
+   "law_id": "01513",
+   "article_no": "第七十三條之二",
+   "first_ly_version": "01513:2018-01-18-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 973,
+   "law_id": "01513",
+   "article_no": "第一百十四條之三",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 976,
+   "law_id": "01513",
+   "article_no": "第三條之二",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 977,
+   "law_id": "01513",
+   "article_no": "第三條之三",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 979,
+   "law_id": "01513",
+   "article_no": "第四條之三",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 980,
+   "law_id": "01513",
+   "article_no": "第六條之一",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 981,
+   "law_id": "01513",
+   "article_no": "第六條之二",
+   "first_ly_version": "01513:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 993,
+   "law_id": "01513",
+   "article_no": "第九十四條之一",
+   "first_ly_version": "01513:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1004,
+   "law_id": "01513",
+   "article_no": "第十七條之四",
+   "first_ly_version": "01513:2016-07-12-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1005,
+   "law_id": "01513",
+   "article_no": "第四十三條之三",
+   "first_ly_version": "01513:2016-07-12-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2016-08-01",
+    "2023-01-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1006,
+   "law_id": "01513",
+   "article_no": "第四十三條之四",
+   "first_ly_version": "01513:2016-07-12-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2016-08-01",
+    "9999-12-31"
+   ],
+   "valid_to": [
+    null,
+    "9999-12-31"
+   ],
+   "from_basis": [
+    "explicit",
+    "pending_executive_yuan"
+   ],
+   "pending": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": 1008,
+   "law_id": "01526",
+   "article_no": "第三條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1009,
+   "law_id": "01526",
+   "article_no": "第五條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1010,
+   "law_id": "01526",
+   "article_no": "第七條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1011,
+   "law_id": "01526",
+   "article_no": "第八條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1012,
+   "law_id": "01526",
+   "article_no": "第十條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1013,
+   "law_id": "01526",
+   "article_no": "第十二條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1014,
+   "law_id": "01526",
+   "article_no": "第十八條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1016,
+   "law_id": "01526",
+   "article_no": "第十三條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1017,
+   "law_id": "01526",
+   "article_no": "第十四條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1020,
+   "law_id": "01526",
+   "article_no": "第十八條",
+   "first_ly_version": "01526:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1021,
+   "law_id": "01526",
+   "article_no": "第一條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1022,
+   "law_id": "01526",
+   "article_no": "第二條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1023,
+   "law_id": "01526",
+   "article_no": "第三條",
+   "first_ly_version": "01526:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1024,
+   "law_id": "01526",
+   "article_no": "第四條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1026,
+   "law_id": "01526",
+   "article_no": "第六條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1029,
+   "law_id": "01526",
+   "article_no": "第九條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1031,
+   "law_id": "01526",
+   "article_no": "第十一條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1032,
+   "law_id": "01526",
+   "article_no": "第十二條",
+   "first_ly_version": "01526:2020-12-30-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 1033,
+   "law_id": "01526",
+   "article_no": "第十三條",
+   "first_ly_version": "01526:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1034,
+   "law_id": "01526",
+   "article_no": "第十四條",
+   "first_ly_version": "01526:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1035,
+   "law_id": "01526",
+   "article_no": "第十五條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2007-01-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 1036,
+   "law_id": "01526",
+   "article_no": "第十六條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1037,
+   "law_id": "01526",
+   "article_no": "第十七條",
+   "first_ly_version": "01526:2005-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2006-01-01"
+   ]
+  },
+  {
+   "id": 1040,
+   "law_id": "01526",
+   "article_no": "第十二條之一",
+   "first_ly_version": "01526:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1315,
+   "law_id": "01521",
+   "article_no": "第七條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1316,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1317,
+   "law_id": "01521",
+   "article_no": "第九條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1318,
+   "law_id": "01521",
+   "article_no": "第十三條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1319,
+   "law_id": "01521",
+   "article_no": "第十五條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1320,
+   "law_id": "01521",
+   "article_no": "第二十三條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1321,
+   "law_id": "01521",
+   "article_no": "第二十四條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1322,
+   "law_id": "01521",
+   "article_no": "第二十六條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1323,
+   "law_id": "01521",
+   "article_no": "第二十九條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1324,
+   "law_id": "01521",
+   "article_no": "第三十二條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1325,
+   "law_id": "01521",
+   "article_no": "第三十五條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1326,
+   "law_id": "01521",
+   "article_no": "第三十六條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1327,
+   "law_id": "01521",
+   "article_no": "第四十六條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1328,
+   "law_id": "01521",
+   "article_no": "第五十六條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1329,
+   "law_id": "01521",
+   "article_no": "第五十八條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1330,
+   "law_id": "01521",
+   "article_no": "第六十條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1331,
+   "law_id": "01521",
+   "article_no": "第五十四條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1332,
+   "law_id": "01521",
+   "article_no": "第五十五條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1333,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1334,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:1994-12-29-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1995-08-04",
+    "1995-09-01"
+   ]
+  },
+  {
+   "id": 1335,
+   "law_id": "01521",
+   "article_no": "第五十一條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1995-08-04",
+    "1995-09-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1336,
+   "law_id": "01521",
+   "article_no": "第十六條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1337,
+   "law_id": "01521",
+   "article_no": "第二十條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1338,
+   "law_id": "01521",
+   "article_no": "第五十二條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1997-06-01",
+    "1997-07-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1339,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:1995-07-12-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1995-08-04",
+    "1995-09-01"
+   ],
+   "valid_to": [
+    "1997-10-31",
+    "1997-12-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1340,
+   "law_id": "01521",
+   "article_no": "第十一條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1999-06-30",
+    "1999-07-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1341,
+   "law_id": "01521",
+   "article_no": "第二十一條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1999-06-30",
+    "1999-07-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1342,
+   "law_id": "01521",
+   "article_no": "第六十條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1343,
+   "law_id": "01521",
+   "article_no": "第一條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1344,
+   "law_id": "01521",
+   "article_no": "第十一條",
+   "first_ly_version": "01521:1999-06-22-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1999-06-30",
+    "1999-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 1345,
+   "law_id": "01521",
+   "article_no": "第四十一條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1346,
+   "law_id": "01521",
+   "article_no": "第四十九條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1348,
+   "law_id": "01521",
+   "article_no": "第十一條",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1349,
+   "law_id": "01521",
+   "article_no": "第八條之二",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1350,
+   "law_id": "01521",
+   "article_no": "第十一條",
+   "first_ly_version": "01521:2003-06-05-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1351,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:1997-10-09-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1997-10-31",
+    "1997-12-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1352,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:2006-01-13-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1353,
+   "law_id": "01521",
+   "article_no": "第九條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1354,
+   "law_id": "01521",
+   "article_no": "第五十一條",
+   "first_ly_version": "01521:1995-07-12-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1995-08-04",
+    "1995-09-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1355,
+   "law_id": "01521",
+   "article_no": "第二條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1356,
+   "law_id": "01521",
+   "article_no": "第五條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1357,
+   "law_id": "01521",
+   "article_no": "第七條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1358,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:2007-12-21-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1359,
+   "law_id": "01521",
+   "article_no": "第九條",
+   "first_ly_version": "01521:2007-12-21-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1360,
+   "law_id": "01521",
+   "article_no": "第十三條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1361,
+   "law_id": "01521",
+   "article_no": "第十六條",
+   "first_ly_version": "01521:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1362,
+   "law_id": "01521",
+   "article_no": "第二十條",
+   "first_ly_version": "01521:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1363,
+   "law_id": "01521",
+   "article_no": "第二十三條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1364,
+   "law_id": "01521",
+   "article_no": "第二十八條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1365,
+   "law_id": "01521",
+   "article_no": "第三十條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1366,
+   "law_id": "01521",
+   "article_no": "第三十二條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1367,
+   "law_id": "01521",
+   "article_no": "第三十六條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1368,
+   "law_id": "01521",
+   "article_no": "第五十一條",
+   "first_ly_version": "01521:2010-11-12-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1369,
+   "law_id": "01521",
+   "article_no": "第十二條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1370,
+   "law_id": "01521",
+   "article_no": "第十一條",
+   "first_ly_version": "01521:2005-05-31-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1371,
+   "law_id": "01521",
+   "article_no": "第三十六條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1372,
+   "law_id": "01521",
+   "article_no": "第三十二條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1373,
+   "law_id": "01521",
+   "article_no": "第四十五條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1374,
+   "law_id": "01521",
+   "article_no": "第四十六條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1375,
+   "law_id": "01521",
+   "article_no": "第四十七條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1376,
+   "law_id": "01521",
+   "article_no": "第四十八條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1377,
+   "law_id": "01521",
+   "article_no": "第四十九條",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1378,
+   "law_id": "01521",
+   "article_no": "第五十二條",
+   "first_ly_version": "01521:1997-05-16-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1997-06-01",
+    "1997-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1379,
+   "law_id": "01521",
+   "article_no": "第六條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1380,
+   "law_id": "01521",
+   "article_no": "第二十八條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1381,
+   "law_id": "01521",
+   "article_no": "第二十九條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1382,
+   "law_id": "01521",
+   "article_no": "第三十條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1383,
+   "law_id": "01521",
+   "article_no": "第三十條之一",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1384,
+   "law_id": "01521",
+   "article_no": "第三十六條",
+   "first_ly_version": "01521:2014-05-16-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1385,
+   "law_id": "01521",
+   "article_no": "第四十三條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1386,
+   "law_id": "01521",
+   "article_no": "第四十五條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1387,
+   "law_id": "01521",
+   "article_no": "第五十一條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1388,
+   "law_id": "01521",
+   "article_no": "第五十條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1389,
+   "law_id": "01521",
+   "article_no": "第六十條",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1390,
+   "law_id": "01521",
+   "article_no": "第二條之一",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1391,
+   "law_id": "01521",
+   "article_no": "第六條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1392,
+   "law_id": "01521",
+   "article_no": "第六條之一",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1393,
+   "law_id": "01521",
+   "article_no": "第三十二條之一",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1395,
+   "law_id": "01521",
+   "article_no": "第五十八條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1396,
+   "law_id": "01521",
+   "article_no": "第一條",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1397,
+   "law_id": "01521",
+   "article_no": "第二條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1398,
+   "law_id": "01521",
+   "article_no": "第三條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1399,
+   "law_id": "01521",
+   "article_no": "第四條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1400,
+   "law_id": "01521",
+   "article_no": "第五條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1401,
+   "law_id": "01521",
+   "article_no": "第六條",
+   "first_ly_version": "01521:2023-11-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1402,
+   "law_id": "01521",
+   "article_no": "第七條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1403,
+   "law_id": "01521",
+   "article_no": "第八條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1404,
+   "law_id": "01521",
+   "article_no": "第九條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1405,
+   "law_id": "01521",
+   "article_no": "第十條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1406,
+   "law_id": "01521",
+   "article_no": "第十一條",
+   "first_ly_version": "01521:2014-05-16-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1407,
+   "law_id": "01521",
+   "article_no": "第十二條",
+   "first_ly_version": "01521:2013-12-24-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1408,
+   "law_id": "01521",
+   "article_no": "第十三條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1409,
+   "law_id": "01521",
+   "article_no": "第十四條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1410,
+   "law_id": "01521",
+   "article_no": "第十五條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1411,
+   "law_id": "01521",
+   "article_no": "第十六條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1412,
+   "law_id": "01521",
+   "article_no": "第十七條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1413,
+   "law_id": "01521",
+   "article_no": "第十八條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1414,
+   "law_id": "01521",
+   "article_no": "第十九條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1415,
+   "law_id": "01521",
+   "article_no": "第二十條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1416,
+   "law_id": "01521",
+   "article_no": "第二十一條",
+   "first_ly_version": "01521:1999-06-22-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1999-06-30",
+    "1999-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 1417,
+   "law_id": "01521",
+   "article_no": "第二十二條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1418,
+   "law_id": "01521",
+   "article_no": "第二十三條",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1419,
+   "law_id": "01521",
+   "article_no": "第二十四條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1420,
+   "law_id": "01521",
+   "article_no": "第二十五條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1421,
+   "law_id": "01521",
+   "article_no": "第二十六條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1422,
+   "law_id": "01521",
+   "article_no": "第二十七條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1423,
+   "law_id": "01521",
+   "article_no": "第二十八條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1424,
+   "law_id": "01521",
+   "article_no": "第二十九條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1425,
+   "law_id": "01521",
+   "article_no": "第三十條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1426,
+   "law_id": "01521",
+   "article_no": "第三十一條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1427,
+   "law_id": "01521",
+   "article_no": "第三十二條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1428,
+   "law_id": "01521",
+   "article_no": "第三十三條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1429,
+   "law_id": "01521",
+   "article_no": "第三十四條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1430,
+   "law_id": "01521",
+   "article_no": "第三十五條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1431,
+   "law_id": "01521",
+   "article_no": "第三十六條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1432,
+   "law_id": "01521",
+   "article_no": "第三十七條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1433,
+   "law_id": "01521",
+   "article_no": "第三十八條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1434,
+   "law_id": "01521",
+   "article_no": "第三十九條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1435,
+   "law_id": "01521",
+   "article_no": "第四十條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1436,
+   "law_id": "01521",
+   "article_no": "第四十一條",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1437,
+   "law_id": "01521",
+   "article_no": "第四十二條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1438,
+   "law_id": "01521",
+   "article_no": "第四十三條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1439,
+   "law_id": "01521",
+   "article_no": "第四十四條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1440,
+   "law_id": "01521",
+   "article_no": "第四十五條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1441,
+   "law_id": "01521",
+   "article_no": "第四十六條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1442,
+   "law_id": "01521",
+   "article_no": "第四十七條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1443,
+   "law_id": "01521",
+   "article_no": "第四十八條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1444,
+   "law_id": "01521",
+   "article_no": "第四十九條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1445,
+   "law_id": "01521",
+   "article_no": "第五十條",
+   "first_ly_version": "01521:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1446,
+   "law_id": "01521",
+   "article_no": "第五十一條",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1447,
+   "law_id": "01521",
+   "article_no": "第五十二條",
+   "first_ly_version": "01521:2015-12-14-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1448,
+   "law_id": "01521",
+   "article_no": "第五十三條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1451,
+   "law_id": "01521",
+   "article_no": "第五十六條",
+   "first_ly_version": "01521:1988-05-10-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1452,
+   "law_id": "01521",
+   "article_no": "第五十七條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1453,
+   "law_id": "01521",
+   "article_no": "第五十八條",
+   "first_ly_version": "01521:2025-05-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1454,
+   "law_id": "01521",
+   "article_no": "第五十九條",
+   "first_ly_version": "01521:1985-11-05-全文修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1456,
+   "law_id": "01521",
+   "article_no": "第五十三條之一",
+   "first_ly_version": "01521:1998-05-28-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1998-06-19",
+    "1998-07-10"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1457,
+   "law_id": "01521",
+   "article_no": "第三條之一",
+   "first_ly_version": "01521:2001-05-29-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1458,
+   "law_id": "01521",
+   "article_no": "第八條之一",
+   "first_ly_version": "01521:2001-05-29-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1459,
+   "law_id": "01521",
+   "article_no": "第一條之一",
+   "first_ly_version": "01521:2001-06-27-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1460,
+   "law_id": "01521",
+   "article_no": "第八條之二",
+   "first_ly_version": "01521:2005-05-31-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1461,
+   "law_id": "01521",
+   "article_no": "第十五條之一",
+   "first_ly_version": "01521:2007-11-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1462,
+   "law_id": "01521",
+   "article_no": "第九條之一",
+   "first_ly_version": "01521:2008-03-07-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1463,
+   "law_id": "01521",
+   "article_no": "第七條之一",
+   "first_ly_version": "01521:2010-04-20-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1464,
+   "law_id": "01521",
+   "article_no": "第三條之二",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1465,
+   "law_id": "01521",
+   "article_no": "第六條之一",
+   "first_ly_version": "01521:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1466,
+   "law_id": "01521",
+   "article_no": "第八條之三",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1467,
+   "law_id": "01521",
+   "article_no": "第三十條之一",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1468,
+   "law_id": "01521",
+   "article_no": "第四十二條之一",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1469,
+   "law_id": "01521",
+   "article_no": "第四十八條之一",
+   "first_ly_version": "01521:2011-01-10-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-09-01",
+    "2011-04-01"
+   ],
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1470,
+   "law_id": "01521",
+   "article_no": "第三十六條之一",
+   "first_ly_version": "01521:2011-11-08-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1471,
+   "law_id": "01521",
+   "article_no": "第三十二條之一",
+   "first_ly_version": "01521:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1472,
+   "law_id": "01521",
+   "article_no": "第二條之一",
+   "first_ly_version": "01521:2023-11-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1473,
+   "law_id": "01521",
+   "article_no": "第二十八條之一",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1474,
+   "law_id": "01521",
+   "article_no": "第四十九條之一",
+   "first_ly_version": "01521:2016-12-09-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1475,
+   "law_id": "01521",
+   "article_no": "第四十八條之二",
+   "first_ly_version": "01521:2024-07-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1509,
+   "law_id": "01512",
+   "article_no": "第十九條",
+   "first_ly_version": "01512:1976-10-12-制定",
+   "deleted": 0,
+   "valid_to": [
+    "2011-05-13",
+    "2011-07-01"
+   ]
+  },
+  {
+   "id": 1510,
+   "law_id": "01512",
+   "article_no": "第三十五條",
+   "first_ly_version": "01512:1990-01-16-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2011-05-13",
+    "2011-07-01"
+   ]
+  },
+  {
+   "id": 1511,
+   "law_id": "01512",
+   "article_no": "第五十一條",
+   "first_ly_version": "01512:1976-10-12-制定",
+   "deleted": 0,
+   "valid_to": [
+    "2011-05-13",
+    "2011-07-01"
+   ]
+  },
+  {
+   "id": 1541,
+   "law_id": "01512",
+   "article_no": "第六條",
+   "first_ly_version": "01512:2011-11-08-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1542,
+   "law_id": "01512",
+   "article_no": "第十二條之一",
+   "first_ly_version": "01512:2013-05-14-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1543,
+   "law_id": "01512",
+   "article_no": "第十九條",
+   "first_ly_version": "01512:2011-04-26-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-13",
+    "2011-07-01"
+   ],
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1545,
+   "law_id": "01512",
+   "article_no": "第二十一條",
+   "first_ly_version": "01512:1976-10-12-制定",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1546,
+   "law_id": "01512",
+   "article_no": "第二十二條",
+   "first_ly_version": "01512:1976-10-12-制定",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1547,
+   "law_id": "01512",
+   "article_no": "第二十三條",
+   "first_ly_version": "01512:2016-12-30-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1548,
+   "law_id": "01512",
+   "article_no": "第二十四條",
+   "first_ly_version": "01512:2018-11-20-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1549,
+   "law_id": "01512",
+   "article_no": "第二十八條",
+   "first_ly_version": "01512:2009-01-06-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1550,
+   "law_id": "01512",
+   "article_no": "第三十條",
+   "first_ly_version": "01512:2014-05-20-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1551,
+   "law_id": "01512",
+   "article_no": "第三十四條",
+   "first_ly_version": "01512:1990-01-16-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1552,
+   "law_id": "01512",
+   "article_no": "第三十五條",
+   "first_ly_version": "01512:2011-04-26-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-13",
+    "2011-07-01"
+   ],
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1553,
+   "law_id": "01512",
+   "article_no": "第三十九條",
+   "first_ly_version": "01512:2013-05-14-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1554,
+   "law_id": "01512",
+   "article_no": "第四十一條",
+   "first_ly_version": "01512:1990-01-16-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1555,
+   "law_id": "01512",
+   "article_no": "第四十三條",
+   "first_ly_version": "01512:2014-05-20-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1556,
+   "law_id": "01512",
+   "article_no": "第四十四條",
+   "first_ly_version": "01512:2009-12-15-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1557,
+   "law_id": "01512",
+   "article_no": "第四十七條",
+   "first_ly_version": "01512:2011-12-14-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1558,
+   "law_id": "01512",
+   "article_no": "第四十八條之一",
+   "first_ly_version": "01512:2014-05-20-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1559,
+   "law_id": "01512",
+   "article_no": "第四十八條之二",
+   "first_ly_version": "01512:1992-10-30-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1560,
+   "law_id": "01512",
+   "article_no": "第四十九條",
+   "first_ly_version": "01512:1976-10-12-制定",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1561,
+   "law_id": "01512",
+   "article_no": "第五十條之一",
+   "first_ly_version": "01512:1990-01-16-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1562,
+   "law_id": "01512",
+   "article_no": "第五十條之三",
+   "first_ly_version": "01512:1992-10-30-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1563,
+   "law_id": "01512",
+   "article_no": "第五十條之四",
+   "first_ly_version": "01512:1992-10-30-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1564,
+   "law_id": "01512",
+   "article_no": "第五十條之五",
+   "first_ly_version": "01512:1992-10-30-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ]
+  },
+  {
+   "id": 1565,
+   "law_id": "01512",
+   "article_no": "第五十一條",
+   "first_ly_version": "01512:2011-04-26-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-13",
+    "2011-07-01"
+   ],
+   "valid_to": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1571,
+   "law_id": "01512",
+   "article_no": "第六條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1584,
+   "law_id": "01512",
+   "article_no": "第十九條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1585,
+   "law_id": "01512",
+   "article_no": "第二十條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 1586,
+   "law_id": "01512",
+   "article_no": "第二十一條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1587,
+   "law_id": "01512",
+   "article_no": "第二十二條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1588,
+   "law_id": "01512",
+   "article_no": "第二十三條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1589,
+   "law_id": "01512",
+   "article_no": "第二十四條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1593,
+   "law_id": "01512",
+   "article_no": "第二十八條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1595,
+   "law_id": "01512",
+   "article_no": "第三十條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1599,
+   "law_id": "01512",
+   "article_no": "第三十四條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1600,
+   "law_id": "01512",
+   "article_no": "第三十五條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1604,
+   "law_id": "01512",
+   "article_no": "第三十九條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1606,
+   "law_id": "01512",
+   "article_no": "第四十一條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1608,
+   "law_id": "01512",
+   "article_no": "第四十三條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1609,
+   "law_id": "01512",
+   "article_no": "第四十四條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1612,
+   "law_id": "01512",
+   "article_no": "第四十七條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1614,
+   "law_id": "01512",
+   "article_no": "第四十九條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1616,
+   "law_id": "01512",
+   "article_no": "第五十一條",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1617,
+   "law_id": "01512",
+   "article_no": "第四十八條之一",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1620,
+   "law_id": "01512",
+   "article_no": "第五十條之一",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1621,
+   "law_id": "01512",
+   "article_no": "第四十八條之二",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1623,
+   "law_id": "01512",
+   "article_no": "第五十條之三",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1624,
+   "law_id": "01512",
+   "article_no": "第五十條之四",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1625,
+   "law_id": "01512",
+   "article_no": "第五十條之五",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1629,
+   "law_id": "01512",
+   "article_no": "第十二條之一",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1638,
+   "law_id": "01512",
+   "article_no": "第二十六條之一",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1639,
+   "law_id": "01512",
+   "article_no": "第四十九條之一",
+   "first_ly_version": "01512:2021-11-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2022-01-01",
+    "2021-12-19"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 1640,
+   "law_id": "01655",
+   "article_no": "第四條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "valid_to": [
+    "2025-05-30",
+    "2026-05-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1641,
+   "law_id": "01655",
+   "article_no": "第六條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "valid_to": [
+    "2025-05-30",
+    "2026-05-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1642,
+   "law_id": "01655",
+   "article_no": "第二十條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "valid_to": [
+    "2025-05-30",
+    "2026-05-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1643,
+   "law_id": "01655",
+   "article_no": "第一條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1644,
+   "law_id": "01655",
+   "article_no": "第二條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1645,
+   "law_id": "01655",
+   "article_no": "第三條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1646,
+   "law_id": "01655",
+   "article_no": "第四條",
+   "first_ly_version": "01655:2025-05-09-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-30",
+    "2026-05-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1647,
+   "law_id": "01655",
+   "article_no": "第五條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1648,
+   "law_id": "01655",
+   "article_no": "第六條",
+   "first_ly_version": "01655:2025-05-09-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-30",
+    "2026-05-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1649,
+   "law_id": "01655",
+   "article_no": "第七條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1650,
+   "law_id": "01655",
+   "article_no": "第八條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1651,
+   "law_id": "01655",
+   "article_no": "第九條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1652,
+   "law_id": "01655",
+   "article_no": "第十條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1653,
+   "law_id": "01655",
+   "article_no": "第十一條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1654,
+   "law_id": "01655",
+   "article_no": "第十二條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1655,
+   "law_id": "01655",
+   "article_no": "第十三條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1656,
+   "law_id": "01655",
+   "article_no": "第十四條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1657,
+   "law_id": "01655",
+   "article_no": "第十五條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1658,
+   "law_id": "01655",
+   "article_no": "第十六條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1659,
+   "law_id": "01655",
+   "article_no": "第十七條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1660,
+   "law_id": "01655",
+   "article_no": "第十八條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1661,
+   "law_id": "01655",
+   "article_no": "第十九條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1662,
+   "law_id": "01655",
+   "article_no": "第二十條",
+   "first_ly_version": "01655:2025-05-09-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-30",
+    "2026-05-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1663,
+   "law_id": "01655",
+   "article_no": "第二十一條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1664,
+   "law_id": "01655",
+   "article_no": "第二十二條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 1665,
+   "law_id": "01655",
+   "article_no": "第二十三條",
+   "first_ly_version": "01655:2016-12-09-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2016-12-30",
+    "2017-12-28"
+   ],
+   "from_basis": [
+    "default_§13",
+    "relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 2064,
+   "law_id": "01524",
+   "article_no": "第九條",
+   "first_ly_version": "01524:1967-03-28-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2024-07-01",
+    "2024-01-05"
+   ]
+  },
+  {
+   "id": 2065,
+   "law_id": "01524",
+   "article_no": "第十一條",
+   "first_ly_version": "01524:2001-05-29-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2024-07-01",
+    "2024-01-05"
+   ]
+  },
+  {
+   "id": 2068,
+   "law_id": "01524",
+   "article_no": "第十八條",
+   "first_ly_version": "01524:1992-07-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2024-07-01",
+    "2024-01-05"
+   ]
+  },
+  {
+   "id": 2069,
+   "law_id": "01524",
+   "article_no": "第二十四條",
+   "first_ly_version": "01524:2001-05-29-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2024-07-01",
+    "2024-01-05"
+   ]
+  },
+  {
+   "id": 2070,
+   "law_id": "01524",
+   "article_no": "第二十五條",
+   "first_ly_version": "01524:2001-05-29-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2024-07-01",
+    "2024-01-05"
+   ]
+  },
+  {
+   "id": 2074,
+   "law_id": "01524",
+   "article_no": "第四條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2075,
+   "law_id": "01524",
+   "article_no": "第五條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2076,
+   "law_id": "01524",
+   "article_no": "第六條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2077,
+   "law_id": "01524",
+   "article_no": "第七條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2079,
+   "law_id": "01524",
+   "article_no": "第九條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2024-07-01",
+    "2024-01-05"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2081,
+   "law_id": "01524",
+   "article_no": "第十一條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2024-07-01",
+    "2024-01-05"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2082,
+   "law_id": "01524",
+   "article_no": "第十二條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2085,
+   "law_id": "01524",
+   "article_no": "第十五條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2088,
+   "law_id": "01524",
+   "article_no": "第十八條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2024-07-01",
+    "2024-01-05"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2094,
+   "law_id": "01524",
+   "article_no": "第二十四條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2024-07-01",
+    "2024-01-05"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2095,
+   "law_id": "01524",
+   "article_no": "第二十五條",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2024-07-01",
+    "2024-01-05"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2096,
+   "law_id": "01524",
+   "article_no": "第六條之一",
+   "first_ly_version": "01524:2023-12-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2145,
+   "law_id": "01525",
+   "article_no": "第三十三條",
+   "first_ly_version": "01525:1967-12-29-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2001-06-15",
+    "2001-07-01"
+   ]
+  },
+  {
+   "id": 2182,
+   "law_id": "01525",
+   "article_no": "第三十三條",
+   "first_ly_version": "01525:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 2183,
+   "law_id": "01525",
+   "article_no": "第七條之一",
+   "first_ly_version": "01525:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 2184,
+   "law_id": "01525",
+   "article_no": "第十四條之一",
+   "first_ly_version": "01525:2001-05-29-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2001-06-15",
+    "2001-07-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "explicit"
+   ]
+  },
+  {
+   "id": 2336,
+   "law_id": "01516",
+   "article_no": "第五條",
+   "first_ly_version": "01516:1984-04-06-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1986-01-19",
+    "1986-04-01"
+   ]
+  },
+  {
+   "id": 2337,
+   "law_id": "01516",
+   "article_no": "第七條",
+   "first_ly_version": "01516:1984-04-06-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1986-01-19",
+    "1986-04-01"
+   ]
+  },
+  {
+   "id": 2338,
+   "law_id": "01516",
+   "article_no": "第十九條",
+   "first_ly_version": "01516:1978-06-23-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1986-01-19",
+    "1986-04-01"
+   ]
+  },
+  {
+   "id": 2339,
+   "law_id": "01516",
+   "article_no": "第三十一條",
+   "first_ly_version": "01516:1978-06-23-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1986-01-19",
+    "1986-04-01"
+   ]
+  },
+  {
+   "id": 2347,
+   "law_id": "01516",
+   "article_no": "第五條",
+   "first_ly_version": "01516:1986-01-07-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1986-01-19",
+    "1986-04-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2349,
+   "law_id": "01516",
+   "article_no": "第七條",
+   "first_ly_version": "01516:1986-01-07-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1986-01-19",
+    "1986-04-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2361,
+   "law_id": "01516",
+   "article_no": "第十九條",
+   "first_ly_version": "01516:1986-01-07-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1986-01-19",
+    "1986-04-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2373,
+   "law_id": "01516",
+   "article_no": "第三十一條",
+   "first_ly_version": "01516:1986-01-07-修正",
+   "deleted": 0,
+   "valid_from": [
+    "1986-01-19",
+    "1986-04-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2489,
+   "law_id": "01522",
+   "article_no": "第四條",
+   "first_ly_version": "01522:2001-01-04-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2015-01-01",
+    "2014-06-20"
+   ]
+  },
+  {
+   "id": 2491,
+   "law_id": "01522",
+   "article_no": "第二十八條",
+   "first_ly_version": "01522:2003-12-16-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2015-01-01",
+    "2014-06-20"
+   ]
+  },
+  {
+   "id": 2492,
+   "law_id": "01522",
+   "article_no": "第三十八條",
+   "first_ly_version": "01522:1962-01-26-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "2015-01-01",
+    "2014-06-20"
+   ]
+  },
+  {
+   "id": 2496,
+   "law_id": "01522",
+   "article_no": "第七條",
+   "first_ly_version": "01522:2014-05-30-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 2499,
+   "law_id": "01522",
+   "article_no": "第三十八條",
+   "first_ly_version": "01522:2014-05-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2015-01-01",
+    "2014-06-20"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2511,
+   "law_id": "01522",
+   "article_no": "第四條",
+   "first_ly_version": "01522:2014-05-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2015-01-01",
+    "2014-06-20"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2535,
+   "law_id": "01522",
+   "article_no": "第二十八條",
+   "first_ly_version": "01522:2014-05-30-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2015-01-01",
+    "2014-06-20"
+   ],
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 2687,
+   "law_id": "01517",
+   "article_no": "第一條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2688,
+   "law_id": "01517",
+   "article_no": "第二條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2689,
+   "law_id": "01517",
+   "article_no": "第三條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2690,
+   "law_id": "01517",
+   "article_no": "第四條",
+   "first_ly_version": "01517:1986-01-14-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2691,
+   "law_id": "01517",
+   "article_no": "第五條",
+   "first_ly_version": "01517:1986-01-14-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2692,
+   "law_id": "01517",
+   "article_no": "第六條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2693,
+   "law_id": "01517",
+   "article_no": "第七條",
+   "first_ly_version": "01517:1962-08-14-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2694,
+   "law_id": "01517",
+   "article_no": "第八條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2695,
+   "law_id": "01517",
+   "article_no": "第九條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2696,
+   "law_id": "01517",
+   "article_no": "第十條",
+   "first_ly_version": "01517:1962-08-14-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2697,
+   "law_id": "01517",
+   "article_no": "第十一條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2698,
+   "law_id": "01517",
+   "article_no": "第十二條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-01-26"
+   ]
+  },
+  {
+   "id": 2699,
+   "law_id": "01517",
+   "article_no": "第十三條",
+   "first_ly_version": "01517:1962-08-14-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2700,
+   "law_id": "01517",
+   "article_no": "第十四條",
+   "first_ly_version": "01517:1972-07-25-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2701,
+   "law_id": "01517",
+   "article_no": "第十五條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2702,
+   "law_id": "01517",
+   "article_no": "第十六條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2703,
+   "law_id": "01517",
+   "article_no": "第十七條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2704,
+   "law_id": "01517",
+   "article_no": "第十八條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2705,
+   "law_id": "01517",
+   "article_no": "第十九條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2706,
+   "law_id": "01517",
+   "article_no": "第二十條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2707,
+   "law_id": "01517",
+   "article_no": "第二十一條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2708,
+   "law_id": "01517",
+   "article_no": "第二十二條",
+   "first_ly_version": "01517:1971-01-08-全文修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2709,
+   "law_id": "01517",
+   "article_no": "第二十三條",
+   "first_ly_version": "01517:1968-06-14-修正",
+   "deleted": 0,
+   "valid_to": [
+    "1990-01-24",
+    "1990-06-01"
+   ]
+  },
+  {
+   "id": 2710,
+   "law_id": "01517",
+   "article_no": "第三十四條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2711,
+   "law_id": "01517",
+   "article_no": "第三十五條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2712,
+   "law_id": "01517",
+   "article_no": "第七條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2713,
+   "law_id": "01517",
+   "article_no": "第十條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2714,
+   "law_id": "01517",
+   "article_no": "第三條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2715,
+   "law_id": "01517",
+   "article_no": "第五條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2716,
+   "law_id": "01517",
+   "article_no": "第十三條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2717,
+   "law_id": "01517",
+   "article_no": "第十四條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2718,
+   "law_id": "01517",
+   "article_no": "第十五條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2719,
+   "law_id": "01517",
+   "article_no": "第十七條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2720,
+   "law_id": "01517",
+   "article_no": "第十八條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2721,
+   "law_id": "01517",
+   "article_no": "第三十二條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2722,
+   "law_id": "01517",
+   "article_no": "第三十七條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2724,
+   "law_id": "01517",
+   "article_no": "第十二條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2725,
+   "law_id": "01517",
+   "article_no": "第三十七條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order_unnamed"
+   ]
+  },
+  {
+   "id": 2726,
+   "law_id": "01517",
+   "article_no": "第四條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2727,
+   "law_id": "01517",
+   "article_no": "第六條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2729,
+   "law_id": "01517",
+   "article_no": "第八條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2730,
+   "law_id": "01517",
+   "article_no": "第十二條",
+   "first_ly_version": "01517:2001-10-11-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2731,
+   "law_id": "01517",
+   "article_no": "第二十條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2732,
+   "law_id": "01517",
+   "article_no": "第三十七條",
+   "first_ly_version": "01517:2001-10-11-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order_unnamed"
+   ]
+  },
+  {
+   "id": 2733,
+   "law_id": "01517",
+   "article_no": "第二十九條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2734,
+   "law_id": "01517",
+   "article_no": "第三十二條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2735,
+   "law_id": "01517",
+   "article_no": "第二條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2738,
+   "law_id": "01517",
+   "article_no": "第十七條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2739,
+   "law_id": "01517",
+   "article_no": "第二十三條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2740,
+   "law_id": "01517",
+   "article_no": "第三十三條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2741,
+   "law_id": "01517",
+   "article_no": "第三十六條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2744,
+   "law_id": "01517",
+   "article_no": "第三十一條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2758,
+   "law_id": "01517",
+   "article_no": "第十一條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2762,
+   "law_id": "01517",
+   "article_no": "第一條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2764,
+   "law_id": "01517",
+   "article_no": "第三條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2766,
+   "law_id": "01517",
+   "article_no": "第五條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order_unnamed"
+   ]
+  },
+  {
+   "id": 2769,
+   "law_id": "01517",
+   "article_no": "第八條",
+   "first_ly_version": "01517:2025-08-05-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2770,
+   "law_id": "01517",
+   "article_no": "第九條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-01-26"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_default_§13"
+   ]
+  },
+  {
+   "id": 2772,
+   "law_id": "01517",
+   "article_no": "第十一條",
+   "first_ly_version": "01517:2025-08-05-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2774,
+   "law_id": "01517",
+   "article_no": "第十三條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2775,
+   "law_id": "01517",
+   "article_no": "第十四條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2776,
+   "law_id": "01517",
+   "article_no": "第十五條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2777,
+   "law_id": "01517",
+   "article_no": "第十六條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2779,
+   "law_id": "01517",
+   "article_no": "第十八條",
+   "first_ly_version": "01517:1997-04-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2780,
+   "law_id": "01517",
+   "article_no": "第十九條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2782,
+   "law_id": "01517",
+   "article_no": "第二十一條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2783,
+   "law_id": "01517",
+   "article_no": "第二十二條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2785,
+   "law_id": "01517",
+   "article_no": "第二十四條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2786,
+   "law_id": "01517",
+   "article_no": "第二十五條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2787,
+   "law_id": "01517",
+   "article_no": "第二十六條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2788,
+   "law_id": "01517",
+   "article_no": "第二十七條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2789,
+   "law_id": "01517",
+   "article_no": "第二十八條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2791,
+   "law_id": "01517",
+   "article_no": "第三十條",
+   "first_ly_version": "01517:1990-01-18-全文修正",
+   "deleted": 0,
+   "valid_from": [
+    "1990-01-24",
+    "1990-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2798,
+   "law_id": "01517",
+   "article_no": "第三十七條",
+   "first_ly_version": "01517:2025-08-05-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order_unnamed"
+   ]
+  },
+  {
+   "id": 2807,
+   "law_id": "01622",
+   "article_no": "第十七條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2808,
+   "law_id": "01622",
+   "article_no": "第十八條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2809,
+   "law_id": "01622",
+   "article_no": "第十九條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2810,
+   "law_id": "01622",
+   "article_no": "第二十三條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2811,
+   "law_id": "01622",
+   "article_no": "第二十二條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2813,
+   "law_id": "01622",
+   "article_no": "第二條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2814,
+   "law_id": "01622",
+   "article_no": "第三條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2815,
+   "law_id": "01622",
+   "article_no": "第八條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2816,
+   "law_id": "01622",
+   "article_no": "第十條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2817,
+   "law_id": "01622",
+   "article_no": "第二十一條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2818,
+   "law_id": "01622",
+   "article_no": "第八條",
+   "first_ly_version": "01622:2008-04-22-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2819,
+   "law_id": "01622",
+   "article_no": "第二十二條",
+   "first_ly_version": "01622:2006-01-03-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2820,
+   "law_id": "01622",
+   "article_no": "第二條",
+   "first_ly_version": "01622:2008-04-22-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2821,
+   "law_id": "01622",
+   "article_no": "第七條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2822,
+   "law_id": "01622",
+   "article_no": "第二十條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2824,
+   "law_id": "01622",
+   "article_no": "第二十三條",
+   "first_ly_version": "01622:2006-01-03-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2825,
+   "law_id": "01622",
+   "article_no": "第七條",
+   "first_ly_version": "01622:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2828,
+   "law_id": "01622",
+   "article_no": "第二十一條",
+   "first_ly_version": "01622:2008-11-07-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2830,
+   "law_id": "01622",
+   "article_no": "第一條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2831,
+   "law_id": "01622",
+   "article_no": "第二條",
+   "first_ly_version": "01622:2010-08-19-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2832,
+   "law_id": "01622",
+   "article_no": "第三條",
+   "first_ly_version": "01622:2008-04-22-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2833,
+   "law_id": "01622",
+   "article_no": "第四條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2834,
+   "law_id": "01622",
+   "article_no": "第五條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2835,
+   "law_id": "01622",
+   "article_no": "第六條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2836,
+   "law_id": "01622",
+   "article_no": "第七條",
+   "first_ly_version": "01622:2023-01-12-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2837,
+   "law_id": "01622",
+   "article_no": "第八條",
+   "first_ly_version": "01622:2009-04-28-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2838,
+   "law_id": "01622",
+   "article_no": "第九條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2839,
+   "law_id": "01622",
+   "article_no": "第十條",
+   "first_ly_version": "01622:2008-04-22-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2840,
+   "law_id": "01622",
+   "article_no": "第十一條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2841,
+   "law_id": "01622",
+   "article_no": "第十二條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2842,
+   "law_id": "01622",
+   "article_no": "第十三條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2843,
+   "law_id": "01622",
+   "article_no": "第十四條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2844,
+   "law_id": "01622",
+   "article_no": "第十五條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2845,
+   "law_id": "01622",
+   "article_no": "第十六條",
+   "first_ly_version": "01622:2000-03-28-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2849,
+   "law_id": "01622",
+   "article_no": "第二十條",
+   "first_ly_version": "01622:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2851,
+   "law_id": "01622",
+   "article_no": "第二十二條",
+   "first_ly_version": "01622:2009-12-11-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2854,
+   "law_id": "01622",
+   "article_no": "第二十條之一",
+   "first_ly_version": "01622:2017-04-21-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2855,
+   "law_id": "08148",
+   "article_no": "第二條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2856,
+   "law_id": "08148",
+   "article_no": "第五條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2857,
+   "law_id": "08148",
+   "article_no": "第二十六條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2858,
+   "law_id": "08148",
+   "article_no": "第一條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2860,
+   "law_id": "08148",
+   "article_no": "第三條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2861,
+   "law_id": "08148",
+   "article_no": "第四條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2863,
+   "law_id": "08148",
+   "article_no": "第六條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2864,
+   "law_id": "08148",
+   "article_no": "第七條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2865,
+   "law_id": "08148",
+   "article_no": "第八條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2866,
+   "law_id": "08148",
+   "article_no": "第九條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2867,
+   "law_id": "08148",
+   "article_no": "第十條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2868,
+   "law_id": "08148",
+   "article_no": "第十一條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2869,
+   "law_id": "08148",
+   "article_no": "第十二條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2870,
+   "law_id": "08148",
+   "article_no": "第十三條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2871,
+   "law_id": "08148",
+   "article_no": "第十四條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2872,
+   "law_id": "08148",
+   "article_no": "第十五條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2873,
+   "law_id": "08148",
+   "article_no": "第十六條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2874,
+   "law_id": "08148",
+   "article_no": "第十七條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2875,
+   "law_id": "08148",
+   "article_no": "第十八條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2876,
+   "law_id": "08148",
+   "article_no": "第十九條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2877,
+   "law_id": "08148",
+   "article_no": "第二十條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2878,
+   "law_id": "08148",
+   "article_no": "第二十一條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2879,
+   "law_id": "08148",
+   "article_no": "第二十二條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2880,
+   "law_id": "08148",
+   "article_no": "第二十三條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2881,
+   "law_id": "08148",
+   "article_no": "第二十四條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2882,
+   "law_id": "08148",
+   "article_no": "第二十五條",
+   "first_ly_version": "08148:2011-04-15-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2011-05-04",
+    "2011-06-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 2901,
+   "law_id": "01518",
+   "article_no": "第三條",
+   "first_ly_version": "01518:2021-12-21-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2023-05-12",
+    "2023-11-10"
+   ]
+  },
+  {
+   "id": 2908,
+   "law_id": "01518",
+   "article_no": "第三條",
+   "first_ly_version": "01518:2023-04-21-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2023-05-12",
+    "2023-11-10"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 2926,
+   "law_id": "01518",
+   "article_no": "第二條之三",
+   "first_ly_version": "01518:2023-04-21-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2023-05-12",
+    "2023-11-10"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_relative_after_promulgation"
+   ]
+  },
+  {
+   "id": 3458,
+   "law_id": "07158",
+   "article_no": "第一條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3459,
+   "law_id": "07158",
+   "article_no": "第二條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3460,
+   "law_id": "07158",
+   "article_no": "第三條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3461,
+   "law_id": "07158",
+   "article_no": "第四條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3462,
+   "law_id": "07158",
+   "article_no": "第五條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3463,
+   "law_id": "07158",
+   "article_no": "第六條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3464,
+   "law_id": "07158",
+   "article_no": "第七條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3465,
+   "law_id": "07158",
+   "article_no": "第八條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3466,
+   "law_id": "07158",
+   "article_no": "第九條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3467,
+   "law_id": "07158",
+   "article_no": "第十條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3468,
+   "law_id": "07158",
+   "article_no": "第十一條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3469,
+   "law_id": "07158",
+   "article_no": "第十二條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3470,
+   "law_id": "07158",
+   "article_no": "第十三條",
+   "first_ly_version": "07158:2019-07-03-制定",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "executive_yuan_order"
+   ]
+  },
+  {
+   "id": 3489,
+   "law_id": "01587",
+   "article_no": "第四條",
+   "first_ly_version": "01587:2009-05-26-修正",
+   "deleted": 0,
+   "from_basis": [
+    "commencement_article",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 3530,
+   "law_id": "08128",
+   "article_no": "第十條",
+   "first_ly_version": "08128:2010-04-16-制定",
+   "deleted": 0,
+   "valid_from": [
+    "2010-05-14",
+    "2010-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit_period_start"
+   ],
+   "retro": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": 3539,
+   "law_id": "08128",
+   "article_no": "第十條",
+   "first_ly_version": "08128:2015-12-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 3542,
+   "law_id": "08128",
+   "article_no": "第十二條之一",
+   "first_ly_version": "08128:2015-12-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 3545,
+   "law_id": "08128",
+   "article_no": "第十九條之一",
+   "first_ly_version": "08128:2015-12-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "article_explicit"
+   ]
+  },
+  {
+   "id": 3548,
+   "law_id": "08128",
+   "article_no": "第六十七條之一",
+   "first_ly_version": "08128:2015-12-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3551,
+   "law_id": "08128",
+   "article_no": "第七十二條",
+   "first_ly_version": "08128:2015-12-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3555,
+   "law_id": "08128",
+   "article_no": "第十二條之一",
+   "first_ly_version": "08128:2017-11-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2019-07-26",
+    "2020-01-01"
+   ]
+  },
+  {
+   "id": 3556,
+   "law_id": "08128",
+   "article_no": "第十二條之二",
+   "first_ly_version": "08128:2017-11-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2019-07-26",
+    "2020-01-01"
+   ]
+  },
+  {
+   "id": 3557,
+   "law_id": "08128",
+   "article_no": "第十九條之一",
+   "first_ly_version": "08128:2018-05-29-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2019-07-26",
+    "2020-01-01"
+   ]
+  },
+  {
+   "id": 3564,
+   "law_id": "08128",
+   "article_no": "第十條之一",
+   "first_ly_version": "08128:2022-01-27-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-05-09"
+   ]
+  },
+  {
+   "id": 3565,
+   "law_id": "08128",
+   "article_no": "第二十二條",
+   "first_ly_version": "08128:2010-04-16-制定",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    null
+   ]
+  },
+  {
+   "id": 3566,
+   "law_id": "08128",
+   "article_no": "第二十三條之一",
+   "first_ly_version": "08128:2019-06-21-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-05-09"
+   ]
+  },
+  {
+   "id": 3567,
+   "law_id": "08128",
+   "article_no": "第二十三條之二",
+   "first_ly_version": "08128:2017-11-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-01-01"
+   ]
+  },
+  {
+   "id": 3568,
+   "law_id": "08128",
+   "article_no": "第六十七條之一",
+   "first_ly_version": "08128:2017-11-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-05-09"
+   ]
+  },
+  {
+   "id": 3569,
+   "law_id": "08128",
+   "article_no": "第六十七條之二",
+   "first_ly_version": "08128:2017-11-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-05-09"
+   ]
+  },
+  {
+   "id": 3570,
+   "law_id": "08128",
+   "article_no": "第七十條",
+   "first_ly_version": "08128:2017-11-03-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-05-09"
+   ]
+  },
+  {
+   "id": 3571,
+   "law_id": "08128",
+   "article_no": "第七十二條",
+   "first_ly_version": "08128:2023-01-07-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2025-05-07",
+    "2025-05-09"
+   ]
+  },
+  {
+   "id": 3572,
+   "law_id": "08128",
+   "article_no": "第十九條之一",
+   "first_ly_version": "08128:2019-06-21-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2019-07-26",
+    "2020-01-01"
+   ],
+   "valid_to": [
+    "2026-10-02",
+    "2027-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit_period_start"
+   ]
+  },
+  {
+   "id": 3573,
+   "law_id": "08128",
+   "article_no": "第二十三條之一",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-05-09"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3574,
+   "law_id": "08128",
+   "article_no": "第二十三條之二",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-01-01"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "article_explicit_period_start"
+   ],
+   "retro": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": 3575,
+   "law_id": "08128",
+   "article_no": "第七十二條",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-05-09"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3597,
+   "law_id": "08128",
+   "article_no": "第二十二條",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "9999-12-31"
+   ],
+   "valid_to": [
+    null,
+    "9999-12-31"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "pending_executive_yuan"
+   ],
+   "pending": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": 3608,
+   "law_id": "08128",
+   "article_no": "第三十三條",
+   "first_ly_version": "08128:2015-12-15-修正",
+   "deleted": 0,
+   "from_basis": [
+    "explicit",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3645,
+   "law_id": "08128",
+   "article_no": "第七十條",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-05-09"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3648,
+   "law_id": "08128",
+   "article_no": "第十二條之一",
+   "first_ly_version": "08128:2019-06-21-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2019-07-26",
+    "2020-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit_period_start"
+   ]
+  },
+  {
+   "id": 3649,
+   "law_id": "08128",
+   "article_no": "第十九條之一",
+   "first_ly_version": "08128:2026-08-27-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2026-10-02",
+    "2027-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit_period_start"
+   ]
+  },
+  {
+   "id": 3650,
+   "law_id": "08128",
+   "article_no": "第六十七條之一",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-05-09"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3652,
+   "law_id": "08128",
+   "article_no": "第十二條之二",
+   "first_ly_version": "08128:2019-06-21-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2019-07-26",
+    "2020-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit_period_start"
+   ]
+  },
+  {
+   "id": 3656,
+   "law_id": "08128",
+   "article_no": "第六十七條之二",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-05-09"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3657,
+   "law_id": "08128",
+   "article_no": "第十條之一",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "2025-05-09"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "default_§13"
+   ]
+  },
+  {
+   "id": 3659,
+   "law_id": "08128",
+   "article_no": "第十條之二",
+   "first_ly_version": "08128:2023-01-07-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2023-01-21",
+    "2023-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "article_explicit_period_start"
+   ],
+   "retro": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": 3662,
+   "law_id": "08128",
+   "article_no": "第六十七條之三",
+   "first_ly_version": "08128:2025-04-18-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2025-05-07",
+    "9999-12-31"
+   ],
+   "valid_to": [
+    null,
+    "9999-12-31"
+   ],
+   "from_basis": [
+    "unknown_using_promulgation",
+    "pending_executive_yuan"
+   ],
+   "pending": [
+    0,
+    1
+   ]
+  }
+ ],
+ "regulation_rows_identical_ignoring_ids": true,
+ "article_en_identical": true,
+ "commencement_rule_identical": true
+}

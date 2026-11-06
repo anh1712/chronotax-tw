@@ -1,0 +1,282 @@
+{
+ "published": {
+  "static": {
+   "n": 264,
+   "R@1": 0.239,
+   "R@1_ci": [
+    0.191,
+    0.294
+   ],
+   "R@5": 0.644,
+   "misgrounding@1": 0.432,
+   "misgrounding@1_ci": [
+    0.373,
+    0.492
+   ]
+  },
+  "latest": {
+   "n": 264,
+   "R@1": 0.117,
+   "R@1_ci": [
+    0.084,
+    0.162
+   ],
+   "R@5": 0.121,
+   "misgrounding@1": 0.39,
+   "misgrounding@1_ci": [
+    0.333,
+    0.45
+   ]
+  },
+  "temporal": {
+   "n": 264,
+   "R@1": 0.693,
+   "R@1_ci": [
+    0.635,
+    0.746
+   ],
+   "R@5": 0.788,
+   "misgrounding@1": 0.0,
+   "misgrounding@1_ci": [
+    0.0,
+    0.014
+   ]
+  }
+ },
+ "cells": {
+  "P0 on B0": {
+   "amount_probes": 264,
+   "identical_to_data_bench_file": false,
+   "amount_lines_identical_to_data_bench": false,
+   "eval on B0": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.693,
+     0.788,
+     0.0
+    ]
+   }
+  },
+  "P0 on B1": {
+   "amount_probes": 264,
+   "identical_to_data_bench_file": false,
+   "amount_lines_identical_to_data_bench": false,
+   "eval on B1": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.693,
+     0.788,
+     0.0
+    ]
+   },
+   "eval on B1+reg": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.693,
+     0.788,
+     0.0
+    ]
+   }
+  },
+  "P1 on B0": {
+   "amount_probes": 264,
+   "identical_to_data_bench_file": false,
+   "amount_lines_identical_to_data_bench": false,
+   "eval on B0": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.693,
+     0.788,
+     0.0
+    ]
+   }
+  },
+  "P1 on B1": {
+   "amount_probes": 264,
+   "identical_to_data_bench_file": false,
+   "amount_lines_identical_to_data_bench": false,
+   "eval on B1": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.693,
+     0.788,
+     0.0
+    ]
+   },
+   "eval on B1+reg": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.693,
+     0.788,
+     0.0
+    ]
+   }
+  },
+  "P2 on B0": {
+   "amount_probes": 264,
+   "identical_to_data_bench_file": false,
+   "amount_lines_identical_to_data_bench": false,
+   "eval on B0": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.697,
+     0.788,
+     0.0
+    ]
+   }
+  },
+  "P2 on B1": {
+   "amount_probes": 264,
+   "identical_to_data_bench_file": true,
+   "amount_lines_identical_to_data_bench": true,
+   "eval on B1": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.697,
+     0.788,
+     0.0
+    ]
+   },
+   "eval on B1+reg": {
+    "static": [
+     0.239,
+     0.644,
+     0.432
+    ],
+    "latest": [
+     0.117,
+     0.121,
+     0.39
+    ],
+    "temporal": [
+     0.697,
+     0.788,
+     0.0
+    ]
+   }
+  },
+  "data/bench file on B0": {
+   "static": [
+    0.239,
+    0.644,
+    0.432
+   ],
+   "latest": [
+    0.117,
+    0.121,
+    0.39
+   ],
+   "temporal": [
+    0.697,
+    0.788,
+    0.0
+   ]
+  },
+  "data/bench file on B1": {
+   "static": [
+    0.239,
+    0.644,
+    0.432
+   ],
+   "latest": [
+    0.117,
+    0.121,
+    0.39
+   ],
+   "temporal": [
+    0.697,
+    0.788,
+    0.0
+   ]
+  },
+  "data/bench file on B1+reg": {
+   "static": [
+    0.239,
+    0.644,
+    0.432
+   ],
+   "latest": [
+    0.117,
+    0.121,
+    0.39
+   ],
+   "temporal": [
+    0.697,
+    0.788,
+    0.0
+   ]
+  }
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "bm25 (static)": {
+  "n": 264,
+  "R@1": 0.235,
+  "R@1_ci": [
+   0.188,
+   0.29
+  ],
+  "misgrounding@1": 0.436,
+  "misgrounding@1_ci": [
+   0.377,
+   0.496
+  ]
+ },
+ "date filter → bm25": {
+  "n": 264,
+  "R@1": 0.693,
+  "R@1_ci": [
+   0.635,
+   0.746
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ },
+ "zero-shot (static)": {
+  "n": 264,
+  "R@1": 0.398,
+  "R@1_ci": [
+   0.341,
+   0.458
+  ],
+  "misgrounding@1": 0.303,
+  "misgrounding@1_ci": [
+   0.251,
+   0.361
+  ]
+ },
+ "date filter → zero-shot": {
+  "n": 264,
+  "R@1": 0.716,
+  "R@1_ci": [
+   0.659,
+   0.767
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ },
+ "fine-tuned/bm25 (static)": {
+  "n": 264,
+  "R@1": 0.542,
+  "R@1_ci": [
+   0.481,
+   0.601
+  ],
+  "misgrounding@1": 0.155,
+  "misgrounding@1_ci": [
+   0.117,
+   0.204
+  ]
+ },
+ "date filter → fine-tuned/bm25": {
+  "n": 264,
+  "R@1": 0.705,
+  "R@1_ci": [
+   0.647,
+   0.756
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ },
+ "fine-tuned/temporal (static)": {
+  "n": 264,
+  "R@1": 0.587,
+  "R@1_ci": [
+   0.527,
+   0.645
+  ],
+  "misgrounding@1": 0.129,
+  "misgrounding@1_ci": [
+   0.094,
+   0.175
+  ]
+ },
+ "date filter → fine-tuned/temporal": {
+  "n": 264,
+  "R@1": 0.716,
+  "R@1_ci": [
+   0.659,
+   0.767
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ },
+ "fine-tuned/mixed (static)": {
+  "n": 264,
+  "R@1": 0.549,
+  "R@1_ci": [
+   0.489,
+   0.608
+  ],
+  "misgrounding@1": 0.152,
+  "misgrounding@1_ci": [
+   0.113,
+   0.2
+  ]
+ },
+ "date filter → fine-tuned/mixed": {
+  "n": 264,
+  "R@1": 0.712,
+  "R@1_ci": [
+   0.655,
+   0.763
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ }
+}

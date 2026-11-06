@@ -1,0 +1,97 @@
+{
+ "a": "data/audit/lawtw_fixed.db",
+ "b": "data/audit/lawtw_fixed_ab.db",
+ "versions": [
+  406,
+  406
+ ],
+ "version_rows_differing": 0,
+ "version_fields_differing": [],
+ "version_date_changes": [],
+ "article_version_rows": [
+  3662,
+  3662
+ ],
+ "article_version_non_deleted": [
+  3555,
+  3555
+ ],
+ "ids_identical": true,
+ "identity_mismatch_ids": [],
+ "article_versions_changed": 4,
+ "article_versions_changed_non_deleted": 4,
+ "article_versions_valid_from_changed_non_deleted": 2,
+ "changed_columns_count": {
+  "valid_from": 2,
+  "valid_to": 2,
+  "from_basis": 2,
+  "retro": 1,
+  "overtaken": 1,
+  "pending": 0
+ },
+ "changed": [
+  {
+   "id": 679,
+   "law_id": "01513",
+   "article_no": "第五條",
+   "first_ly_version": "01513:1991-12-27-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2009-05-29",
+    "2010-01-01"
+   ]
+  },
+  {
+   "id": 704,
+   "law_id": "01513",
+   "article_no": "第五條",
+   "first_ly_version": "01513:2009-05-01-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2009-05-29",
+    "2010-01-01"
+   ],
+   "from_basis": [
+    "default_§13",
+    "commencement_tax_year"
+   ],
+   "overtaken": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": 705,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2009-05-01-修正",
+   "deleted": 0,
+   "valid_to": [
+    "2010-01-01",
+    "2010-06-17"
+   ]
+  },
+  {
+   "id": 708,
+   "law_id": "01513",
+   "article_no": "第一百二十六條",
+   "first_ly_version": "01513:2010-05-28-修正",
+   "deleted": 0,
+   "valid_from": [
+    "2010-01-01",
+    "2010-06-17"
+   ],
+   "from_basis": [
+    "commencement_tax_year",
+    "default_§13"
+   ],
+   "retro": [
+    1,
+    0
+   ]
+  }
+ ],
+ "regulation_rows_identical_ignoring_ids": true,
+ "article_en_identical": true,
+ "commencement_rule_identical": false
+}

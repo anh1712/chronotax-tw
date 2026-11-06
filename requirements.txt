@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+mcp>=2
+# reranker experiments (GPU): torch (CUDA build), transformers, sentence-transformers
+torch
+transformers
+sentence-transformers

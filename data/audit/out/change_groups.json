@@ -1,0 +1,5222 @@
+[
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:1963-01-15-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 599,
+    "article": "第一百二十六條",
+    "old": [
+     "1963-01-31",
+     "1993-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1963-01-31",
+     "1993-02-07",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 622,
+    "article": "第五十六條",
+    "old": [
+     "1963-01-31",
+     "2001-06-15",
+     "default_§13"
+    ],
+    "new": [
+     "1963-01-31",
+     "2001-07-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:1993-01-18-修正",
+  "d": "D01",
+  "start_changed": [
+   {
+    "id": 621,
+    "article": "第一百二十六條",
+    "old": [
+     "1993-01-01",
+     "2000-12-28",
+     "explicit"
+    ],
+    "new": [
+     "1993-02-07",
+     "2000-12-28",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:1980-12-26-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 623,
+    "article": "第一百二十三條",
+    "old": [
+     "1981-01-01",
+     "2001-06-15",
+     "default_§13"
+    ],
+    "new": [
+     "1981-01-01",
+     "2001-07-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2000-12-28-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 624,
+    "article": "第一百二十六條",
+    "old": [
+     "2000-12-28",
+     "2001-06-15",
+     "ly_date_fallback"
+    ],
+    "new": [
+     "2000-12-28",
+     "2001-07-01",
+     "ly_date_fallback"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2001-05-29-修正",
+  "d": "D02",
+  "start_changed": [
+   {
+    "id": 636,
+    "article": "第一百二十六條",
+    "old": [
+     "2001-06-15",
+     "2003-06-27",
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     "2003-06-27",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 653,
+    "article": "第一百二十三條",
+    "old": [
+     "2001-06-15",
+     "2006-06-01",
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     "2006-06-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 674,
+    "article": "第八十九條之一",
+    "old": [
+     "2001-06-15",
+     "2009-04-24",
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     "2009-04-24",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 700,
+    "article": "第一百十一條之一",
+    "old": [
+     "2001-06-15",
+     "2009-05-29",
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     "2009-05-29",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 709,
+    "article": "第三條之四",
+    "old": [
+     "2001-06-15",
+     "2011-01-28",
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     "2011-01-28",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 718,
+    "article": "第九十二條之一",
+    "old": [
+     "2001-06-15",
+     "2012-01-06",
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     "2012-01-06",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 865,
+    "article": "第五十六條",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 976,
+    "article": "第三條之二",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 977,
+    "article": "第三條之三",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 979,
+    "article": "第四條之三",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 980,
+    "article": "第六條之一",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 981,
+    "article": "第六條之二",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:1985-12-24-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 659,
+    "article": "第三十三條",
+    "old": [
+     "1986-01-01",
+     "2008-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1986-01-01",
+     "2008-01-04",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2005-12-06-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 660,
+    "article": "第一百二十六條",
+    "old": [
+     "2005-01-01",
+     "2008-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2005-01-01",
+     "2008-01-04",
+     "explicit"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2007-12-14-修正",
+  "d": "D03",
+  "start_changed": [
+   {
+    "id": 663,
+    "article": "第一百二十六條",
+    "old": [
+     "2008-01-01",
+     "2008-12-28",
+     "explicit"
+    ],
+    "new": [
+     "2008-01-04",
+     "2008-12-28",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 842,
+    "article": "第三十三條",
+    "old": [
+     "2008-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2008-01-04",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2010-05-28-修正",
+  "d": "D04",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 708,
+    "article": "第一百二十六條",
+    "old": [
+     "2010-01-01",
+     "2012-01-01",
+     "commencement_tax_year"
+    ],
+    "new": [
+     "2010-01-01",
+     "2011-01-21",
+     "commencement_tax_year"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2011-01-07-修正",
+  "d": "D05",
+  "start_changed": [
+   {
+    "id": 723,
+    "article": "第一百二十六條",
+    "old": [
+     "2012-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-01-21",
+     "2013-01-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01513",
+  "law": "所得稅法",
+  "ly_version": "01513:2016-07-12-修正",
+  "d": "D08",
+  "start_changed": [
+   {
+    "id": 1005,
+    "article": "第四十三條之三",
+    "old": [
+     "2016-08-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2023-01-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1006,
+    "article": "第四十三條之四",
+    "old": [
+     "2016-08-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "9999-12-31",
+     "9999-12-31",
+     "pending_executive_yuan"
+    ],
+    "pending": 1
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01526",
+  "law": "所得基本稅額條例",
+  "ly_version": "01526:2005-12-09-制定",
+  "d": "D11",
+  "start_changed": [
+   {
+    "id": 1008,
+    "article": "第三條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1009,
+    "article": "第五條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1010,
+    "article": "第七條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1011,
+    "article": "第八條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1012,
+    "article": "第十條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1013,
+    "article": "第十二條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1014,
+    "article": "第十八條",
+    "old": [
+     "2010-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2013-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1016,
+    "article": "第十三條",
+    "old": [
+     "2010-01-01",
+     "2023-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2023-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1017,
+    "article": "第十四條",
+    "old": [
+     "2010-01-01",
+     "2023-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     "2023-01-01",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1021,
+    "article": "第一條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1022,
+    "article": "第二條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1024,
+    "article": "第四條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1026,
+    "article": "第六條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1029,
+    "article": "第九條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1031,
+    "article": "第十一條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1035,
+    "article": "第十五條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2007-01-01",
+     null,
+     "article_explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1036,
+    "article": "第十六條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1037,
+    "article": "第十七條",
+    "old": [
+     "2010-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2006-01-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1994-12-29-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1334,
+    "article": "第八條",
+    "old": [
+     "1995-03-01",
+     "1995-08-04",
+     "explicit"
+    ],
+    "new": [
+     "1995-03-01",
+     "1995-09-01",
+     "explicit"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1985-11-05-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1335,
+    "article": "第五十一條",
+    "old": [
+     "1986-04-01",
+     "1995-08-04",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "1995-09-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1338,
+    "article": "第五十二條",
+    "old": [
+     "1986-04-01",
+     "1997-06-01",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "1997-07-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1340,
+    "article": "第十一條",
+    "old": [
+     "1986-04-01",
+     "1999-06-30",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "1999-07-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1341,
+    "article": "第二十一條",
+    "old": [
+     "1986-04-01",
+     "1999-06-30",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "1999-07-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1355,
+    "article": "第二條",
+    "old": [
+     "1986-04-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1356,
+    "article": "第五條",
+    "old": [
+     "1986-04-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1364,
+    "article": "第二十八條",
+    "old": [
+     "1986-04-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1365,
+    "article": "第三十條",
+    "old": [
+     "1986-04-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1986-04-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1995-07-12-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 1339,
+    "article": "第八條",
+    "old": [
+     "1995-08-04",
+     "1997-10-31",
+     "default_§13"
+    ],
+    "new": [
+     "1995-09-01",
+     "1997-12-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1354,
+    "article": "第五十一條",
+    "old": [
+     "1995-08-04",
+     "2011-02-01",
+     "default_§13"
+    ],
+    "new": [
+     "1995-09-01",
+     "2011-02-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1999-06-22-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 1344,
+    "article": "第十一條",
+    "old": [
+     "1999-06-30",
+     "2002-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1999-07-01",
+     "2002-01-01",
+     "article_explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1416,
+    "article": "第二十一條",
+    "old": [
+     "1999-06-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "1999-07-01",
+     null,
+     "article_explicit"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1997-10-09-修正",
+  "d": "D14",
+  "start_changed": [
+   {
+    "id": 1351,
+    "article": "第八條",
+    "old": [
+     "1997-10-31",
+     "2006-05-01",
+     "default_§13"
+    ],
+    "new": [
+     "1997-12-01",
+     "2006-05-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1988-05-10-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1357,
+    "article": "第七條",
+    "old": [
+     "1988-07-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1988-07-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1360,
+    "article": "第十三條",
+    "old": [
+     "1988-07-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1988-07-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1363,
+    "article": "第二十三條",
+    "old": [
+     "1988-07-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1988-07-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1366,
+    "article": "第三十二條",
+    "old": [
+     "1988-07-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1988-07-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1367,
+    "article": "第三十六條",
+    "old": [
+     "1988-07-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "1988-07-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:2007-12-21-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1358,
+    "article": "第八條",
+    "old": [
+     "2008-03-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "2008-03-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1359,
+    "article": "第九條",
+    "old": [
+     "2008-03-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "2008-03-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:2010-11-12-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1368,
+    "article": "第五十一條",
+    "old": [
+     "2011-02-01",
+     "2011-09-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-02-01",
+     "2011-04-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:2011-01-10-修正",
+  "d": "D17",
+  "start_changed": [
+   {
+    "id": 1371,
+    "article": "第三十六條",
+    "old": [
+     "2011-09-01",
+     "2014-07-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2014-07-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1372,
+    "article": "第三十二條",
+    "old": [
+     "2011-09-01",
+     "2016-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2016-01-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1380,
+    "article": "第二十八條",
+    "old": [
+     "2011-09-01",
+     "2017-05-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2017-05-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1382,
+    "article": "第三十條",
+    "old": [
+     "2011-09-01",
+     "2017-05-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2017-05-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1383,
+    "article": "第三十條之一",
+    "old": [
+     "2011-09-01",
+     "2017-05-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2017-05-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1387,
+    "article": "第五十一條",
+    "old": [
+     "2011-09-01",
+     "2017-05-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2017-05-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1392,
+    "article": "第六條之一",
+    "old": [
+     "2011-09-01",
+     "2025-01-01",
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     "2025-01-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1397,
+    "article": "第二條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1400,
+    "article": "第五條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1402,
+    "article": "第七條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1403,
+    "article": "第八條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1404,
+    "article": "第九條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1408,
+    "article": "第十三條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1418,
+    "article": "第二十三條",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1464,
+    "article": "第三條之二",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1466,
+    "article": "第八條之三",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1468,
+    "article": "第四十二條之一",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1469,
+    "article": "第四十八條之一",
+    "old": [
+     "2011-09-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2011-04-01",
+     null,
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1997-05-16-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 1378,
+    "article": "第五十二條",
+    "old": [
+     "1997-06-01",
+     "2016-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1997-07-01",
+     "2016-01-01",
+     "article_executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01521",
+  "law": "加值型及非加值型營業稅法",
+  "ly_version": "01521:1998-05-28-修正",
+  "d": "D15",
+  "start_changed": [
+   {
+    "id": 1456,
+    "article": "第五十三條之一",
+    "old": [
+     "1998-06-19",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "1998-07-10",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:1976-10-12-制定",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1509,
+    "article": "第十九條",
+    "old": [
+     "1976-10-24",
+     "2011-05-13",
+     "default_§13"
+    ],
+    "new": [
+     "1976-10-24",
+     "2011-07-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1511,
+    "article": "第五十一條",
+    "old": [
+     "1976-10-24",
+     "2011-05-13",
+     "default_§13"
+    ],
+    "new": [
+     "1976-10-24",
+     "2011-07-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1545,
+    "article": "第二十一條",
+    "old": [
+     "1976-10-24",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1976-10-24",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1546,
+    "article": "第二十二條",
+    "old": [
+     "1976-10-24",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1976-10-24",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1560,
+    "article": "第四十九條",
+    "old": [
+     "1976-10-24",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1976-10-24",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:1990-01-16-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1510,
+    "article": "第三十五條",
+    "old": [
+     "1990-01-26",
+     "2011-05-13",
+     "default_§13"
+    ],
+    "new": [
+     "1990-01-26",
+     "2011-07-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1551,
+    "article": "第三十四條",
+    "old": [
+     "1990-01-26",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1990-01-26",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1554,
+    "article": "第四十一條",
+    "old": [
+     "1990-01-26",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1990-01-26",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1561,
+    "article": "第五十條之一",
+    "old": [
+     "1990-01-26",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1990-01-26",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2011-11-08-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1541,
+    "article": "第六條",
+    "old": [
+     "2011-11-25",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2011-11-25",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2013-05-14-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1542,
+    "article": "第十二條之一",
+    "old": [
+     "2013-05-31",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2013-05-31",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1553,
+    "article": "第三十九條",
+    "old": [
+     "2013-05-31",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2013-05-31",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2011-04-26-修正",
+  "d": "D18",
+  "start_changed": [
+   {
+    "id": 1543,
+    "article": "第十九條",
+    "old": [
+     "2011-05-13",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2011-07-01",
+     "2021-12-19",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1552,
+    "article": "第三十五條",
+    "old": [
+     "2011-05-13",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2011-07-01",
+     "2021-12-19",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1565,
+    "article": "第五十一條",
+    "old": [
+     "2011-05-13",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2011-07-01",
+     "2021-12-19",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2016-12-30-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1547,
+    "article": "第二十三條",
+    "old": [
+     "2017-01-20",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2017-01-20",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2018-11-20-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1548,
+    "article": "第二十四條",
+    "old": [
+     "2018-12-07",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2018-12-07",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2009-01-06-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1549,
+    "article": "第二十八條",
+    "old": [
+     "2009-01-23",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2009-01-23",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2014-05-20-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1550,
+    "article": "第三十條",
+    "old": [
+     "2014-06-06",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2014-06-06",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1555,
+    "article": "第四十三條",
+    "old": [
+     "2014-06-06",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2014-06-06",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1558,
+    "article": "第四十八條之一",
+    "old": [
+     "2014-06-06",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2014-06-06",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2009-12-15-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1556,
+    "article": "第四十四條",
+    "old": [
+     "2010-01-08",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2010-01-08",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2011-12-14-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1557,
+    "article": "第四十七條",
+    "old": [
+     "2012-01-06",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2012-01-06",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:1992-10-30-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 1559,
+    "article": "第四十八條之二",
+    "old": [
+     "1992-11-25",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1992-11-25",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1562,
+    "article": "第五十條之三",
+    "old": [
+     "1992-11-25",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1992-11-25",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1563,
+    "article": "第五十條之四",
+    "old": [
+     "1992-11-25",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1992-11-25",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1564,
+    "article": "第五十條之五",
+    "old": [
+     "1992-11-25",
+     "2022-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1992-11-25",
+     "2021-12-19",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01512",
+  "law": "稅捐稽徵法",
+  "ly_version": "01512:2021-11-30-修正",
+  "d": "D19",
+  "start_changed": [
+   {
+    "id": 1571,
+    "article": "第六條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1584,
+    "article": "第十九條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1586,
+    "article": "第二十一條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1587,
+    "article": "第二十二條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1588,
+    "article": "第二十三條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1589,
+    "article": "第二十四條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1593,
+    "article": "第二十八條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1595,
+    "article": "第三十條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1599,
+    "article": "第三十四條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1600,
+    "article": "第三十五條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1604,
+    "article": "第三十九條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1606,
+    "article": "第四十一條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1608,
+    "article": "第四十三條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1609,
+    "article": "第四十四條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1612,
+    "article": "第四十七條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1614,
+    "article": "第四十九條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1616,
+    "article": "第五十一條",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1617,
+    "article": "第四十八條之一",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1620,
+    "article": "第五十條之一",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1621,
+    "article": "第四十八條之二",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1623,
+    "article": "第五十條之三",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1624,
+    "article": "第五十條之四",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1625,
+    "article": "第五十條之五",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1629,
+    "article": "第十二條之一",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1638,
+    "article": "第二十六條之一",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1639,
+    "article": "第四十九條之一",
+    "old": [
+     "2022-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2021-12-19",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01655",
+  "law": "納稅者權利保護法",
+  "ly_version": "01655:2016-12-09-制定",
+  "d": "D20",
+  "start_changed": [
+   {
+    "id": 1640,
+    "article": "第四條",
+    "old": [
+     "2016-12-30",
+     "2025-05-30",
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     "2026-05-28",
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1641,
+    "article": "第六條",
+    "old": [
+     "2016-12-30",
+     "2025-05-30",
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     "2026-05-28",
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1642,
+    "article": "第二十條",
+    "old": [
+     "2016-12-30",
+     "2025-05-30",
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     "2026-05-28",
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1643,
+    "article": "第一條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1644,
+    "article": "第二條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1645,
+    "article": "第三條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1647,
+    "article": "第五條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1649,
+    "article": "第七條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1650,
+    "article": "第八條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1651,
+    "article": "第九條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1652,
+    "article": "第十條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1653,
+    "article": "第十一條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1654,
+    "article": "第十二條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1655,
+    "article": "第十三條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1656,
+    "article": "第十四條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1657,
+    "article": "第十五條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1658,
+    "article": "第十六條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1659,
+    "article": "第十七條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1660,
+    "article": "第十八條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1661,
+    "article": "第十九條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1663,
+    "article": "第二十一條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1664,
+    "article": "第二十二條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1665,
+    "article": "第二十三條",
+    "old": [
+     "2016-12-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2017-12-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01655",
+  "law": "納稅者權利保護法",
+  "ly_version": "01655:2025-05-09-修正",
+  "d": "D21",
+  "start_changed": [
+   {
+    "id": 1646,
+    "article": "第四條",
+    "old": [
+     "2025-05-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2026-05-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1648,
+    "article": "第六條",
+    "old": [
+     "2025-05-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2026-05-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 1662,
+    "article": "第二十條",
+    "old": [
+     "2025-05-30",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2026-05-28",
+     null,
+     "relative_after_promulgation"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01524",
+  "law": "房屋稅條例",
+  "ly_version": "01524:1967-03-28-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2064,
+    "article": "第九條",
+    "old": [
+     "1967-04-13",
+     "2024-07-01",
+     "default_§13"
+    ],
+    "new": [
+     "1967-04-13",
+     "2024-01-05",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01524",
+  "law": "房屋稅條例",
+  "ly_version": "01524:2001-05-29-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2065,
+    "article": "第十一條",
+    "old": [
+     "2001-07-01",
+     "2024-07-01",
+     "explicit"
+    ],
+    "new": [
+     "2001-07-01",
+     "2024-01-05",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2069,
+    "article": "第二十四條",
+    "old": [
+     "2001-07-01",
+     "2024-07-01",
+     "explicit"
+    ],
+    "new": [
+     "2001-07-01",
+     "2024-01-05",
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2070,
+    "article": "第二十五條",
+    "old": [
+     "2001-07-01",
+     "2024-07-01",
+     "explicit"
+    ],
+    "new": [
+     "2001-07-01",
+     "2024-01-05",
+     "explicit"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01524",
+  "law": "房屋稅條例",
+  "ly_version": "01524:1992-07-03-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2068,
+    "article": "第十八條",
+    "old": [
+     "1992-07-31",
+     "2024-07-01",
+     "default_§13"
+    ],
+    "new": [
+     "1992-07-31",
+     "2024-01-05",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01524",
+  "law": "房屋稅條例",
+  "ly_version": "01524:2023-12-19-修正",
+  "d": "D22",
+  "start_changed": [
+   {
+    "id": 2079,
+    "article": "第九條",
+    "old": [
+     "2024-07-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2024-01-05",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2081,
+    "article": "第十一條",
+    "old": [
+     "2024-07-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2024-01-05",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2088,
+    "article": "第十八條",
+    "old": [
+     "2024-07-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2024-01-05",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2094,
+    "article": "第二十四條",
+    "old": [
+     "2024-07-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2024-01-05",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2095,
+    "article": "第二十五條",
+    "old": [
+     "2024-07-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2024-01-05",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01525",
+  "law": "契稅條例",
+  "ly_version": "01525:1967-12-29-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2145,
+    "article": "第三十三條",
+    "old": [
+     "1968-01-01",
+     "2001-06-15",
+     "default_§13"
+    ],
+    "new": [
+     "1968-01-01",
+     "2001-07-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01525",
+  "law": "契稅條例",
+  "ly_version": "01525:2001-05-29-修正",
+  "d": "D23",
+  "start_changed": [
+   {
+    "id": 2182,
+    "article": "第三十三條",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2183,
+    "article": "第七條之一",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2184,
+    "article": "第十四條之一",
+    "old": [
+     "2001-06-15",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2001-07-01",
+     null,
+     "explicit"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01516",
+  "law": "印花稅法",
+  "ly_version": "01516:1984-04-06-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2336,
+    "article": "第五條",
+    "old": [
+     "1984-04-18",
+     "1986-01-19",
+     "default_§13"
+    ],
+    "new": [
+     "1984-04-18",
+     "1986-04-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2337,
+    "article": "第七條",
+    "old": [
+     "1984-04-18",
+     "1986-01-19",
+     "default_§13"
+    ],
+    "new": [
+     "1984-04-18",
+     "1986-04-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01516",
+  "law": "印花稅法",
+  "ly_version": "01516:1978-06-23-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2338,
+    "article": "第十九條",
+    "old": [
+     "1978-07-07",
+     "1986-01-19",
+     "default_§13"
+    ],
+    "new": [
+     "1978-07-07",
+     "1986-04-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2339,
+    "article": "第三十一條",
+    "old": [
+     "1978-07-07",
+     "1986-01-19",
+     "default_§13"
+    ],
+    "new": [
+     "1978-07-07",
+     "1986-04-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01516",
+  "law": "印花稅法",
+  "ly_version": "01516:1986-01-07-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 2347,
+    "article": "第五條",
+    "old": [
+     "1986-01-19",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "1986-04-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2349,
+    "article": "第七條",
+    "old": [
+     "1986-01-19",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "1986-04-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2361,
+    "article": "第十九條",
+    "old": [
+     "1986-01-19",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "1986-04-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2373,
+    "article": "第三十一條",
+    "old": [
+     "1986-01-19",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "1986-04-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01522",
+  "law": "使用牌照稅法",
+  "ly_version": "01522:2001-01-04-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2489,
+    "article": "第四條",
+    "old": [
+     "2001-01-19",
+     "2015-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2001-01-19",
+     "2014-06-20",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01522",
+  "law": "使用牌照稅法",
+  "ly_version": "01522:2003-12-16-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2491,
+    "article": "第二十八條",
+    "old": [
+     "2004-01-09",
+     "2015-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "2004-01-09",
+     "2014-06-20",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01522",
+  "law": "使用牌照稅法",
+  "ly_version": "01522:1962-01-26-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2492,
+    "article": "第三十八條",
+    "old": [
+     "1962-02-05",
+     "2015-01-01",
+     "default_§13"
+    ],
+    "new": [
+     "1962-02-05",
+     "2014-06-20",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01522",
+  "law": "使用牌照稅法",
+  "ly_version": "01522:2014-05-30-修正",
+  "d": "D24",
+  "start_changed": [
+   {
+    "id": 2499,
+    "article": "第三十八條",
+    "old": [
+     "2015-01-01",
+     "2017-12-08",
+     "explicit"
+    ],
+    "new": [
+     "2014-06-20",
+     "2017-12-08",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2511,
+    "article": "第四條",
+    "old": [
+     "2015-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2014-06-20",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2535,
+    "article": "第二十八條",
+    "old": [
+     "2015-01-01",
+     null,
+     "explicit"
+    ],
+    "new": [
+     "2014-06-20",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01517",
+  "law": "貨物稅條例",
+  "ly_version": "01517:1971-01-08-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2687,
+    "article": "第一條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2688,
+    "article": "第二條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2689,
+    "article": "第三條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2692,
+    "article": "第六條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2694,
+    "article": "第八條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2695,
+    "article": "第九條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2697,
+    "article": "第十一條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2698,
+    "article": "第十二條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2701,
+    "article": "第十五條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2702,
+    "article": "第十六條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2703,
+    "article": "第十七條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2704,
+    "article": "第十八條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2705,
+    "article": "第十九條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2706,
+    "article": "第二十條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2707,
+    "article": "第二十一條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2708,
+    "article": "第二十二條",
+    "old": [
+     "1971-01-11",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1971-01-11",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01517",
+  "law": "貨物稅條例",
+  "ly_version": "01517:1986-01-14-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2690,
+    "article": "第四條",
+    "old": [
+     "1986-01-29",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1986-01-29",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2691,
+    "article": "第五條",
+    "old": [
+     "1986-01-29",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1986-01-29",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01517",
+  "law": "貨物稅條例",
+  "ly_version": "01517:1962-08-14-全文修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2693,
+    "article": "第七條",
+    "old": [
+     "1962-08-16",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1962-08-16",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2696,
+    "article": "第十條",
+    "old": [
+     "1962-08-16",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1962-08-16",
+     "1990-01-26",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2699,
+    "article": "第十三條",
+    "old": [
+     "1962-08-16",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1962-08-16",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01517",
+  "law": "貨物稅條例",
+  "ly_version": "01517:1972-07-25-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2700,
+    "article": "第十四條",
+    "old": [
+     "1972-07-28",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1972-07-28",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01517",
+  "law": "貨物稅條例",
+  "ly_version": "01517:1968-06-14-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2709,
+    "article": "第二十三條",
+    "old": [
+     "1968-06-16",
+     "1990-01-24",
+     "default_§13"
+    ],
+    "new": [
+     "1968-06-16",
+     "1990-06-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01517",
+  "law": "貨物稅條例",
+  "ly_version": "01517:1990-01-18-全文修正",
+  "d": "D25",
+  "start_changed": [
+   {
+    "id": 2710,
+    "article": "第三十四條",
+    "old": [
+     "1990-01-24",
+     "1993-08-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "1993-08-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2711,
+    "article": "第三十五條",
+    "old": [
+     "1990-01-24",
+     "1993-08-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "1993-08-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2712,
+    "article": "第七條",
+    "old": [
+     "1990-01-24",
+     "1995-07-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "1995-07-01",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2713,
+    "article": "第十條",
+    "old": [
+     "1990-01-24",
+     "1995-07-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "1995-07-01",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2714,
+    "article": "第三條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2002-01-01",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2715,
+    "article": "第五條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2002-01-01",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2716,
+    "article": "第十三條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2717,
+    "article": "第十四條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2718,
+    "article": "第十五條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2719,
+    "article": "第十七條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2720,
+    "article": "第十八條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2721,
+    "article": "第三十二條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2722,
+    "article": "第三十七條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-01-01",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2724,
+    "article": "第十二條",
+    "old": [
+     "1990-01-24",
+     "2002-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2002-01-01",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2726,
+    "article": "第四條",
+    "old": [
+     "1990-01-24",
+     "2002-07-19",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2002-07-19",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2727,
+    "article": "第六條",
+    "old": [
+     "1990-01-24",
+     "2002-07-19",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2002-07-19",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2729,
+    "article": "第八條",
+    "old": [
+     "1990-01-24",
+     "2002-07-19",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2002-07-19",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2731,
+    "article": "第二十條",
+    "old": [
+     "1990-01-24",
+     "2002-07-19",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2002-07-19",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2733,
+    "article": "第二十九條",
+    "old": [
+     "1990-01-24",
+     "2007-07-13",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2007-07-13",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2735,
+    "article": "第二條",
+    "old": [
+     "1990-01-24",
+     "2015-02-06",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2015-02-06",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2739,
+    "article": "第二十三條",
+    "old": [
+     "1990-01-24",
+     "2015-02-06",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2015-02-06",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2740,
+    "article": "第三十三條",
+    "old": [
+     "1990-01-24",
+     "2015-02-06",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2015-02-06",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2741,
+    "article": "第三十六條",
+    "old": [
+     "1990-01-24",
+     "2015-02-06",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2015-02-06",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2744,
+    "article": "第三十一條",
+    "old": [
+     "1990-01-24",
+     "2017-06-16",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     "2017-06-16",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2758,
+    "article": "第十一條",
+    "old": [
+     "1990-01-24",
+     "2026-01-01",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     "2026-01-01",
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2762,
+    "article": "第一條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     null,
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2770,
+    "article": "第九條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-01-26",
+     null,
+     "article_default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2777,
+    "article": "第十六條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2780,
+    "article": "第十九條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2782,
+    "article": "第二十一條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2783,
+    "article": "第二十二條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2785,
+    "article": "第二十四條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2786,
+    "article": "第二十五條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2787,
+    "article": "第二十六條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2788,
+    "article": "第二十七條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2789,
+    "article": "第二十八條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2791,
+    "article": "第三十條",
+    "old": [
+     "1990-01-24",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "1990-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "08148",
+  "law": "特種貨物及勞務稅條例",
+  "ly_version": "08148:2011-04-15-制定",
+  "d": "D30",
+  "start_changed": [
+   {
+    "id": 2855,
+    "article": "第二條",
+    "old": [
+     "2011-05-04",
+     "2015-01-09",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     "2015-01-09",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2856,
+    "article": "第五條",
+    "old": [
+     "2011-05-04",
+     "2015-01-09",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     "2015-01-09",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2857,
+    "article": "第二十六條",
+    "old": [
+     "2011-05-04",
+     "2015-01-09",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     "2015-01-09",
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2858,
+    "article": "第一條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2860,
+    "article": "第三條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2861,
+    "article": "第四條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2863,
+    "article": "第六條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2864,
+    "article": "第七條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2865,
+    "article": "第八條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2866,
+    "article": "第九條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2867,
+    "article": "第十條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2868,
+    "article": "第十一條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2869,
+    "article": "第十二條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2870,
+    "article": "第十三條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2871,
+    "article": "第十四條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2872,
+    "article": "第十五條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2873,
+    "article": "第十六條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2874,
+    "article": "第十七條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2875,
+    "article": "第十八條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2876,
+    "article": "第十九條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2877,
+    "article": "第二十條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2878,
+    "article": "第二十一條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2879,
+    "article": "第二十二條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2880,
+    "article": "第二十三條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2881,
+    "article": "第二十四條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2882,
+    "article": "第二十五條",
+    "old": [
+     "2011-05-04",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2011-06-01",
+     null,
+     "executive_yuan_order"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "01518",
+  "law": "證券交易稅條例",
+  "ly_version": "01518:2021-12-21-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 2901,
+    "article": "第三條",
+    "old": [
+     "2021-12-31",
+     "2023-05-12",
+     "default_§13"
+    ],
+    "new": [
+     "2021-12-31",
+     "2023-11-10",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "01518",
+  "law": "證券交易稅條例",
+  "ly_version": "01518:2023-04-21-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 2908,
+    "article": "第三條",
+    "old": [
+     "2023-05-12",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2023-11-10",
+     null,
+     "article_relative_after_promulgation"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 2926,
+    "article": "第二條之三",
+    "old": [
+     "2023-05-12",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2023-11-10",
+     null,
+     "article_relative_after_promulgation"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2010-04-16-制定",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 3530,
+    "article": "第十條",
+    "old": [
+     "2010-05-14",
+     "2014-06-20",
+     "default_§13"
+    ],
+    "new": [
+     "2010-01-01",
+     "2014-06-20",
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": [
+   {
+    "id": 3565,
+    "article": "第二十二條",
+    "old": [
+     "2010-05-14",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2010-05-14",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2017-11-03-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 3555,
+    "article": "第十二條之一",
+    "old": [
+     "2017-11-24",
+     "2019-07-26",
+     "default_§13"
+    ],
+    "new": [
+     "2017-11-24",
+     "2020-01-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3556,
+    "article": "第十二條之二",
+    "old": [
+     "2017-11-24",
+     "2019-07-26",
+     "default_§13"
+    ],
+    "new": [
+     "2017-11-24",
+     "2020-01-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3567,
+    "article": "第二十三條之二",
+    "old": [
+     "2017-11-24",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2017-11-24",
+     "2025-01-01",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3568,
+    "article": "第六十七條之一",
+    "old": [
+     "2017-11-24",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2017-11-24",
+     "2025-05-09",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3569,
+    "article": "第六十七條之二",
+    "old": [
+     "2017-11-24",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2017-11-24",
+     "2025-05-09",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3570,
+    "article": "第七十條",
+    "old": [
+     "2017-11-24",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2017-11-24",
+     "2025-05-09",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2018-05-29-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 3557,
+    "article": "第十九條之一",
+    "old": [
+     "2018-06-22",
+     "2019-07-26",
+     "default_§13"
+    ],
+    "new": [
+     "2018-06-22",
+     "2020-01-01",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2022-01-27-修正",
+  "d": "end-only",
+  "start_changed": [],
+  "end_only": [
+   {
+    "id": 3564,
+    "article": "第十條之一",
+    "old": [
+     "2022-02-20",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2022-02-20",
+     "2025-05-09",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2019-06-21-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 3572,
+    "article": "第十九條之一",
+    "old": [
+     "2019-07-26",
+     "2026-10-02",
+     "default_§13"
+    ],
+    "new": [
+     "2020-01-01",
+     "2027-01-01",
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3648,
+    "article": "第十二條之一",
+    "old": [
+     "2019-07-26",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2020-01-01",
+     null,
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3652,
+    "article": "第十二條之二",
+    "old": [
+     "2019-07-26",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2020-01-01",
+     null,
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": [
+   {
+    "id": 3566,
+    "article": "第二十三條之一",
+    "old": [
+     "2019-07-26",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2019-07-26",
+     "2025-05-09",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2023-01-07-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 3659,
+    "article": "第十條之二",
+    "old": [
+     "2023-01-21",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2023-01-01",
+     null,
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": [
+   {
+    "id": 3571,
+    "article": "第七十二條",
+    "old": [
+     "2023-01-21",
+     "2025-05-07",
+     "default_§13"
+    ],
+    "new": [
+     "2023-01-21",
+     "2025-05-09",
+     "default_§13"
+    ],
+    "pending": 0
+   }
+  ]
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2025-04-18-修正",
+  "d": "D31",
+  "start_changed": [
+   {
+    "id": 3573,
+    "article": "第二十三條之一",
+    "old": [
+     "2025-05-07",
+     "2026-10-02",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-05-09",
+     "2026-10-02",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3574,
+    "article": "第二十三條之二",
+    "old": [
+     "2025-05-07",
+     "2026-10-02",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-01-01",
+     "2026-10-02",
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3575,
+    "article": "第七十二條",
+    "old": [
+     "2025-05-07",
+     "2026-10-02",
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-05-09",
+     "2026-10-02",
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3597,
+    "article": "第二十二條",
+    "old": [
+     "2025-05-07",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "9999-12-31",
+     "9999-12-31",
+     "pending_executive_yuan"
+    ],
+    "pending": 1
+   },
+   {
+    "id": 3645,
+    "article": "第七十條",
+    "old": [
+     "2025-05-07",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-05-09",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3650,
+    "article": "第六十七條之一",
+    "old": [
+     "2025-05-07",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-05-09",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3656,
+    "article": "第六十七條之二",
+    "old": [
+     "2025-05-07",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-05-09",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3657,
+    "article": "第十條之一",
+    "old": [
+     "2025-05-07",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "2025-05-09",
+     null,
+     "default_§13"
+    ],
+    "pending": 0
+   },
+   {
+    "id": 3662,
+    "article": "第六十七條之三",
+    "old": [
+     "2025-05-07",
+     null,
+     "unknown_using_promulgation"
+    ],
+    "new": [
+     "9999-12-31",
+     "9999-12-31",
+     "pending_executive_yuan"
+    ],
+    "pending": 1
+   }
+  ],
+  "end_only": []
+ },
+ {
+  "law_id": "08128",
+  "law": "產業創新條例",
+  "ly_version": "08128:2026-08-27-修正",
+  "d": "EXTRA",
+  "start_changed": [
+   {
+    "id": 3649,
+    "article": "第十九條之一",
+    "old": [
+     "2026-10-02",
+     null,
+     "default_§13"
+    ],
+    "new": [
+     "2027-01-01",
+     null,
+     "article_explicit_period_start"
+    ],
+    "pending": 0
+   }
+  ],
+  "end_only": []
+ }
+]

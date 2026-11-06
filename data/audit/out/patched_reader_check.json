@@ -1,0 +1,2155 @@
+{
+ "entries": 413,
+ "rows": [
+  {
+   "law_id": "01513",
+   "no": 28,
+   "promulgated": "1993-02-05",
+   "orig": [
+    "1993-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "1993-02-07",
+    "default_§13"
+   ],
+   "fixed": [
+    "1993-02-07",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "5-1",
+     "effective": "1993-01-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "17",
+     "effective": "1993-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "28. 中華民國八十二年二月五日總統（82）華總（一）義字第 0477 號令 公布修正第 17、126 條；並增訂第 5-1 條條文；第 5-1 條增訂 條文及第 17 條修正條文，自八十二年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 34,
+   "promulgated": "2001-01-03",
+   "orig": [
+    "2001-01-05",
+    "default_§13"
+   ],
+   "p3": [
+    "2001-01-05",
+    "default_§13"
+   ],
+   "fixed": [
+    "2001-01-05",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "17",
+     "effective": "2000-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "34. 中華民國九十年一月三日總統（90）華總一義字第 8900311030 號令 修正公布第 17、114、126 條條文；第 17 條自八十九年一月一日施 行"
+  },
+  {
+   "law_id": "01513",
+   "no": 35,
+   "promulgated": "2001-06-13",
+   "orig": [
+    "2001-06-15",
+    "default_§13"
+   ],
+   "p3": [
+    "2001-07-01",
+    "explicit"
+   ],
+   "fixed": [
+    "2001-07-01",
+    "explicit"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "35. 中華民國九十年六月十三日總統（90）華總一義字第 9000116070 號 令修正公布第 123、126 條條文；並刪除第 56 條條文；並增訂第 3 -2、3-3、3-4、4-3、6-1、6-2、89-1、92-1、111-1 條條文；並自 九十年七月一日起施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 43,
+   "promulgated": "2008-01-02",
+   "orig": [
+    "2008-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2008-01-04",
+    "default_§13"
+   ],
+   "fixed": [
+    "2008-01-04",
+    "default_§13"
+   ],
+   "rules": [],
+   "partial": [
+    {
+     "refs": [
+      "14"
+     ],
+     "effective": "2008-01-01",
+     "basis": "explicit",
+     "scope": "第14條第1項第9類規定，"
+    }
+   ],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "43. 中華民國九十七年一月二日總統華總一義字第 09600179021 號令修 正公布第 14、33、126 條條文；第 14 條第 1 項第 9 類規定， 自九十七年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 44,
+   "promulgated": "2008-12-26",
+   "orig": [
+    "2008-12-28",
+    "default_§13"
+   ],
+   "p3": [
+    "2008-12-28",
+    "default_§13"
+   ],
+   "fixed": [
+    "2008-12-28",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "17",
+     "effective": "2008-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "44. 中華民國九十七年十二月二十六日總統華總一義字第 09700282061 號令修正公布第 5-1、17、126 條條文；其中第 17 條條文自九十七 年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 47,
+   "promulgated": "2009-05-27",
+   "orig": [
+    "2009-05-29",
+    "default_§13"
+   ],
+   "p3": [
+    "2009-05-29",
+    "default_§13"
+   ],
+   "fixed": [
+    "2009-05-29",
+    "default_§13"
+   ],
+   "rules": [],
+   "partial": [
+    {
+     "refs": [
+      "5"
+     ],
+     "effective": "2010-01-01",
+     "basis": "explicit_tax_year",
+     "scope": "第5條第2項及第5項規定，"
+    }
+   ],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "47. 中華民國九十八年五月二十七日總統華總一義字第 09800129131 號 令修正公布第 3-1、5、44、51、54、59、64、65、67、69、71、75 、77、79、80、88、89、100-2、106、108、110、111-1、114、114- 2、126 條條文；增訂第 24-3 條條文；刪除第 20 條條文；並自公 布日施行；但第 5 條第 2 項及第 5 項規定，自九十九年度施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 48,
+   "promulgated": "2010-06-15",
+   "orig": [
+    "2010-06-17",
+    "default_§13"
+   ],
+   "p3": [
+    "2010-01-01",
+    "tax_year"
+   ],
+   "fixed": [
+    "2010-06-17",
+    "default_§13"
+   ],
+   "rules": [],
+   "partial": [
+    {
+     "refs": [],
+     "effective": "2010-01-01",
+     "basis": "explicit_tax_year",
+     "scope": "修正之第5項規"
+    }
+   ],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "48. 中華民國九十九年六月十五日總統華總一義字第 09900150571 號令 修正公布第 5、126 條條文；修正之第 5 項規定自九十九年度施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 49,
+   "promulgated": "2011-01-19",
+   "orig": [
+    "2012-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2011-01-21",
+    "default_§13"
+   ],
+   "fixed": [
+    "2011-01-21",
+    "default_§13"
+   ],
+   "rules": [],
+   "partial": [
+    {
+     "refs": [
+      "4",
+      "17"
+     ],
+     "effective": "2012-01-01",
+     "basis": "explicit",
+     "scope": "第4條第1項第1款、第2款及第17條第1項第1款第4目規定，"
+    }
+   ],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "49. 中華民國一百年一月十九日總統華總一義字第 10000010141 號令修 正公布第 4、17、126 條條文；並自公布日施行；但第 4 條第 1 項第 1 款、第 2 款及第 17 條第 1 項第 1 款第 4 目規定， 自一百零一年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 56,
+   "promulgated": "2014-01-08",
+   "orig": [
+    "2014-01-08",
+    "explicit"
+   ],
+   "p3": [
+    "2014-01-08",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2014-01-08",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "56. 中華民國一百零三年一月八日總統華總一義字第 10300000621 號令 修正公布第 102-1、126 條條文；並增訂第 94-1 條條文；依第 126 條規定：施行日期，由行政院定之 中華民國一百零三年一月九日行政院院臺財字第 1030001476 號令發 布定自一百零三年一月八日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 57,
+   "promulgated": "2014-06-04",
+   "orig": [
+    "2014-06-06",
+    "default_§13"
+   ],
+   "p3": [
+    "2015-01-01",
+    "tax_year"
+   ],
+   "fixed": [
+    "2015-01-01",
+    "explicit_tax_year"
+   ],
+   "rules": [
+    {
+     "ref": "66-4",
+     "effective": "2015-01-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "66-6",
+     "effective": "2015-01-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "73-2",
+     "effective": "2015-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "57. 中華民國一百零三年六月四日總統華總一義字第 10300085101 號令 修正公布第 5、14、17、66-4、66-6、71、73-2、75、79、108、110 、126 條條文；除第 66-4、66-6、73-2 條條文自一百零四年一月一 日施行外，其餘條文自一百零四年度施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 60,
+   "promulgated": "2015-06-24",
+   "orig": [
+    "2015-06-26",
+    "default_§13"
+   ],
+   "p3": [
+    "2016-01-01",
+    "explicit"
+   ],
+   "fixed": [
+    "2016-01-01",
+    "explicit"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "60. 中華民國一百零四年六月二十四日總統華總一義字第 10400073881 號令修正公布第 126 條條文；增訂第 4-4、4-5、14-4～14-8、 24-5、108-2、125-2 條條文；依第 126 條規定：自一百零五年一 月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 62,
+   "promulgated": "2016-07-27",
+   "orig": [
+    "2016-08-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2016-08-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "17-4",
+     "effective": "2016-08-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "43-3",
+     "effective": "2023-01-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "62. 中華民國一百零五年七月二十七日總統華總一義字第 10500080981 號令修正公布第 126 條條文；並增訂第 17-4、43-3、43-4 條條文 ；依第 126 條規定：施行日期，由行政院定之 中華民國一百零五年八月一日行政院院臺財字第 1050032843 號令發 布第 17-4 條條文定自一百零五年八月一日施行 中華民國一百十一年一月十四日行政院院臺財字第 1100041879 號令 發布第 43-3 條條文定自一百十二年度施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 64,
+   "promulgated": "2018-02-07",
+   "orig": [
+    "2019-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2018-01-01",
+    "explicit"
+   ],
+   "fixed": [
+    "2018-01-01",
+    "explicit"
+   ],
+   "rules": [
+    {
+     "ref": "5",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "66-9",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "71",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "75",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "79",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "108",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "110",
+     "effective": "2018-01-01",
+     "basis": "explicit_tax_year"
+    },
+    {
+     "ref": "73-2",
+     "effective": "2019-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "64. 中華民國一百零七年二月七日總統華總一義字第 10700015201 號令 修正公布第 5、14、14-3、15、17、24、42、66-9、71、75、76、79 、88～89-1、92、100、102-1、106、108、110、114-1～114-3、126 條條文； 增訂第 114-4 條條文；刪除第 3-1、66-1～66-8、73-2、 100-1 條條文及第三章第五節節名；並自一百零七年一月一日施行。 但第 5、66-9、71、75、79、108、110 條條文自一百零七年度施行 ，第 73-2 條條文自一百零八年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "no": 65,
+   "promulgated": "2019-07-24",
+   "orig": [
+    "2019-07-26",
+    "default_§13"
+   ],
+   "p3": [
+    "2019-01-01",
+    "explicit"
+   ],
+   "fixed": [
+    "2019-01-01",
+    "explicit"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "65. 中華民國一百零八年七月二十四日總統華總一經字第 10800075041 號令修正公布第 14、17、126 條條文；並自一百零八年一月一日施 行"
+  },
+  {
+   "law_id": "01513",
+   "no": 69,
+   "promulgated": "2024-08-07",
+   "orig": [
+    "2025-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2025-01-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2025-01-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "69. 中華民國一百十三年八月七日總統華總一義字第 11300069611 號令 修正公布第 88、89、92、94-1、111、112、114、114-3、126 條條 文；依第 126 條規定：施行日期，由行政院定之 中華民國一百十三年八月二十七日行政院院臺財字第 1131022789 號 令發布定自一百十四年一月一日施行"
+  },
+  {
+   "law_id": "01526",
+   "no": 1,
+   "promulgated": "2005-12-28",
+   "orig": [
+    "2010-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2006-01-01",
+    "explicit"
+   ],
+   "fixed": [
+    "2006-01-01",
+    "explicit"
+   ],
+   "rules": [
+    {
+     "ref": "15",
+     "effective": "2007-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [
+    {
+     "refs": [
+      "12"
+     ],
+     "effective": "2010-01-01",
+     "basis": "executive_yuan_order",
+     "scope": "發布第12條第1項第1款條文"
+    }
+   ],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "1.中華民國九十四年十二月二十八日總統華總一義字第 09400212601 號 令制定公布全文 18 條；本條例施行日期除另有規定外，自九十五年一 月一日施行。但第 15 條規定，自九十六年一月一日施行 中華民國九十七年九月十五日行政院院臺財字第 0970038167 號令發布 第 12 條第 1 項第 1 款條文定自九十九年一月一日施行"
+  },
+  {
+   "law_id": "01526",
+   "no": 2,
+   "promulgated": "2012-08-08",
+   "orig": [
+    "2012-08-10",
+    "default_§13"
+   ],
+   "p3": [
+    "2013-01-01",
+    "tax_year"
+   ],
+   "fixed": [
+    "2013-01-01",
+    "explicit_tax_year"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "2.中華民國一百零一年八月八日總統華總一義字第 10100177761 號令修 正公布第 3、5、7、8、12、18 條條文；增訂第 15-1 條條文；刪除第 10 條條文；依第 18 條規定：自中華民國一百零二年度施行"
+  },
+  {
+   "law_id": "01526",
+   "no": 3,
+   "promulgated": "2017-05-10",
+   "orig": [
+    "2023-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2023-01-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2023-01-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "3.中華民國一百零六年五月十日總統華總一義字第 10600056431 號令修 正公布第 3、13、14、18 條條文；並增訂第 12-1 條條文；依第 18 條規定：施行日期，由行政院定之 中華民國一百十一年一月十四日行政院院臺財字第 1100041879 號令發 布定自一百十二年一月一日施行"
+  },
+  {
+   "law_id": "01526",
+   "no": 4,
+   "promulgated": "2021-01-27",
+   "orig": [
+    "2021-01-29",
+    "default_§13"
+   ],
+   "p3": [
+    "2021-01-29",
+    "default_§13"
+   ],
+   "fixed": [
+    "2021-01-29",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "12",
+     "effective": "2021-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "4.中華民國一百十年一月二十七日總統華總一經字第 11000006931 號令 修正公布第 12、18 條條文；依第 18 條規定：第 12 條自一百十年一 月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 17,
+   "promulgated": "1988-05-27",
+   "orig": [
+    "1988-07-01",
+    "explicit"
+   ],
+   "p3": [
+    "1988-07-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "1988-07-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "17. 中華民國七十七年五月二十七日總統（77）華總（一）字第 2048 號 令修正公布第 7～9、13、15、23、24、26、29、32、35、36、46、5 8、60 條條文；並刪除第 56 條條文；依第 60 條規定：施行日期， 由行政院定之 中華民國七十七年六月十日行政院台七十七財字第 15319 號令發布 定自七十七年七月一日起施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 20,
+   "promulgated": "1995-08-02",
+   "orig": [
+    "1995-08-04",
+    "default_§13"
+   ],
+   "p3": [
+    "1995-08-04",
+    "default_§13"
+   ],
+   "fixed": [
+    "1995-09-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": false,
+   "note": "20. 中華民國八十四年八月二日總統（84）華總（一）義字第 5658 號令 修正公布第 8、51 條條文 中華民國八十四年八月二十三日行政院令發布自八十四年九月一日起 施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 21,
+   "promulgated": "1997-05-07",
+   "orig": [
+    "2002-01-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2002-01-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "16",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "20",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "21. 中華民國八十六年五月七日總統（86）華總（一）義字第 860010481 0 號令修正公布第 16、20 條條文；本法修正條文施行日期，由行政 院定之 中華民國九十年十二月二十一日行政院（90）台財字第 073658 號令 發布本次修正條文第 16、20 條自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 22,
+   "promulgated": "1997-05-30",
+   "orig": [
+    "1997-06-01",
+    "default_§13"
+   ],
+   "p3": [
+    "1997-06-01",
+    "default_§13"
+   ],
+   "fixed": [
+    "1997-07-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "52",
+     "effective": "1997-07-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": false,
+   "note": "22. 中華民國八十六年五月三十日總統（86）華總（一）義字第 8600126 780 號令修正公布第 52 條條文 中華民國八十六年六月三十日行政院（86）台財字第 26595 號令發 布修正之第 52 條條文，定於八十六年七月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 23,
+   "promulgated": "1997-10-29",
+   "orig": [
+    "1997-10-31",
+    "default_§13"
+   ],
+   "p3": [
+    "1997-12-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "1997-12-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "23. 中華民國八十六年十月二十九日總統（86）華總（一）義字第 86002 31640 號令修正公布第 8 條條文 中華民國八十六年十一月二十八日行政院（86）台財字第 46701 號 令發布前項修正條文定於八十六年十二月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 24,
+   "promulgated": "1998-06-17",
+   "orig": [
+    "1998-06-19",
+    "default_§13"
+   ],
+   "p3": [
+    "1998-07-10",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "1998-07-10",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "24. 中華民國八十七年六月十七日總統（87）華總（一）義字第 8700119 510 號令增訂公布第 53-1 條條文 中華民國八十七年七月七日行政院（87）台財字第 33932 號令發布 前項條文定於八十七年七月十日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 25,
+   "promulgated": "1999-06-28",
+   "orig": [
+    "1999-06-30",
+    "default_§13"
+   ],
+   "p3": [
+    "1999-06-30",
+    "default_§13"
+   ],
+   "fixed": [
+    "1999-06-30",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "11",
+     "effective": "1999-07-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "21",
+     "effective": "1999-07-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "25. 中華民國八十八年六月二十八日總統（88）華總（一）義字第 88001 50080 號令修正公布第 11、21、60 條條文；第 11、21 條條文自八 十八年七月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 27,
+   "promulgated": "2001-07-09",
+   "orig": [
+    "2002-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2002-01-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2002-01-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "27. 中華民國九十年七月九日總統（90）華總一義字第 9000134120 號令 修正公布名稱及第 1、11、41、49、60 條條文；並增訂第 1-1、8- 2 條條文；依第 60 條規定：施行日期，由行政院定之 （原名稱：營業稅法；新名稱：加值型及非加值型營業稅法） 中華民國九十年八月十三日行政院（90）台財字第 046058 號令發布 自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 28,
+   "promulgated": "2003-06-25",
+   "orig": [
+    "2003-07-01",
+    "explicit"
+   ],
+   "p3": [
+    "2003-06-27",
+    "default_§13"
+   ],
+   "fixed": [
+    "2003-07-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "11",
+     "effective": "2003-07-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "28. 中華民國九十二年六月二十五日總統華總一義字第 09200114870 號 令修正公布第 11 條條文 中華民國九十二年六月二十五日行政院院臺財字第 0920035508 號令 發布第 11 條定自九十二年七月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 29,
+   "promulgated": "2005-06-22",
+   "orig": [
+    "2005-08-01",
+    "explicit"
+   ],
+   "p3": [
+    "2005-08-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2005-08-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "29. 中華民國九十四年六月二十二日總統華總一義字第 09400092831 號 令修正公布第 11 條條文；並刪除第 8-2 條條文；施行日期，由行 政院定之 中華民國九十四年八月一日行政院院臺財字第 0940033230 號令發布 定自九十四年八月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 30,
+   "promulgated": "2006-02-03",
+   "orig": [
+    "2006-05-01",
+    "explicit"
+   ],
+   "p3": [
+    "2006-05-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2006-05-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "30. 中華民國九十五年二月三日總統華總一義字第 09500014911 號令修 正公布第 8 條條文；施行日期由行政院定之 中華民國九十五年三月八日行政院院臺財字第 0950009842 號令發布 定自九十五年五月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 31,
+   "promulgated": "2007-12-12",
+   "orig": [
+    "2008-03-01",
+    "explicit"
+   ],
+   "p3": [
+    "2008-03-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2008-03-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "31. 中華民國九十六年十二月十二日總統華總一義字第 09600164551 號 令增訂公布第 15-1 條條文；施行日期由行政院定之 中華民國九十七年二月十八日行政院院臺財字第 0970005855 號令發 布定自九十七年三月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 32,
+   "promulgated": "2008-01-16",
+   "orig": [
+    "2008-03-01",
+    "explicit"
+   ],
+   "p3": [
+    "2008-03-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2008-03-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "32. 中華民國九十七年一月十六日總統華總一義字第 09700003931 號令 修正公布第 8、9 條條文；施行日期，由行政院定之 中華民國九十七年二月十八日行政院院臺財字第 0970006144 號令發 布定自九十七年三月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 33,
+   "promulgated": "2008-03-10",
+   "orig": [
+    "2008-03-10",
+    "explicit"
+   ],
+   "p3": [
+    "2008-03-10",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2008-03-10",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "33. 中華民國九十七年三月十日總統華總一義字第 09700029861 號令增 訂公布第 9-1 條條文；施行日期，由行政院定之 中華民國九十七年三月十日行政院院臺財字第 0970009436 號令發布 定自九十七年三月十日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 34,
+   "promulgated": "2010-05-05",
+   "orig": [
+    "2010-07-01",
+    "explicit"
+   ],
+   "p3": [
+    "2010-07-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2010-07-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "34. 中華民國九十九年五月五日總統華總一義字第 09900110351 號令增 訂公布第 7-1 條條文；施行日期，由行政院定之 中華民國九十九年六月二十五日行政院院臺財字第 0990036378 號令 發布定自九十九年七月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 35,
+   "promulgated": "2010-12-08",
+   "orig": [
+    "2011-02-01",
+    "explicit"
+   ],
+   "p3": [
+    "2011-02-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2011-02-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "35. 中華民國九十九年十二月八日總統華總一義字第 09900331431 號令 修正公布第 51 條條文；施行日期，由行政院定之 中華民國一百年一月三十一日行政院院臺財字第 1000005685 號令發 布定自一百年二月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 36,
+   "promulgated": "2011-01-26",
+   "orig": [
+    "2011-09-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2011-04-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "2",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "5",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "7",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "8",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "9",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "13",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "23",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "28",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "30",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "32",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "36",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "51",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "3-2",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "6-1",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "8-3",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "30-1",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "42-1",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "48-1",
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "16",
+     "effective": "2011-09-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "20",
+     "effective": "2011-09-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "36. 中華民國一百年一月二十六日總統華總一義字第 10000016571 號令 修正公布第 2、5、7、8、9、13、16、20、23、28、30、32、36、51 條條文；增訂第 3-2、6-1、8-3、30-1、42-1、48-1 條條文；施行 日期，由行政院定之 中華民國一百年三月三十一日行政院院臺財字第 1000016553 號令發 布除第 16、20 條外，其餘修正之第 2、5、7、8、9、13、23、28、 30、32、36、51 條條文及增訂之第 3-2、6-1、8-3、30-1、42-1、 48-1 條條文，定自一百年四月一日施行 中華民國一百年七月二十六日行政院院臺財字第 1000037876 號令發 布第 16、20 條條文，定自一百年九月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 37,
+   "promulgated": "2011-11-23",
+   "orig": [
+    "2011-11-23",
+    "explicit"
+   ],
+   "p3": [
+    "2011-11-23",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2011-11-23",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "37. 中華民國一百年十一月二十三日總統華總一義字第 10000259711 號 令增訂公布第 36-1 條條文；施行日期，由行政院定之 中華民國一百年十二月八日行政院院臺財字第 1000066010 號令發布 定自一百年十一月二十三日施行 中華民國一百零一年六月二十五日行政院院臺規字第 1010134960 號 公告第 11 條第 7 項所列屬「行政院金融監督管理委員會」之權責 事項，自一百零一年七月一日起改由「金融監督管理委員會」管轄"
+  },
+  {
+   "law_id": "01521",
+   "no": 38,
+   "promulgated": "2014-01-08",
+   "orig": [
+    "2014-03-01",
+    "explicit"
+   ],
+   "p3": [
+    "2014-03-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2014-03-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "38. 中華民國一百零三年一月八日總統華總一義字第 10300000631 號令 修正公布第 12 條條文；施行日期，由行政院定之 中華民國一百零三年二月六日行政院院臺財字第 1030004704 號令發 布定自一百零三年三月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 39,
+   "promulgated": "2014-06-04",
+   "orig": [
+    "2014-07-01",
+    "explicit"
+   ],
+   "p3": [
+    "2014-07-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2014-07-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "39. 中華民國一百零三年六月四日總統華總一義字第 10300085111 號令 修正公布第 11、36 條條文；施行日期，由行政院定之 中華民國一百零三年六月十六日行政院院臺財字第 1030033781 號令 發布定自一百零三年七月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 40,
+   "promulgated": "2015-12-30",
+   "orig": [
+    "2016-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2016-01-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2016-01-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "40. 中華民國一百零四年十二月三十日總統華總一義字第 10400151441 號令修正公布第 32、45～48、49、52 條條文；並增訂第 32-1 條條 文；施行日期，由行政院定之 中華民國一百零五年一月十一日行政院院臺財字第 1050000942 號令 發布定自一百零五年一月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 41,
+   "promulgated": "2016-12-28",
+   "orig": [
+    "2017-05-01",
+    "explicit"
+   ],
+   "p3": [
+    "2017-05-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2017-05-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "41. 中華民國一百零五年十二月二十八日總統華總一義字第 10500161481 號令修正公布第 6、28、29～30-1、36、43、45、51 條條文；並增 訂第 2-1、28-1、49-1 條條文；施行日期，由行政院定之 中華民國一百零六年一月二十五日行政院院臺財字第 1060001430 號 令發布定自一百零六年五月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 43,
+   "promulgated": "2023-12-06",
+   "orig": [
+    "2023-12-20",
+    "explicit"
+   ],
+   "p3": [
+    "2023-12-20",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2023-12-20",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "43. 中華民國一百十二年十二月六日總統華總一經字第 11200105801 號 令修正公布第 2-1、6 條條文；施行日期，由行政院定之 中華民國一百十二年十二月二十日行政院院臺財字第 1121045555 號 令發布定自一百十二年十二月二十日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 44,
+   "promulgated": "2024-08-07",
+   "orig": [
+    "2025-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2025-01-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2025-01-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "44. 中華民國一百十三年八月七日總統華總一義字第 11300068911 號令 修正公布第 6-1、32-1、50 條條文；增訂第 48-2 條條文；施行日 期，由行政院定之 中華民國一百十三年八月三十日行政院院臺財字第 1131022439 號令 發布定自一百十四年一月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "no": 45,
+   "promulgated": "2025-05-28",
+   "orig": [
+    "2026-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2026-01-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2026-01-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "45. 中華民國一百十四年五月二十八日總統華總一經字第 11400053231 號令修正公布第 58 條條文；施行日期，由行政院定之 中華民國一百十四年七月一日行政院院臺財字第 1141017790 號令發 布定自一百十五年一月一日施行"
+  },
+  {
+   "law_id": "01512",
+   "no": 19,
+   "promulgated": "2011-05-11",
+   "orig": [
+    "2011-05-13",
+    "default_§13"
+   ],
+   "p3": [
+    "2011-07-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2011-07-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "19. 中華民國一百年五月十一日總統華總一義字第 10000090961 號令修 正公布第 19、35、51 條條文；依第 51 條規定，施行日期由行政院 定之 中華民國一百年六月二十日行政院院臺財字第 1000030503 號令定自 一百年七月一日施行"
+  },
+  {
+   "law_id": "01512",
+   "no": 31,
+   "promulgated": "2021-12-17",
+   "orig": [
+    "2022-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2021-12-19",
+    "default_§13"
+   ],
+   "fixed": [
+    "2021-12-19",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "20",
+     "effective": "2022-01-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "31. 中華民國一百十年十二月十七日總統華總一經字第 11000112901 號 令修正公布第 6、19、20～24、28、30、34、35、39、41、43、44、 47、48-1、48-2、49、50-5、51 條條文；增訂第 26-1、49-1 條條 文；刪除第 12-1、50-1、50-3、50-4 條條文；並自公布日施行，但 第 20 條條文施行日期由行政院定之 中華民國一百十年十二月二十三日行政院院臺財字第 1100040703 號 令發布第 20 條條文定自一百十一年一月一日施行"
+  },
+  {
+   "law_id": "01655",
+   "no": 1,
+   "promulgated": "2016-12-28",
+   "orig": [
+    "2016-12-30",
+    "default_§13"
+   ],
+   "p3": [
+    "2017-12-28",
+    "relative_after_promulgation"
+   ],
+   "fixed": [
+    "2017-12-28",
+    "relative_after_promulgation"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "1.中華民國一百零五年十二月二十八日總統華總一義字第 10500161471 號令制定公布全文 23 條；並自公布後一年施行"
+  },
+  {
+   "law_id": "01655",
+   "no": 2,
+   "promulgated": "2025-05-28",
+   "orig": [
+    "2025-05-30",
+    "default_§13"
+   ],
+   "p3": [
+    "2026-05-28",
+    "relative_after_promulgation"
+   ],
+   "fixed": [
+    "2026-05-28",
+    "relative_after_promulgation"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "2.中華民國一百十四年五月二十八日總統華總一經字第 11400053691 號 令修正公布第 4、6、20 條條文；並自公布後一年施行"
+  },
+  {
+   "law_id": "01524",
+   "no": 18,
+   "promulgated": "2024-01-03",
+   "orig": [
+    "2024-07-01",
+    "explicit"
+   ],
+   "p3": [
+    "2024-01-05",
+    "default_§13"
+   ],
+   "fixed": [
+    "2024-01-05",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "4~7",
+     "effective": "2024-07-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "12",
+     "effective": "2024-07-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "15",
+     "effective": "2024-07-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "18. 中華民國一百十三年一月三日總統華總一經字第 11200115291 號令 修正公布第 4～6、7、9、11、15、18、24、25 條條文；增訂第 6-1 條條文；刪除第 12 條條文；並自公布日施行，但第 4～7 條、第 12、15 條條文，自一百十三年七月一日施行"
+  },
+  {
+   "law_id": "01525",
+   "no": 11,
+   "promulgated": "2001-06-13",
+   "orig": [
+    "2001-06-15",
+    "default_§13"
+   ],
+   "p3": [
+    "2001-07-01",
+    "explicit"
+   ],
+   "fixed": [
+    "2001-07-01",
+    "explicit"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "11. 中華民國九十年六月十三日總統（90）華總一義字第 9000115810 號 令修正公布第 33 條條文；並增訂第 7-1、14-1 條條文；並自九十 年七月一日起施行"
+  },
+  {
+   "law_id": "01516",
+   "no": 18,
+   "promulgated": "1986-01-17",
+   "orig": [
+    "1986-01-19",
+    "default_§13"
+   ],
+   "p3": [
+    "1986-01-19",
+    "default_§13"
+   ],
+   "fixed": [
+    "1986-04-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": false,
+   "note": "18. 中華民國七十五年一月十七日總統（75）華總（一）義字第 0292 號 令修正公布第 5、7、31 條條文；並刪除第 19 條條文 中華民國七十五年三月三十一日行政院令發布自七十五年四月一日起 施行"
+  },
+  {
+   "law_id": "01522",
+   "no": 20,
+   "promulgated": "2014-06-18",
+   "orig": [
+    "2015-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2014-06-20",
+    "default_§13"
+   ],
+   "fixed": [
+    "2014-06-20",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "7",
+     "effective": "2015-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "20. 中華民國一百零三年六月十八日總統華總一義字第 10300092701 號 令修正公布第 4、7、28、38 條條文；並自公布日施行，但第 7 條 條文，自一百零四年一月一日施行"
+  },
+  {
+   "law_id": "01517",
+   "no": 20,
+   "promulgated": "1990-01-24",
+   "orig": [
+    null,
+    "by_executive_yuan_unknown"
+   ],
+   "p3": [
+    "1990-06-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "1990-06-01",
+    "executive_yuan_order"
+   ],
+   "rules": [
+    {
+     "ref": "1~12",
+     "effective": "1990-01-26",
+     "basis": "default_§13"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "20. 中華民國七十九年一月二十四日總統（79）華總（一）義字第 0425 號令修正公布全文 37 條；依第 37 條規定：除第 1～12 條自公布 日施行外，其餘條文施行日期，由行政院定之 中華民國七十九年五月二十九日行政院臺七十九財字第 12769 號函 核定除第 1～12 條已自公布日施行外，其餘條文自七十九年六月一 日施行"
+  },
+  {
+   "law_id": "01517",
+   "no": 23,
+   "promulgated": "1997-05-07",
+   "orig": [
+    "2002-01-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2002-01-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "3",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "13~15",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "17",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "18",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "32",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "23. 中華民國八十六年五月七日總統（86）華總（一）義字第 860010577 0 號令修正公布第 3、13～15、17、18、32、37 條條文；並刪除第 5 條條文；依第 37 規定：本條例修正條文施行日期，由行政院定之 中華民國九十年十二月二十一日行政院（90）台財字第 073658 號令 發布本次修正條文修正第 3 條、第 13 條至 15 條、第 17 條、第 18 條及第 32 條自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01517",
+   "no": 25,
+   "promulgated": "2001-10-31",
+   "orig": [
+    "2002-01-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2002-01-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "12",
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "25. 中華民國九十年十月三十一日總統（90）華總一義字第 9000213940 號令修正公布第 12、37 條條文；本條例修正條文施行日期，由行政 院定之 中華民國九十年十二月二十一日行政院（90）台財字第 073658 號令 發布本次修正條文第 12 條自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01517",
+   "no": 47,
+   "promulgated": "2025-08-19",
+   "orig": [
+    "2026-01-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2026-01-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "8",
+     "effective": "2026-01-01",
+     "basis": "executive_yuan_order"
+    },
+    {
+     "ref": "11",
+     "effective": "2026-01-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "47. 中華民國一百十四年八月十九日總統華總一經字第 11400083161 號 令修正公布第 8、11、37 條條文；依第 37 條規定：施行日期，由 行政院定之 中華民國一百十四年十一月十四日行政院院臺財字第 1141031473 號 令發布第 8、11 條，定自一百十五年一月一日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 3,
+   "promulgated": "2006-01-18",
+   "orig": [
+    "2006-02-16",
+    "explicit"
+   ],
+   "p3": [
+    "2006-02-16",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2006-02-16",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "3.中華民國九十五年一月十八日總統華總一義字第 09500005901 號令修 正公布第 22、23 條條文；施行日期由行政院定之 中華民國九十五年一月二十七日行政院院臺財字第 0950003674 號令發 布定自九十五年二月十六日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 4,
+   "promulgated": "2008-05-07",
+   "orig": [
+    "2008-05-16",
+    "explicit"
+   ],
+   "p3": [
+    "2008-05-16",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2008-05-16",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "4.中華民國九十七年五月七日總統華總一義字第 09700053481 號令修正 公布第 2、3、8、10 條條文；施行日期由行政院定之 中華民國九十七年五月十二日行政院院臺財字第 0970017325 號令發布 定自九十七年五月十六日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 5,
+   "promulgated": "2008-11-26",
+   "orig": [
+    "2008-11-26",
+    "explicit"
+   ],
+   "p3": [
+    "2008-11-26",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2008-11-26",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "5.中華民國九十七年十一月二十六日總統華總一義字第 09700250521 號 令修正公布第 21 條條文；施行日期由行政院定之 中華民國九十七年十一月二十六日行政院院臺財字第0970053622 號令 發布定自九十七年十一月二十六日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 6,
+   "promulgated": "2009-05-13",
+   "orig": [
+    "2009-06-01",
+    "explicit"
+   ],
+   "p3": [
+    null,
+    "pending_executive_yuan"
+   ],
+   "fixed": [
+    "2009-06-01",
+    "executive_yuan_order_unnamed"
+   ],
+   "rules": [
+    {
+     "ref": "8",
+     "effective": "2009-06-01",
+     "basis": "executive_yuan_order"
+    }
+   ],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": true,
+   "note": "6.中華民國九十八年五月十三日總統華總一義字第 09800118231 號令修 正公布第 8 條條文；施行日期由行政院定之 中華民國九十八年五月二十二日行政院院臺財字第 0980028996 號令發 布第 8 條條文定自九十八年六月一日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 7,
+   "promulgated": "2009-12-30",
+   "orig": [
+    "2009-12-30",
+    "explicit"
+   ],
+   "p3": [
+    "2009-12-30",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2009-12-30",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "7.中華民國九十八年十二月三十日總統華總一義字第 09800323221 號令 修正公布第 22 條條文；施行日期由行政院定之 中華民國九十八年十二月三十日行政院院臺財字第 0980112033 號令發 布定自九十八年十二月三十日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 8,
+   "promulgated": "2010-09-01",
+   "orig": [
+    "2010-09-16",
+    "explicit"
+   ],
+   "p3": [
+    "2010-09-16",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2010-09-16",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "8.中華民國九十九年九月一日總統華總一義字第 09900224421 號令修正 公布第 2 條條文；施行日期由行政院定之 中華民國九十九年九月六日行政院院臺財字第 0990050126 號令發布定 自九十九年九月十六日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 9,
+   "promulgated": "2017-05-10",
+   "orig": [
+    "2017-06-12",
+    "explicit"
+   ],
+   "p3": [
+    "2017-06-12",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2017-06-12",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "9.中華民國一百零六年五月十日總統華總一義字第 10600056421 號令修 正公布第 7、20 條條文；並增訂第 20-1 條條文；施行日期由行政院 定之 中華民國一百零六年五月十六日行政院院臺財字第 1060015615 號令發 布定自一百零六年六月十二日施行"
+  },
+  {
+   "law_id": "01622",
+   "no": 11,
+   "promulgated": "2023-02-08",
+   "orig": [
+    "2023-04-01",
+    "explicit"
+   ],
+   "p3": [
+    "2023-04-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2023-04-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "11. 中華民國一百十二年二月八日總統華總一經字第 11200009201 號令 修正公布第 7 條條文；施行日期由行政院定之 中華民國一百十二年三月二十四日行政院院臺財字第 1125004845 號 令發布定自一百十二年四月一日施行"
+  },
+  {
+   "law_id": "08148",
+   "no": 1,
+   "promulgated": "2011-05-04",
+   "orig": [
+    null,
+    "by_executive_yuan_unknown"
+   ],
+   "p3": [
+    "2011-06-01",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2011-06-01",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "1.中華民國一百年五月四日總統華總一義字第 10000085291 號令制定公 布全文 26 條；依第 26 條規定：施行日期，由行政院定之 中華民國一百年五月十九日行政院院臺財字第 1000025165 號令定自一 百年六月一日施行"
+  },
+  {
+   "law_id": "01518",
+   "no": 12,
+   "promulgated": "2023-05-10",
+   "orig": [
+    "2023-05-12",
+    "default_§13"
+   ],
+   "p3": [
+    "2023-05-12",
+    "default_§13"
+   ],
+   "fixed": [
+    "2023-05-12",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "2-3",
+     "effective": "2023-11-10",
+     "basis": "relative_after_promulgation"
+    },
+    {
+     "ref": "3",
+     "effective": "2023-11-10",
+     "basis": "relative_after_promulgation"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "12. 中華民國一百十二年五月十日總統華總一經字第 11200038311 號令 修正公布第 3、11、16 條條文；增訂第 2-3 條條文；依第 16 條 規定：自公布日施行，但第 2-3、3 條，自公布後六個月施行"
+  },
+  {
+   "law_id": "07158",
+   "no": 1,
+   "promulgated": "2019-07-24",
+   "orig": [
+    "2019-08-15",
+    "explicit"
+   ],
+   "p3": [
+    "2019-08-15",
+    "executive_yuan_order"
+   ],
+   "fixed": [
+    "2019-08-15",
+    "executive_yuan_order"
+   ],
+   "rules": [],
+   "partial": [],
+   "delegated": true,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "1.中華民國一百零八年七月二十四日總統華總一經字第 10800075631 號 令制定公布全文 13 條；依第 13 條規定：施行日期，由行政院定之 中華民國一百零八年八月六日行政院院臺財字第 1080025482 號令發布 定自一百零八年八月十五日施行"
+  },
+  {
+   "law_id": "01587",
+   "no": 3,
+   "promulgated": "2009-06-10",
+   "orig": [
+    "2009-06-12",
+    "default_§13"
+   ],
+   "p3": [
+    "2009-06-12",
+    "default_§13"
+   ],
+   "fixed": [
+    "2009-06-12",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "4",
+     "effective": "2009-11-23",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "3.中華民國九十八年六月十日總統華總一義字第 09800145181 號令修正 公布第 4、39 條條文；依第 39 條規定：第 4 條自九十八年十一月 二十三日施行"
+  },
+  {
+   "law_id": "08128",
+   "no": 1,
+   "promulgated": "2010-05-12",
+   "orig": [
+    "2010-05-14",
+    "default_§13"
+   ],
+   "p3": [
+    "2010-05-14",
+    "default_§13"
+   ],
+   "fixed": [
+    "2010-05-14",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "10",
+     "effective": "2010-01-01",
+     "basis": "explicit_period_start"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "1.中華民國九十九年五月十二日總統華總一義字第 09900112301 號令制 定公布全文 72 條；並自公布日施行，但第 10 條施行期間自九十九年 一月一日起至一百零八年十二月三十一日止"
+  },
+  {
+   "law_id": "08128",
+   "no": 3,
+   "promulgated": "2015-12-30",
+   "orig": [
+    "2016-01-01",
+    "explicit"
+   ],
+   "p3": [
+    "2016-01-01",
+    "default_§13"
+   ],
+   "fixed": [
+    "2016-01-01",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "10",
+     "effective": "2016-01-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "12-1",
+     "effective": "2016-01-01",
+     "basis": "explicit"
+    },
+    {
+     "ref": "19-1",
+     "effective": "2016-01-01",
+     "basis": "explicit"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "3.中華民國一百零四年十二月三十日總統華總一義字第 10400152831 號 令修正公布第 10、33、72 條條文；並增訂第 12-1、19-1、67-1 條條 文；除第 10 條自一百零五年一月一日施行至一百零八年十二月三十一 日止；第 12-1、19-1 條自一百零五年一月一日施行至一百零八年十二 月三十一日止外，其餘自公布日施行"
+  },
+  {
+   "law_id": "08128",
+   "no": 7,
+   "promulgated": "2019-07-24",
+   "orig": [
+    "2019-07-26",
+    "default_§13"
+   ],
+   "p3": [
+    "2019-07-26",
+    "default_§13"
+   ],
+   "fixed": [
+    "2019-07-26",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "12-1",
+     "effective": "2020-01-01",
+     "basis": "explicit_period_start"
+    },
+    {
+     "ref": "12-2",
+     "effective": "2020-01-01",
+     "basis": "explicit_period_start"
+    },
+    {
+     "ref": "19-1",
+     "effective": "2020-01-01",
+     "basis": "explicit_period_start"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "7.中華民國一百零八年七月二十四日總統華總一經字第 10800073771 號 令修正公布第 9-1、12-1、12-2、19-1、23-1、39、72 條條文；增訂 第 23-3 條條文；刪除第 40 條條文；除第 12-1、12-2、19-1 條施行 期間，自一百零九年一月一日起至一百十八年十二月三十一日止；第 23-3 條施行期間，自公布生效日起至一百十八年十二月三十一日止外 ；其餘自公布日施行"
+  },
+  {
+   "law_id": "08128",
+   "no": 9,
+   "promulgated": "2023-01-19",
+   "orig": [
+    "2023-01-21",
+    "default_§13"
+   ],
+   "p3": [
+    "2023-01-21",
+    "default_§13"
+   ],
+   "fixed": [
+    "2023-01-21",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "10-2",
+     "effective": "2023-01-01",
+     "basis": "explicit_period_start"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "9.中華民國一百十二年一月十九日總統華總一經字第 11200005101 號令 修正公布第 72 條條文；增訂第 10-2 條條文；第 10-2 條條文施行期 間，自一百十二年一月一日起至一百十八年十二月三十一日止"
+  },
+  {
+   "law_id": "08128",
+   "no": 11,
+   "promulgated": "2025-05-07",
+   "orig": [
+    null,
+    "by_executive_yuan_unknown"
+   ],
+   "p3": [
+    "2025-05-09",
+    "default_§13"
+   ],
+   "fixed": [
+    "2025-05-09",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "23-2",
+     "effective": "2025-01-01",
+     "basis": "explicit_period_start"
+    },
+    {
+     "ref": "22",
+     "effective": "pending",
+     "basis": "by_executive_yuan"
+    },
+    {
+     "ref": "67-3",
+     "effective": "pending",
+     "basis": "by_executive_yuan"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": true,
+   "in_p3_31": true,
+   "note": "11. 中華民國一百十四年五月七日總統華總一經字第 11400044621 號令 修正公布第 10-1、22、23-1、23-2、67-1、67-2、70、72 條條文； 增訂第 67-3 條條文；修正之第 23-2 條施行期間，自一百十四年一 月一日起至一百十八年十二月三十一日止；依第 72 條規定：第 22、 67-3 條施行日期，由行政院定之；其餘條文自公布日施行"
+  },
+  {
+   "law_id": "08128",
+   "no": 12,
+   "promulgated": "2026-09-30",
+   "orig": [
+    "2026-10-02",
+    "default_§13"
+   ],
+   "p3": [
+    "2026-10-02",
+    "default_§13"
+   ],
+   "fixed": [
+    "2026-10-02",
+    "default_§13"
+   ],
+   "rules": [
+    {
+     "ref": "19-1",
+     "effective": "2027-01-01",
+     "basis": "explicit_period_start"
+    }
+   ],
+   "partial": [],
+   "delegated": false,
+   "main_differs_from_orig": false,
+   "in_p3_31": false,
+   "note": "12. 中華民國一百十五年九月三十日總統華總一經字第 11500094711 號 令修正公布第 19-1、23-1、23-2、72 條條文；依第 72 條規定：第 19-1 條施行期間，自一百十六年一月一日起至一百十八年十二月三 十一日止；第 23-2 條施行期間，自公布生效日起至一百十八年十二 月三十一日止；原一百零八年七月二十四日修正公布之第 19-1 條施 行期間，自一百零九年一月一日起至一百十五年十二月三十一日止"
+  }
+ ]
+}

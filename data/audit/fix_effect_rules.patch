@@ -1,0 +1,23 @@
+--- a/src/effect_rules.py
++++ b/src/effect_rules.py
+@@ -62,6 +62,20 @@
+                 rules.append({"amend_date": roc_date(a).isoformat(), "articles": None, "effective": None,
+                               "basis": "commencement_by_executive_yuan"})
+             continue
++        if len(amends) > 1 and effs and effs[-1].start() > amends[-1].end():
++            # "九十八年五月二十七日修正公布之第五條第二項及九十九年六月十五日修正公布之同條第五項，自九十九年度施行":
++            # one clause for several amendments -> one rule per amendment, with the articles named after its date
++            # ("同條" = the article named just before). Before this, only the LAST amendment got a rule.
++            e0, prev = effs[-1], None
++            for i, a in enumerate(amends):
++                seg = sent[a.end(): amends[i + 1].start() if i + 1 < len(amends) else e0.start()]
++                arts = sorted({art_key(m) for m in ART_RX.finditer(seg)}) or (prev if "同條" in seg else None)
++                prev = arts or prev
++                if arts:
++                    rules.append({"amend_date": roc_date(a).isoformat(), "articles": arts, "effective": _eff(e0)[0],
++                                  "basis": _eff(e0)[1]})
++            last_amend = roc_date(amends[-1]).isoformat()
++            continue
+         amend = roc_date(amends[-1]).isoformat()
+         last_amend = amend
+         head = sent[amends[-1].end():]

@@ -1,0 +1,712 @@
+{
+ "cases": [
+  {
+   "id": "nhi_2g",
+   "title": "National Health Insurance Act, 2011 full revision ('二代健保')",
+   "reading": "promulgated 2011-01-26; Executive Yuan order of 2012-05-21: Arts 27, 28, 35 from 2012-07-01 ('發布第27、28、35條條文定自一百零一年七月一日施行'); order of 2012-10-09: all other articles from 2013-01-01 ('除已施行之條文外，定自一百零二年一月一日施行')",
+   "moj_url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0060001",
+   "moj_entry_text": "9.中華民國一百年一月二十六日總統華總一義字第10000011861號令修正公布全文104條；施行日期，由行政院定之中華民國一百零一年五月二十一日行政院院臺衛字第1010024941號令發布第27、28、35條條文定自一百零一年七月一日施行中華民國一百零一年十月九日行政院院臺衛字第1010144186號令發布除已施行之條文外，定自一百零二年一月一日施行",
+   "chronomed": {
+    "article_versions": 104,
+    "as_expected": 104,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   },
+   "tax_rules": {
+    "article_versions": 104,
+    "as_expected": 101,
+    "not_as_expected": [
+     [
+      "第三十五條",
+      "2013-01-01",
+      "2012-07-01"
+     ],
+     [
+      "第二十七條",
+      "2013-01-01",
+      "2012-07-01"
+     ],
+     [
+      "第二十八條",
+      "2013-01-01",
+      "2012-07-01"
+     ]
+    ],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   }
+  },
+  {
+   "id": "nhi_2011_art11",
+   "title": "National Health Insurance Act, 2011-06-29 amendment of Art. 11 (of the new, not yet active text)",
+   "reading": "promulgated 2011-06-29; '施行日期，由行政院定之' + Executive Yuan order of 2011-08-12: '定自一百年九月一日施行' -> 2011-09-01. This text replaced the 2011-01 text of Art. 11 before that text ever applied.",
+   "moj_url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0060001",
+   "moj_entry_text": "10.中華民國一百年六月二十九日總統華總一義字第10000132401號令修正公布第11條條文；施行日期，由行政院定之中華民國一百年八月十二日行政院院臺衛字第1000041163號令定自一百年九月一日施行中華民國一百零一年二月三日行政院院臺規字第1010122318號公告一百年一月二十六日修正尚未施行之第75條第2項所列屬「行政院公平交易委員會」之權責事項，自一百零一年二月六日起改由「公平交易委員會」管轄中華民國一百零二年七月十九日行政院院臺規字第1020141353號公告第4條、第7條所列屬「行政院衛生署」、「行政院衛生署中央健康保險局」之權責事項，自一百零二年七月二十三日起分別改由「衛生福利部」、「衛生福利部中央健康保險署」管轄中華民國一百零二年十月二十五日行政院院臺規字第1020151451號公告第27條第6款所列屬「行政院國軍退除役官兵輔導委員會」之權責事項，自一百零二年十一月一日起改由「國軍退除役官兵輔導委員會」管轄",
+   "chronomed": {
+    "article_versions": 1,
+    "as_expected": 1,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   },
+   "tax_rules": {
+    "article_versions": 1,
+    "as_expected": 0,
+    "not_as_expected": [
+     [
+      "第十一條",
+      "2011-06-29",
+      "2011-09-01"
+     ]
+    ],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   }
+  },
+  {
+   "id": "tobacco_2023",
+   "title": "Tobacco Hazards Prevention Act, 2023 full revision",
+   "reading": "promulgated 2023-02-15; Executive Yuan order of 2023-03-20: Art. 4 para. 1 item 4 from 2023-04-01; Art. 9 para. 2 and part of Art. 29 from 2024-03-22; all other provisions ('其餘條文') from 2023-03-22",
+   "moj_url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0070021",
+   "moj_entry_text": "5.中華民國一百十二年二月十五日總統華總一義字第11200010211號令修正公布全文47條；施行日期，由行政院定之中華民國一百十二年三月二十日行政院院臺衛字第1125005696號令發布第4條第1項第4款，自一百十二年四月一日施行；第9條第2項、第29條第1項第3款及第3項有關販賣菸品有同條第1項第3款情形之罰責，自一百十三年三月二十二日施行；其餘條文，自一百十二年三月二十二日施行",
+   "chronomed": {
+    "article_versions": 47,
+    "as_expected": 47,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [
+     "第九條",
+     "第二十九條",
+     "第四條"
+    ],
+    "notes": []
+   },
+   "tax_rules": {
+    "article_versions": 47,
+    "as_expected": 47,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   }
+  },
+  {
+   "id": "tobacco_2007",
+   "title": "Tobacco Hazards Prevention Act, 2007 full revision",
+   "reading": "promulgated 2007-07-11; '除第4條之施行日期，由行政院定之外，自公布後十八個月施行' -> 2009-01-11 for all articles except Art. 4 (date left to the Executive Yuan; Art. 4 was amended again in 2009 and that text started 2009-06-01, entry 4). The current Art. 16 itself says '本法中華民國九十八年一月十一日修正生效前'.",
+   "moj_url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0070021",
+   "moj_entry_text": "3.中華民國九十六年七月十一日總統華總一義字第09600089641號令修正公布全文35條；除第4條之施行日期，由行政院定之外，自公布後十八個月施行",
+   "chronomed": {
+    "article_versions": 34,
+    "as_expected": 34,
+    "not_as_expected": [],
+    "pending_not_in_force": [
+     "第四條"
+    ],
+    "flagged_partial": [],
+    "notes": []
+   },
+   "tax_rules": {
+    "article_versions": 34,
+    "as_expected": 0,
+    "not_as_expected": [
+     [
+      "第七條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三十一條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三十三條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三十二條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三十五條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三十四條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三十條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第三條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第九條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十一條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十七條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十三條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十九條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十二條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十五條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十八條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十六條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十四條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二十條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第二條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第五條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第八條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第六條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十一條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十七條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十三條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十九條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十二條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十五條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十八條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十六條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十四條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第十條",
+      "2007-07-11",
+      "2009-01-11"
+     ],
+     [
+      "第四條",
+      "2007-07-11",
+      null
+     ]
+    ],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   }
+  },
+  {
+   "id": "devices_2021",
+   "title": "Medical Devices Act, enactment",
+   "reading": "promulgated 2020-01-15; Executive Yuan order of 2021-02-17: in force from 2021-05-01 ('定自一百十年五月一日施行')",
+   "moj_url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0030106",
+   "moj_entry_text": "1.中華民國一百零九年一月十五日總統華總一義字第10900004021號令制定公布全文85條；施行日期，由行政院定之中華民國一百十年二月十七日行政院院臺衛字第1100001220號令發布定自一百十年五月一日施行",
+   "chronomed": {
+    "article_versions": 85,
+    "as_expected": 85,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   },
+   "tax_rules": {
+    "article_versions": 85,
+    "as_expected": 85,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   }
+  },
+  {
+   "id": "autonomy_2019",
+   "title": "Patient Right to Autonomy Act, enactment",
+   "reading": "promulgated 2016-01-06; '依第19條規定：自公布後三年施行' -> 2019-01-06",
+   "moj_url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0020189",
+   "moj_entry_text": "1.中華民國一百零五年一月六日總統華總一義字第10400154061號令制定公布全文19條；依第19條規定：自公布後三年施行",
+   "chronomed": {
+    "article_versions": 19,
+    "as_expected": 19,
+    "not_as_expected": [],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   },
+   "tax_rules": {
+    "article_versions": 19,
+    "as_expected": 0,
+    "not_as_expected": [
+     [
+      "第一條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第七條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第三條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第九條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第二條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第五條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第八條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第六條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十一條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十七條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十三條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十九條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十二條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十五條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十八條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十六條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十四條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第十條",
+      "2016-01-08",
+      "2019-01-06"
+     ],
+     [
+      "第四條",
+      "2016-01-08",
+      "2019-01-06"
+     ]
+    ],
+    "pending_not_in_force": [],
+    "flagged_partial": [],
+    "notes": []
+   }
+  }
+ ],
+ "current_text": {
+  "identical": 1287,
+  "compared": 1294,
+  "per_act": {
+   "全民健康保險法": {
+    "moj_articles": 106,
+    "ly_articles": 106,
+    "in_both": 106,
+    "identical": 106,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "醫療法": {
+    "moj_articles": 132,
+    "ly_articles": 132,
+    "in_both": 132,
+    "identical": 132,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "藥事法": {
+    "moj_articles": 149,
+    "ly_articles": 149,
+    "in_both": 149,
+    "identical": 147,
+    "differ": [
+     "第二十三條",
+     "第四十八條之六"
+    ],
+    "differences": {
+     "第二十三條": [
+      [
+       "delete",
+       "物",
+       ""
+      ]
+     ],
+     "第四十八條之六": [
+      [
+       "insert",
+       "",
+       "二"
+      ]
+     ]
+    },
+    "only_moj": [],
+    "only_ly": []
+   },
+   "醫師法": {
+    "moj_articles": 69,
+    "ly_articles": 69,
+    "in_both": 69,
+    "identical": 69,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "護理人員法": {
+    "moj_articles": 71,
+    "ly_articles": 71,
+    "in_both": 71,
+    "identical": 71,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "長期照顧服務法": {
+    "moj_articles": 72,
+    "ly_articles": 72,
+    "in_both": 72,
+    "identical": 72,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "傳染病防治法": {
+    "moj_articles": 81,
+    "ly_articles": 81,
+    "in_both": 81,
+    "identical": 81,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "菸害防制法": {
+    "moj_articles": 47,
+    "ly_articles": 47,
+    "in_both": 47,
+    "identical": 47,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "食品安全衛生管理法": {
+    "moj_articles": 70,
+    "ly_articles": 70,
+    "in_both": 70,
+    "identical": 70,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "精神衛生法": {
+    "moj_articles": 91,
+    "ly_articles": 91,
+    "in_both": 91,
+    "identical": 91,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "醫療器材管理法": {
+    "moj_articles": 85,
+    "ly_articles": 85,
+    "in_both": 85,
+    "identical": 85,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "病人自主權利法": {
+    "moj_articles": 19,
+    "ly_articles": 19,
+    "in_both": 19,
+    "identical": 19,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "安寧緩和醫療條例": {
+    "moj_articles": 16,
+    "ly_articles": 16,
+    "in_both": 16,
+    "identical": 16,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "人體器官移植條例": {
+    "moj_articles": 31,
+    "ly_articles": 31,
+    "in_both": 31,
+    "identical": 30,
+    "differ": [
+     "第二條"
+    ],
+    "differences": {
+     "第二條": [
+      [
+       "delete",
+       "，",
+       ""
+      ]
+     ]
+    },
+    "only_moj": [],
+    "only_ly": []
+   },
+   "緊急醫療救護法": {
+    "moj_articles": 60,
+    "ly_articles": 60,
+    "in_both": 60,
+    "identical": 59,
+    "differ": [
+     "第十九條"
+    ],
+    "differences": {
+     "第十九條": [
+      [
+       "replace",
+       "污",
+       "汙"
+      ]
+     ]
+    },
+    "only_moj": [],
+    "only_ly": []
+   },
+   "藥害救濟法": {
+    "moj_articles": 28,
+    "ly_articles": 28,
+    "in_both": 28,
+    "identical": 28,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "罕見疾病防治及藥物法": {
+    "moj_articles": 40,
+    "ly_articles": 40,
+    "in_both": 40,
+    "identical": 40,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "藥師法": {
+    "moj_articles": 50,
+    "ly_articles": 50,
+    "in_both": 50,
+    "identical": 50,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "管制藥品管理條例": {
+    "moj_articles": 46,
+    "ly_articles": 46,
+    "in_both": 46,
+    "identical": 46,
+    "differ": [],
+    "differences": {},
+    "only_moj": [],
+    "only_ly": []
+   },
+   "健康食品管理法": {
+    "moj_articles": 31,
+    "ly_articles": 31,
+    "in_both": 31,
+    "identical": 28,
+    "differ": [
+     "第一條",
+     "第二十九條",
+     "第十八條"
+    ],
+    "differences": {
+     "第一條": [
+      [
+       "replace",
+       "訂",
+       "定"
+      ]
+     ],
+     "第二十九條": [
+      [
+       "insert",
+       "",
+       "命"
+      ]
+     ],
+     "第十八條": [
+      [
+       "replace",
+       "項",
+       "款"
+      ],
+      [
+       "replace",
+       "項",
+       "款"
+      ]
+     ]
+    },
+    "only_moj": [],
+    "only_ly": []
+   }
+  }
+ }
+}

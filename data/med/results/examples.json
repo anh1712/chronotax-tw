@@ -1,0 +1,271 @@
+[
+ {
+  "id": "nhi_supplementary_premium",
+  "law_id": "01189",
+  "pcode": "L0060001",
+  "question": "A hospital pays a visiting doctor (insured through another employer) a salary. Must it withhold an NHI supplementary premium (補充保險費)?",
+  "dates": [
+   "2012-06-01",
+   "2013-06-01"
+  ],
+  "query": "\"非所屬投保單位給付之薪資所得\"",
+  "en_article": "第三十一條",
+  "answer_rx": "非所屬投保單位給付之薪資所得",
+  "why": "二代健保 text promulgated 2011-01-26 but in force only from 2013-01-01 (Art. 31 para. 1 item 2). In 2012 the newest PUBLISHED text already had the rule, but it did not apply yet.",
+  "official_english_current": {
+   "label": "Article 31",
+   "text": "For beneficiary individuals in Categories 1 to 4 and Category 6, supplementary insurance premiums shall be calculated and collected based on the prescribed supplementary insurance premium rates for the following types of income. The premium withholder the payment shall deduct the supplementary insurance premium at the time of payment and remit it to the insurer by the end of the month following the payment date. However, no deduction is required for portions of a single payment exceeding NT$10 million or for amounts below a specified threshold:\n1. Accumulated annual bonus is given by group insurance applicants in excess of four times the monthly insurance premium ratable wages.\n2. Salary earnings outside of those from the group insurance applicant. However, this is not applicable to the salary earnings of Category 2 individuals.\n3. Income from professional practice. However, income from professional practice designated by Article 20 as an insured payroll-related amount is not to be included in the calculation of insurance premium ratable wages;\n4. Dividends income. However, this is not applicable to insurance premiums already included in the insurance premium ratable wages;\n5. Interest income;\n6. Earnings from rentals.\nThe premium withholder shall pay first if he is unable to deduct within the specified time.\nThe Competent Authority shall determine the amount referred to in Paragraph 1, the method of deduction and payment of supplementary insurance premium, and other relevant matters.",
+   "en_amended": "2023-06-28"
+  },
+  "by_date": {
+   "2012-06-01": {
+    "in_force_articles_matching": [],
+    "answer": "no such rule in force",
+    "indexes": {
+     "static": {
+      "article": "第三十一條",
+      "valid_from": "2013-01-01",
+      "valid_to": null,
+      "in_force_on_date": false,
+      "value": true
+     },
+     "latest": {
+      "article": "第三十一條",
+      "valid_from": "2013-01-01",
+      "valid_to": null,
+      "in_force_on_date": false,
+      "value": true
+     },
+     "temporal": null
+    }
+   },
+   "2013-06-01": {
+    "in_force_articles_matching": [
+     {
+      "article": "第三十一條",
+      "valid_from": "2013-01-01",
+      "valid_to": null,
+      "basis": "executive_yuan_order",
+      "promulgated": "2011-01-26",
+      "value": true,
+      "snippet": "\n　　二、非所屬投保單位給付之薪資所得"
+     }
+    ],
+    "answer": true,
+    "indexes": {
+     "static": {
+      "article": "第三十一條",
+      "valid_from": "2013-01-01",
+      "valid_to": null,
+      "in_force_on_date": true,
+      "value": true
+     },
+     "latest": {
+      "article": "第三十一條",
+      "valid_from": "2013-01-01",
+      "valid_to": null,
+      "in_force_on_date": true,
+      "value": true
+     },
+     "temporal": {
+      "article": "第三十一條",
+      "valid_from": "2013-01-01",
+      "valid_to": null,
+      "in_force_on_date": true,
+      "value": true
+     }
+    }
+   }
+  }
+ },
+ {
+  "id": "pharma_fine_cap",
+  "law_id": "02510",
+  "pcode": "L0030001",
+  "question": "What is the maximum fine under Pharmaceutical Affairs Act Art. 92 para. 1 (e.g. for breaking Art. 57 manufacturing rules)?",
+  "dates": [
+   "2014-06-01",
+   "2016-06-01"
+  ],
+  "query": "\"規定之一者，處新臺幣三萬元以上\"",
+  "en_article": "第九十二條",
+  "answer_rx": "規定之一者，處新臺幣三萬元以上([〇零一二兩三四五六七八九十百千萬億\\d,]+)元以下罰鍰",
+  "why": "Amendment promulgated 2015-12-02 (in force 2015-12-04) raised the cap from NT$150,000 to NT$2,000,000.",
+  "official_english_current": {
+   "label": "Article 92",
+   "text": "Any violator of the provisions of Article 6-1, Paragraph 1, Article 27, Paragraphs 1 and 3, Article 29, Article 31, Article 36, Article 37, Paragraphs 2 and 3, Article 39, Paragraph 1, Article 40, Paragraph 1, Article 44, Article 45-1, Article 46, Article 49, Article 50, Paragraph 1, Articles 51 through 53, Article 53-1 Paragraph 1, Article 55 Paragraph 1, Article 57 Paragraphs 1, 2, and 4, Article 57-1, Article 58, Article 59, Article 60, Article 64, Article 71, Paragraph 1, Article 72, Article 74, or Article 75, shall be issued a fine of not less than NT$30,000 but not more than NT$2,000,000.\nIn the case of any violation of the provisions of Article 59 or dispensing or supplying strongly poisonous drugs in violation of the provisions of Article 60, Paragraph 1, either the person responsible for managing the drugs or the production supervisor of the drugs shall also be issued the fines set forth in the preceding paragraph.\nAny violator of the provisions of Article 53-1 Paragraph 1, Article 57, Paragraph 2 or 4 shall be penalized pursuant to Paragraph 1 of this Article. The central competent health authority may publicly announce the name of the medicament factory or pharmaceutical firm and order them to make rectification within a prescribed time period, and during the time period for such rectification, may suspend, in whole or in part, their manufacturing, wholesaling, import, export, and business operations. If rectification is not made within the prescribed time period, the central competent health authority may deny approval for an extension of the validity of the medicament license previously granted and will not process any other new application for other medicaments from the given factory or firm in the case of severe violation, and the central competent health authority may revoke all or part of the medicaments manufacture or distribution license.\nA violator of any provision of Article 66, Paragraph 1 or 2, Article 67, or Article 68 shall be issued a fine of not less than NT$ 200,000 but not more than NT$ 5,000,000.",
+   "en_amended": "2026-03-04"
+  },
+  "by_date": {
+   "2014-06-01": {
+    "in_force_articles_matching": [
+     {
+      "article": "第九十二條",
+      "valid_from": "2012-06-29",
+      "valid_to": "2015-12-04",
+      "basis": "default_§13",
+      "promulgated": "2012-06-27",
+      "value": 150000,
+      "snippet": "違反第二十七條第一項、第三項、第二十九條、第三十一條、第三十六條、第三十七條第二項、第三項、第三十九條第一項、第四十條第一項、第四十四條、第四十五條之一、第四十六條、第四十九條、第五十條第一項、第五十一條至第五十三條、第五十五條第一項、第五"
+     }
+    ],
+    "answer": 150000,
+    "indexes": {
+     "static": {
+      "article": "第九十三條",
+      "valid_from": "1993-02-07",
+      "valid_to": "2004-04-23",
+      "in_force_on_date": false,
+      "value": 150000
+     },
+     "latest": {
+      "article": "第九十二條",
+      "valid_from": "2017-06-16",
+      "valid_to": null,
+      "in_force_on_date": false,
+      "value": 2000000
+     },
+     "temporal": {
+      "article": "第九十二條",
+      "valid_from": "2012-06-29",
+      "valid_to": "2015-12-04",
+      "in_force_on_date": true,
+      "value": 150000
+     }
+    }
+   },
+   "2016-06-01": {
+    "in_force_articles_matching": [
+     {
+      "article": "第九十二條",
+      "valid_from": "2015-12-04",
+      "valid_to": "2017-06-16",
+      "basis": "default_§13",
+      "promulgated": "2015-12-02",
+      "value": 2000000,
+      "snippet": "違反第六條之一第一項、第二十七條第一項、第三項、第二十九條、第三十一條、第三十六條、第三十七條第二項、第三項、第三十九條第一項、第四十條第一項、第四十四條、第四十五條之一、第四十六條、第四十九條、第五十條第一項、第五十一條至第五十三條、第五"
+     }
+    ],
+    "answer": 2000000,
+    "indexes": {
+     "static": {
+      "article": "第九十三條",
+      "valid_from": "1993-02-07",
+      "valid_to": "2004-04-23",
+      "in_force_on_date": false,
+      "value": 150000
+     },
+     "latest": {
+      "article": "第九十二條",
+      "valid_from": "2017-06-16",
+      "valid_to": null,
+      "in_force_on_date": false,
+      "value": 2000000
+     },
+     "temporal": {
+      "article": "第九十二條",
+      "valid_from": "2015-12-04",
+      "valid_to": "2017-06-16",
+      "in_force_on_date": true,
+      "value": 2000000
+     }
+    }
+   }
+  }
+ },
+ {
+  "id": "smoking_age",
+  "law_id": "02549",
+  "pcode": "L0070021",
+  "question": "May a 19-year-old smoke in Taiwan?",
+  "dates": [
+   "2022-06-01",
+   "2024-06-01"
+  ],
+  "query": "\"實際為照顧之人\" \"不得吸菸\"",
+  "en_article": "第十六條",
+  "answer_rx": "未滿([一二三四五六七八九十]+)歲(?:者|之人)(?:及孕婦)?，不得吸菸",
+  "why": "2023 full revision (in force 2023-03-22) raised the age from 18 to 20 and moved the rule from Art. 12 to Art. 16.",
+  "official_english_current": {
+   "label": "Article 16",
+   "text": "Persons under the age of 20 and pregnant women shall not smoke.\nThe parents, guardians, or actual caregivers of minors shall under their guardianship prevent the minors from smoking.",
+   "en_amended": "2023-02-15"
+  },
+  "by_date": {
+   "2022-06-01": {
+    "in_force_articles_matching": [
+     {
+      "article": "第十二條",
+      "valid_from": "2009-01-11",
+      "valid_to": "2023-03-22",
+      "basis": "relative_after_promulgation",
+      "promulgated": "2007-07-11",
+      "value": 18,
+      "snippet": "未滿十八歲者，不得吸菸"
+     }
+    ],
+    "answer": 18,
+    "indexes": {
+     "static": {
+      "article": "第十二條",
+      "valid_from": "2009-01-11",
+      "valid_to": "2023-03-22",
+      "in_force_on_date": true,
+      "value": 18
+     },
+     "latest": {
+      "article": "第十六條",
+      "valid_from": "2023-03-22",
+      "valid_to": null,
+      "in_force_on_date": false,
+      "value": 20
+     },
+     "temporal": {
+      "article": "第十二條",
+      "valid_from": "2009-01-11",
+      "valid_to": "2023-03-22",
+      "in_force_on_date": true,
+      "value": 18
+     }
+    }
+   },
+   "2024-06-01": {
+    "in_force_articles_matching": [
+     {
+      "article": "第十六條",
+      "valid_from": "2023-03-22",
+      "valid_to": null,
+      "basis": "executive_yuan_order",
+      "promulgated": "2023-02-15",
+      "value": 20,
+      "snippet": "未滿二十歲之人及孕婦，不得吸菸"
+     }
+    ],
+    "answer": 20,
+    "indexes": {
+     "static": {
+      "article": "第十二條",
+      "valid_from": "2009-01-11",
+      "valid_to": "2023-03-22",
+      "in_force_on_date": false,
+      "value": 18
+     },
+     "latest": {
+      "article": "第十六條",
+      "valid_from": "2023-03-22",
+      "valid_to": null,
+      "in_force_on_date": true,
+      "value": 20
+     },
+     "temporal": {
+      "article": "第十六條",
+      "valid_from": "2023-03-22",
+      "valid_to": null,
+      "in_force_on_date": true,
+      "value": 20
+     }
+    }
+   }
+  }
+ }
+]

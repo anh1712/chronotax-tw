@@ -1,0 +1,1611 @@
+{
+ "stores": {
+  "medical_chronomed": {
+   "acts": 20,
+   "versions": 196,
+   "versions_unmatched_ly_date_fallback": 0,
+   "versions_unknown_date_using_promulgation": 0,
+   "versions_pending_no_date": 0,
+   "versions_delayed_commencement": 24,
+   "versions_retroactive": 0,
+   "version_delay_days_median": 183.0,
+   "version_delay_days_max": 3023,
+   "versions_delay_ge_180d": 14,
+   "version_basis": {
+    "default_§13": 172,
+    "executive_yuan_order": 8,
+    "explicit": 7,
+    "relative_after_promulgation": 9
+   },
+   "articles": 1317,
+   "article_versions": 3019,
+   "tombstones": 31,
+   "article_versions_retroactive": 0,
+   "article_versions_delayed": 824,
+   "article_versions_delay_ge_180d": 742,
+   "article_versions_overtaken": 6,
+   "article_versions_zero_length": 6,
+   "article_versions_with_per_article_date": 65,
+   "article_from_basis": {
+    "commencement_article": 9,
+    "default_§13": 2195,
+    "executive_yuan_order": 370,
+    "explicit": 42,
+    "history_executive_yuan_order": 52,
+    "history_relative_after_promulgation": 2,
+    "moj_entry_without_ly_version": 2,
+    "relative_after_promulgation": 347
+   },
+   "first_year": "1929",
+   "last_ly_date": "2026-08-25",
+   "pending_articles": [
+    [
+     "02510",
+     "第二十七條之二",
+     "02510:2026-01-30-修正",
+     0
+    ],
+    [
+     "02510",
+     "第二十七條之三",
+     "02510:2026-01-30-修正",
+     0
+    ],
+    [
+     "02510",
+     "第九十六條之一",
+     "02510:2026-01-30-修正",
+     0
+    ],
+    [
+     "02549",
+     "第四條",
+     "02549:2007-06-15-全文修正",
+     1
+    ]
+   ],
+   "partial_commencement_rows": 16,
+   "article_versions_flagged_partial": 15,
+   "pending_gap_rows": 1,
+   "rule_conflicts": 0
+  },
+  "medical_tax_parser": {
+   "acts": 20,
+   "versions": 196,
+   "versions_unmatched_ly_date_fallback": 0,
+   "versions_unknown_date_using_promulgation": 4,
+   "versions_pending_no_date": 0,
+   "versions_delayed_commencement": 10,
+   "versions_retroactive": 0,
+   "version_delay_days_median": 141.5,
+   "version_delay_days_max": 1326,
+   "versions_delay_ge_180d": 4,
+   "version_basis": {
+    "default_§13": 182,
+    "explicit": 10,
+    "unknown_using_promulgation": 4
+   },
+   "articles": 1318,
+   "article_versions": 3023,
+   "tombstones": 30,
+   "article_versions_retroactive": 0,
+   "article_versions_delayed": 460,
+   "article_versions_delay_ge_180d": 371,
+   "article_versions_overtaken": 2,
+   "article_versions_zero_length": 2,
+   "article_versions_with_per_article_date": 9,
+   "article_from_basis": {
+    "commencement_article": 9,
+    "default_§13": 2500,
+    "explicit": 451,
+    "unknown_using_promulgation": 63
+   },
+   "first_year": "1929",
+   "last_ly_date": "2026-08-25"
+  },
+  "tax_chronotax": {
+   "acts": 23,
+   "versions": 406,
+   "versions_unmatched_ly_date_fallback": 2,
+   "versions_unknown_date_using_promulgation": 3,
+   "versions_pending_no_date": 0,
+   "versions_delayed_commencement": 46,
+   "versions_retroactive": 4,
+   "version_delay_days_median": 56.0,
+   "version_delay_days_max": 2062,
+   "versions_delay_ge_180d": 11,
+   "version_basis": {
+    "default_§13": 342,
+    "explicit": 59,
+    "ly_date_fallback": 2,
+    "unknown_using_promulgation": 3
+   },
+   "articles": 1166,
+   "article_versions": 3555,
+   "tombstones": 107,
+   "article_versions_retroactive": 54,
+   "article_versions_delayed": 363,
+   "article_versions_delay_ge_180d": 121,
+   "article_versions_overtaken": 4,
+   "article_versions_zero_length": 6,
+   "article_versions_with_per_article_date": 104,
+   "article_from_basis": {
+    "commencement_article": 78,
+    "commencement_tax_year": 26,
+    "default_§13": 3036,
+    "explicit": 338,
+    "ly_date_fallback": 5,
+    "unknown_using_promulgation": 72
+   },
+   "first_year": "1931",
+   "last_ly_date": "2026-08-27"
+  }
+ },
+ "history_forms": {
+  "medical": {
+   "moj_entries": 197,
+   "entries_date_differs_original_vs_extended": 21,
+   "entries_relative_commencement": 16,
+   "entries_with_executive_yuan_order": 12,
+   "entries_with_per_article_or_chapter_rules": 6,
+   "entries_with_paragraph_level_exceptions": 6,
+   "entries_with_still_pending_articles": 2,
+   "unparsed_clauses": [],
+   "entries_delayed_beyond_default": 24,
+   "share_delayed": 0.122,
+   "delay_days_median_of_delayed": 183.0,
+   "entries_delay_ge_180d": 14,
+   "moj_entries_without_ly_version": 1,
+   "differences": [
+    [
+     "01189",
+     10,
+     "2011-06-29",
+     null,
+     "2011-09-01"
+    ],
+    [
+     "02510",
+     19,
+     "2018-01-31",
+     null,
+     "2018-02-02"
+    ],
+    [
+     "02508",
+     3,
+     "1967-06-02",
+     "1967-06-04",
+     "1975-09-11"
+    ],
+    [
+     "02508",
+     4,
+     "1979-06-06",
+     "1979-06-08",
+     "1979-07-20"
+    ],
+    [
+     "02508",
+     5,
+     "1981-06-12",
+     "1981-06-14",
+     "1981-07-10"
+    ],
+    [
+     "02508",
+     6,
+     "1986-12-26",
+     "1986-12-28",
+     "1987-12-21"
+    ],
+    [
+     "02508",
+     7,
+     "1992-07-29",
+     "1992-07-31",
+     "1992-09-01"
+    ],
+    [
+     "02588",
+     1,
+     "2015-06-03",
+     "2015-06-05",
+     "2017-06-03"
+    ],
+    [
+     "02588",
+     2,
+     "2017-01-26",
+     "2017-01-28",
+     "2017-06-03"
+    ],
+    [
+     "02549",
+     1,
+     "1997-03-19",
+     "1997-03-21",
+     "1997-09-19"
+    ],
+    [
+     "02549",
+     3,
+     "2007-07-11",
+     null,
+     "2009-01-11"
+    ],
+    [
+     "02549",
+     4,
+     "2009-01-23",
+     "2009-06-01",
+     "2009-01-25"
+    ],
+    [
+     "02513",
+     11,
+     "2014-02-05",
+     "2014-06-19",
+     "2014-02-07"
+    ],
+    [
+     "02526",
+     4,
+     "2007-07-04",
+     "2007-07-06",
+     "2008-07-04"
+    ],
+    [
+     "02526",
+     6,
+     "2022-12-14",
+     "2026-08-01",
+     "2024-12-14"
+    ],
+    [
+     "02536",
+     1,
+     "2016-01-06",
+     "2016-01-08",
+     "2019-01-06"
+    ],
+    [
+     "02535",
+     7,
+     "2021-01-20",
+     "2021-01-22",
+     "2023-01-01"
+    ],
+    [
+     "02564",
+     4,
+     "2026-03-04",
+     null,
+     "2026-03-06"
+    ],
+    [
+     "02563",
+     1,
+     "2000-02-09",
+     "2000-02-11",
+     "2000-08-09"
+    ],
+    [
+     "02509",
+     7,
+     "2011-01-26",
+     "2011-01-28",
+     "2011-04-26"
+    ],
+    [
+     "02556",
+     1,
+     "1999-02-03",
+     "1999-02-05",
+     "1999-08-03"
+    ]
+   ],
+   "delayed_entries": [
+    [
+     "01189",
+     1,
+     "1994-08-09",
+     "1995-03-01",
+     204,
+     "executive_yuan_order"
+    ],
+    [
+     "01189",
+     2,
+     "1994-10-03",
+     "1995-03-01",
+     149,
+     "executive_yuan_order"
+    ],
+    [
+     "01189",
+     9,
+     "2011-01-26",
+     "2013-01-01",
+     706,
+     "executive_yuan_order"
+    ],
+    [
+     "01189",
+     10,
+     "2011-06-29",
+     "2011-09-01",
+     64,
+     "executive_yuan_order"
+    ],
+    [
+     "02510",
+     11,
+     "2006-05-30",
+     "2006-07-01",
+     32,
+     "explicit"
+    ],
+    [
+     "02508",
+     3,
+     "1967-06-02",
+     "1975-09-11",
+     3023,
+     "executive_yuan_order"
+    ],
+    [
+     "02508",
+     4,
+     "1979-06-06",
+     "1979-07-20",
+     44,
+     "explicit"
+    ],
+    [
+     "02508",
+     5,
+     "1981-06-12",
+     "1981-07-10",
+     28,
+     "explicit"
+    ],
+    [
+     "02508",
+     6,
+     "1986-12-26",
+     "1987-12-21",
+     360,
+     "explicit"
+    ],
+    [
+     "02508",
+     7,
+     "1992-07-29",
+     "1992-09-01",
+     34,
+     "explicit"
+    ],
+    [
+     "02508",
+     8,
+     "2000-07-19",
+     "2000-11-20",
+     124,
+     "executive_yuan_order"
+    ],
+    [
+     "02588",
+     1,
+     "2015-06-03",
+     "2017-06-03",
+     731,
+     "relative_after_promulgation"
+    ],
+    [
+     "02588",
+     2,
+     "2017-01-26",
+     "2017-06-03",
+     128,
+     "explicit"
+    ],
+    [
+     "02549",
+     1,
+     "1997-03-19",
+     "1997-09-19",
+     184,
+     "relative_after_promulgation"
+    ],
+    [
+     "02549",
+     3,
+     "2007-07-11",
+     "2009-01-11",
+     550,
+     "relative_after_promulgation"
+    ],
+    [
+     "02549",
+     5,
+     "2023-02-15",
+     "2023-03-22",
+     35,
+     "executive_yuan_order"
+    ],
+    [
+     "02526",
+     4,
+     "2007-07-04",
+     "2008-07-04",
+     366,
+     "relative_after_promulgation"
+    ],
+    [
+     "02526",
+     6,
+     "2022-12-14",
+     "2024-12-14",
+     731,
+     "relative_after_promulgation"
+    ],
+    [
+     "07121",
+     1,
+     "2020-01-15",
+     "2021-05-01",
+     472,
+     "executive_yuan_order"
+    ],
+    [
+     "02536",
+     1,
+     "2016-01-06",
+     "2019-01-06",
+     1096,
+     "relative_after_promulgation"
+    ],
+    [
+     "02535",
+     7,
+     "2021-01-20",
+     "2023-01-01",
+     711,
+     "explicit"
+    ],
+    [
+     "02563",
+     1,
+     "2000-02-09",
+     "2000-08-09",
+     182,
+     "relative_after_promulgation"
+    ],
+    [
+     "02509",
+     7,
+     "2011-01-26",
+     "2011-04-26",
+     90,
+     "relative_after_promulgation"
+    ],
+    [
+     "02556",
+     1,
+     "1999-02-03",
+     "1999-08-03",
+     181,
+     "relative_after_promulgation"
+    ]
+   ]
+  },
+  "tax": {
+   "moj_entries": 413,
+   "entries_date_differs_original_vs_extended": 31,
+   "entries_relative_commencement": 3,
+   "entries_with_executive_yuan_order": 47,
+   "entries_with_per_article_or_chapter_rules": 25,
+   "entries_with_paragraph_level_exceptions": 6,
+   "entries_with_still_pending_articles": 1,
+   "unparsed_clauses": [
+    [
+     "08128",
+     9,
+     "第10-2條條文施行期間，自一百十二年一月一日起至一百十八年十二月三十一日止"
+    ],
+    [
+     "08128",
+     12,
+     "依第72條規定：第19-1條施行期間，自一百十六年一月一日起至一百十八年十二月三十一日止；第23-2條施行期間，自公布生效日起至一百十八年十二月三十一日止；原一"
+    ]
+   ],
+   "entries_delayed_beyond_default": 45,
+   "share_delayed": 0.109,
+   "delay_days_median_of_delayed": 51,
+   "entries_delay_ge_180d": 7,
+   "moj_entries_without_ly_version": 9,
+   "differences": [
+    [
+     "01513",
+     28,
+     "1993-02-05",
+     "1993-01-01",
+     "1993-02-07"
+    ],
+    [
+     "01513",
+     35,
+     "2001-06-13",
+     "2001-06-15",
+     "2001-07-01"
+    ],
+    [
+     "01513",
+     43,
+     "2008-01-02",
+     "2008-01-01",
+     "2008-01-04"
+    ],
+    [
+     "01513",
+     48,
+     "2010-06-15",
+     "2010-06-17",
+     "2010-01-01"
+    ],
+    [
+     "01513",
+     49,
+     "2011-01-19",
+     "2012-01-01",
+     "2011-01-21"
+    ],
+    [
+     "01513",
+     57,
+     "2014-06-04",
+     "2014-06-06",
+     "2015-01-01"
+    ],
+    [
+     "01513",
+     60,
+     "2015-06-24",
+     "2015-06-26",
+     "2016-01-01"
+    ],
+    [
+     "01513",
+     62,
+     "2016-07-27",
+     "2016-08-01",
+     null
+    ],
+    [
+     "01513",
+     64,
+     "2018-02-07",
+     "2019-01-01",
+     "2018-01-01"
+    ],
+    [
+     "01513",
+     65,
+     "2019-07-24",
+     "2019-07-26",
+     "2019-01-01"
+    ],
+    [
+     "01526",
+     1,
+     "2005-12-28",
+     "2010-01-01",
+     "2006-01-01"
+    ],
+    [
+     "01526",
+     2,
+     "2012-08-08",
+     "2012-08-10",
+     "2013-01-01"
+    ],
+    [
+     "01521",
+     21,
+     "1997-05-07",
+     "2002-01-01",
+     null
+    ],
+    [
+     "01521",
+     23,
+     "1997-10-29",
+     "1997-10-31",
+     "1997-12-01"
+    ],
+    [
+     "01521",
+     24,
+     "1998-06-17",
+     "1998-06-19",
+     "1998-07-10"
+    ],
+    [
+     "01521",
+     28,
+     "2003-06-25",
+     "2003-07-01",
+     "2003-06-27"
+    ],
+    [
+     "01521",
+     36,
+     "2011-01-26",
+     "2011-09-01",
+     null
+    ],
+    [
+     "01512",
+     19,
+     "2011-05-11",
+     "2011-05-13",
+     "2011-07-01"
+    ],
+    [
+     "01512",
+     31,
+     "2021-12-17",
+     "2022-01-01",
+     "2021-12-19"
+    ],
+    [
+     "01655",
+     1,
+     "2016-12-28",
+     "2016-12-30",
+     "2017-12-28"
+    ],
+    [
+     "01655",
+     2,
+     "2025-05-28",
+     "2025-05-30",
+     "2026-05-28"
+    ],
+    [
+     "01524",
+     18,
+     "2024-01-03",
+     "2024-07-01",
+     "2024-01-05"
+    ],
+    [
+     "01525",
+     11,
+     "2001-06-13",
+     "2001-06-15",
+     "2001-07-01"
+    ],
+    [
+     "01522",
+     20,
+     "2014-06-18",
+     "2015-01-01",
+     "2014-06-20"
+    ],
+    [
+     "01517",
+     20,
+     "1990-01-24",
+     null,
+     "1990-06-01"
+    ],
+    [
+     "01517",
+     23,
+     "1997-05-07",
+     "2002-01-01",
+     null
+    ],
+    [
+     "01517",
+     25,
+     "2001-10-31",
+     "2002-01-01",
+     null
+    ],
+    [
+     "01517",
+     47,
+     "2025-08-19",
+     "2026-01-01",
+     null
+    ],
+    [
+     "01622",
+     6,
+     "2009-05-13",
+     "2009-06-01",
+     null
+    ],
+    [
+     "08148",
+     1,
+     "2011-05-04",
+     null,
+     "2011-06-01"
+    ],
+    [
+     "08128",
+     11,
+     "2025-05-07",
+     null,
+     "2025-05-09"
+    ]
+   ],
+   "delayed_entries": [
+    [
+     "01513",
+     35,
+     "2001-06-13",
+     "2001-07-01",
+     18,
+     "explicit"
+    ],
+    [
+     "01513",
+     53,
+     "2012-08-08",
+     "2013-01-01",
+     146,
+     "explicit"
+    ],
+    [
+     "01513",
+     57,
+     "2014-06-04",
+     "2015-01-01",
+     211,
+     "tax_year"
+    ],
+    [
+     "01513",
+     60,
+     "2015-06-24",
+     "2016-01-01",
+     191,
+     "explicit"
+    ],
+    [
+     "01513",
+     61,
+     "2015-12-02",
+     "2016-01-01",
+     30,
+     "explicit"
+    ],
+    [
+     "01513",
+     67,
+     "2021-04-28",
+     "2021-07-01",
+     64,
+     "explicit"
+    ],
+    [
+     "01513",
+     69,
+     "2024-08-07",
+     "2025-01-01",
+     147,
+     "executive_yuan_order"
+    ],
+    [
+     "01526",
+     1,
+     "2005-12-28",
+     "2006-01-01",
+     4,
+     "explicit"
+    ],
+    [
+     "01526",
+     2,
+     "2012-08-08",
+     "2013-01-01",
+     146,
+     "tax_year"
+    ],
+    [
+     "01526",
+     3,
+     "2017-05-10",
+     "2023-01-01",
+     2062,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     16,
+     "1985-11-15",
+     "1986-04-01",
+     137,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     17,
+     "1988-05-27",
+     "1988-07-01",
+     35,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     19,
+     "1995-01-18",
+     "1995-03-01",
+     42,
+     "explicit"
+    ],
+    [
+     "01521",
+     23,
+     "1997-10-29",
+     "1997-12-01",
+     33,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     24,
+     "1998-06-17",
+     "1998-07-10",
+     23,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     26,
+     "2001-06-13",
+     "2001-07-01",
+     18,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     27,
+     "2001-07-09",
+     "2002-01-01",
+     176,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     29,
+     "2005-06-22",
+     "2005-08-01",
+     40,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     30,
+     "2006-02-03",
+     "2006-05-01",
+     87,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     31,
+     "2007-12-12",
+     "2008-03-01",
+     80,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     32,
+     "2008-01-16",
+     "2008-03-01",
+     45,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     34,
+     "2010-05-05",
+     "2010-07-01",
+     57,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     35,
+     "2010-12-08",
+     "2011-02-01",
+     55,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     38,
+     "2014-01-08",
+     "2014-03-01",
+     52,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     39,
+     "2014-06-04",
+     "2014-07-01",
+     27,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     41,
+     "2016-12-28",
+     "2017-05-01",
+     124,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     43,
+     "2023-12-06",
+     "2023-12-20",
+     14,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     44,
+     "2024-08-07",
+     "2025-01-01",
+     147,
+     "executive_yuan_order"
+    ],
+    [
+     "01521",
+     45,
+     "2025-05-28",
+     "2026-01-01",
+     218,
+     "executive_yuan_order"
+    ],
+    [
+     "01512",
+     19,
+     "2011-05-11",
+     "2011-07-01",
+     51,
+     "executive_yuan_order"
+    ],
+    [
+     "01655",
+     1,
+     "2016-12-28",
+     "2017-12-28",
+     365,
+     "relative_after_promulgation"
+    ],
+    [
+     "01655",
+     2,
+     "2025-05-28",
+     "2026-05-28",
+     365,
+     "relative_after_promulgation"
+    ],
+    [
+     "01515",
+     9,
+     "2001-06-13",
+     "2001-07-01",
+     18,
+     "explicit"
+    ],
+    [
+     "01519",
+     11,
+     "2001-06-13",
+     "2001-07-01",
+     18,
+     "explicit"
+    ],
+    [
+     "01524",
+     15,
+     "2001-06-20",
+     "2001-07-01",
+     11,
+     "explicit"
+    ],
+    [
+     "01525",
+     11,
+     "2001-06-13",
+     "2001-07-01",
+     18,
+     "explicit"
+    ],
+    [
+     "01517",
+     20,
+     "1990-01-24",
+     "1990-06-01",
+     128,
+     "executive_yuan_order"
+    ],
+    [
+     "01622",
+     1,
+     "2000-04-19",
+     "2002-01-01",
+     622,
+     "executive_yuan_order"
+    ],
+    [
+     "01622",
+     3,
+     "2006-01-18",
+     "2006-02-16",
+     29,
+     "executive_yuan_order"
+    ],
+    [
+     "01622",
+     4,
+     "2008-05-07",
+     "2008-05-16",
+     9,
+     "executive_yuan_order"
+    ],
+    [
+     "01622",
+     8,
+     "2010-09-01",
+     "2010-09-16",
+     15,
+     "executive_yuan_order"
+    ],
+    [
+     "01622",
+     9,
+     "2017-05-10",
+     "2017-06-12",
+     33,
+     "executive_yuan_order"
+    ],
+    [
+     "01622",
+     11,
+     "2023-02-08",
+     "2023-04-01",
+     52,
+     "executive_yuan_order"
+    ],
+    [
+     "08148",
+     1,
+     "2011-05-04",
+     "2011-06-01",
+     28,
+     "executive_yuan_order"
+    ],
+    [
+     "07158",
+     1,
+     "2019-07-24",
+     "2019-08-15",
+     22,
+     "executive_yuan_order"
+    ]
+   ]
+  }
+ },
+ "commencement_articles": {
+  "medical": {
+   "rules": 6,
+   "unparsed_sentences": 6,
+   "relative_sentences_skipped_silently": 7,
+   "per_act": [
+    [
+     "01189",
+     1,
+     []
+    ],
+    [
+     "02533",
+     0,
+     []
+    ],
+    [
+     "02510",
+     2,
+     [
+      "本法中華民國八十六年五月七日修正公布之第五十三條",
+      "一百零七年一月三十一日修正公布之第四章之一、第九十二條之一、第一百條及第一百條之一"
+     ]
+    ],
+    [
+     "02508",
+     0,
+     []
+    ],
+    [
+     "02542",
+     0,
+     []
+    ],
+    [
+     "02588",
+     1,
+     []
+    ],
+    [
+     "02516",
+     0,
+     []
+    ],
+    [
+     "02549",
+     0,
+     []
+    ],
+    [
+     "02513",
+     0,
+     [
+      "第二十二條第一項第四款自中華民國一百零三年六月十九日施行",
+      "本法一百零三年一月二十八日修正條文第二十一條第三項，自公布後一年施行",
+      "本法一百零三年十一月十八日修正條文，除第二十二條第一項第五款應標示可追溯之來源或生產系統規定，自公布後六個月施行"
+     ]
+    ],
+    [
+     "02526",
+     0,
+     []
+    ],
+    [
+     "07121",
+     0,
+     []
+    ],
+    [
+     "02536",
+     0,
+     []
+    ],
+    [
+     "02562",
+     0,
+     []
+    ],
+    [
+     "02535",
+     1,
+     []
+    ],
+    [
+     "02547",
+     0,
+     []
+    ],
+    [
+     "02564",
+     1,
+     []
+    ],
+    [
+     "02563",
+     0,
+     []
+    ],
+    [
+     "02509",
+     0,
+     [
+      "本法中華民國一百年一月十日修正之第十九條條文，自公布後三個月施行"
+     ]
+    ],
+    [
+     "02512",
+     0,
+     []
+    ],
+    [
+     "02556",
+     0,
+     []
+    ]
+   ]
+  },
+  "tax": {
+   "rules": 37,
+   "unparsed_sentences": 11,
+   "relative_sentences_skipped_silently": 1,
+   "per_act": [
+    [
+     "01513",
+     20,
+     []
+    ],
+    [
+     "01526",
+     3,
+     [
+      "本條例施行日期除另有規定外，自中華民國九十五年一月一日施行",
+      "但第十五條規定，自九十六年一月一日施行"
+     ]
+    ],
+    [
+     "01521",
+     0,
+     []
+    ],
+    [
+     "01512",
+     2,
+     []
+    ],
+    [
+     "01655",
+     0,
+     []
+    ],
+    [
+     "01515",
+     1,
+     []
+    ],
+    [
+     "01519",
+     1,
+     []
+    ],
+    [
+     "01524",
+     2,
+     []
+    ],
+    [
+     "01525",
+     1,
+     []
+    ],
+    [
+     "01516",
+     0,
+     []
+    ],
+    [
+     "01522",
+     0,
+     [
+      "但中華民國一百零三年五月三十日修正之第七條及一百零六年十一月十四日修正之第六條附表五規定，自修正公布日之次年一月一日施行"
+     ]
+    ],
+    [
+     "01527",
+     0,
+     []
+    ],
+    [
+     "01517",
+     3,
+     []
+    ],
+    [
+     "01622",
+     3,
+     []
+    ],
+    [
+     "08148",
+     0,
+     []
+    ],
+    [
+     "01518",
+     0,
+     [
+      "但中華民國一百十二年四月二十一日修正之第二條之三及第三條，自公布後六個月施行"
+     ]
+    ],
+    [
+     "01626",
+     0,
+     []
+    ],
+    [
+     "01528",
+     0,
+     []
+    ],
+    [
+     "07158",
+     0,
+     []
+    ],
+    [
+     "01509",
+     0,
+     []
+    ],
+    [
+     "01587",
+     1,
+     []
+    ],
+    [
+     "08128",
+     0,
+     [
+      "本條例中華民國一百零四年十二月三十日修正公布之第十條、第十二條之一、第十九條之一施行期間，自一百零五年一月一日起至一百零八年十二月三十一日止",
+      "本條例中華民國一百零六年十一月二十二日修正公布之第十二條之一、第十二條之二、第十九條之一施行期間，自一百零六年十一月二十四日起至一百零八年十二月三十一日止",
+      "本條例中華民國一百零七年六月二十日修正公布之第十九條之一施行期間，自一百零七年六月二十二日起至一百零八年十二月三十一日止",
+      "本條例中華民國一百零八年七月二十四日修正公布之第十二條之一、第十二條之二施行期間，自一百零九年一月一日起至一百十八年十二月三十一日止",
+      "本條例中華民國一百十二年一月十九日修正公布條文施行期間，自一百十二年一月一日起至一百十八年十二月三十一日止",
+      "本條例中華民國一百十四年五月七日修正公布之第二十三條之二施行期間，自一百十四年一月一日起至一百十八年十二月三十一日止",
+      "本條例中華民國一百十五年八月二十七日修正之第十九條之一施行期間，自一百十六年一月一日起至一百十八年十二月三十一日止"
+     ]
+    ]
+   ]
+  }
+ },
+ "change_profile": {
+  "medical": {
+   "article_transitions_since_1990": 1462,
+   "with_amount_change": 35,
+   "share_amount_change": 0.024,
+   "with_percentage_change": 28,
+   "from_full_text_revision": 803,
+   "share_from_full_text_revision": 0.549,
+   "versions": 196,
+   "full_text_revisions": 23
+  },
+  "tax": {
+   "article_transitions_since_1990": 1051,
+   "with_amount_change": 48,
+   "share_amount_change": 0.046,
+   "with_percentage_change": 122,
+   "from_full_text_revision": 175,
+   "share_from_full_text_revision": 0.167,
+   "versions": 406,
+   "full_text_revisions": 35
+  }
+ },
+ "acts_table": [
+  {
+   "law_id": "01189",
+   "name": "全民健康保險法",
+   "name_en": "National Health Insurance Act",
+   "pcode": "L0060001",
+   "versions": 14,
+   "first_ly_date": "1994-07-19",
+   "last_ly_date": "2023-05-30",
+   "delayed_versions": 4,
+   "article_versions": 255
+  },
+  {
+   "law_id": "02533",
+   "name": "醫療法",
+   "name_en": "Medical Care Act",
+   "pcode": "L0020021",
+   "versions": 20,
+   "first_ly_date": "1986-11-11",
+   "last_ly_date": "2026-08-25",
+   "delayed_versions": 0,
+   "article_versions": 278
+  },
+  {
+   "law_id": "02510",
+   "name": "藥事法",
+   "name_en": "Pharmaceutical Affairs Act",
+   "pcode": "L0030001",
+   "versions": 20,
+   "first_ly_date": "1970-07-31",
+   "last_ly_date": "2026-01-30",
+   "delayed_versions": 1,
+   "article_versions": 332
+  },
+  {
+   "law_id": "02508",
+   "name": "醫師法",
+   "name_en": "Physicians Act",
+   "pcode": "L0020001",
+   "versions": 16,
+   "first_ly_date": "1943-08-28",
+   "last_ly_date": "2022-05-30",
+   "delayed_versions": 6,
+   "article_versions": 205
+  },
+  {
+   "law_id": "02542",
+   "name": "護理人員法",
+   "name_en": "Nursing Personnel Act",
+   "pcode": "L0020166",
+   "versions": 11,
+   "first_ly_date": "1991-04-30",
+   "last_ly_date": "2023-05-30",
+   "delayed_versions": 0,
+   "article_versions": 121
+  },
+  {
+   "law_id": "02588",
+   "name": "長期照顧服務法",
+   "name_en": "Long-Term Care Services Act",
+   "pcode": "L0070040",
+   "versions": 4,
+   "first_ly_date": "2015-05-15",
+   "last_ly_date": "2021-05-18",
+   "delayed_versions": 2,
+   "article_versions": 92
+  },
+  {
+   "law_id": "02516",
+   "name": "傳染病防治法",
+   "name_en": "Communicable Disease Control Act",
+   "pcode": "L0050001",
+   "versions": 17,
+   "first_ly_date": "1944-11-18",
+   "last_ly_date": "2023-05-30",
+   "delayed_versions": 0,
+   "article_versions": 312
+  },
+  {
+   "law_id": "02549",
+   "name": "菸害防制法",
+   "name_en": "Tobacco Hazards Prevention Act",
+   "pcode": "L0070021",
+   "versions": 5,
+   "first_ly_date": "1997-03-04",
+   "last_ly_date": "2023-01-12",
+   "delayed_versions": 3,
+   "article_versions": 114
+  },
+  {
+   "law_id": "02513",
+   "name": "食品安全衛生管理法",
+   "name_en": "Act Governing Food Safety and Sanitation",
+   "pcode": "L0040001",
+   "versions": 19,
+   "first_ly_date": "1975-01-17",
+   "last_ly_date": "2019-05-24",
+   "delayed_versions": 0,
+   "article_versions": 265
+  },
+  {
+   "law_id": "02526",
+   "name": "精神衛生法",
+   "name_en": "Mental Health Act",
+   "pcode": "L0020030",
+   "versions": 6,
+   "first_ly_date": "1990-11-23",
+   "last_ly_date": "2022-11-29",
+   "delayed_versions": 2,
+   "article_versions": 214
+  },
+  {
+   "law_id": "07121",
+   "name": "醫療器材管理法",
+   "name_en": "Medical Devices Act",
+   "pcode": "L0030106",
+   "versions": 1,
+   "first_ly_date": "2019-12-13",
+   "last_ly_date": "2019-12-13",
+   "delayed_versions": 1,
+   "article_versions": 85
+  },
+  {
+   "law_id": "02536",
+   "name": "病人自主權利法",
+   "name_en": "Patient Right to Autonomy Act",
+   "pcode": "L0020189",
+   "versions": 3,
+   "first_ly_date": "2015-12-18",
+   "last_ly_date": "2020-12-29",
+   "delayed_versions": 1,
+   "article_versions": 23
+  },
+  {
+   "law_id": "02562",
+   "name": "安寧緩和醫療條例",
+   "name_en": "Hospice Palliative Care Act",
+   "pcode": "L0020066",
+   "versions": 5,
+   "first_ly_date": "2000-05-23",
+   "last_ly_date": "2020-12-29",
+   "delayed_versions": 0,
+   "article_versions": 30
+  },
+  {
+   "law_id": "02535",
+   "name": "人體器官移植條例",
+   "name_en": "Human Organ Transplant Act",
+   "pcode": "L0020024",
+   "versions": 7,
+   "first_ly_date": "1987-06-02",
+   "last_ly_date": "2020-12-29",
+   "delayed_versions": 1,
+   "article_versions": 64
+  },
+  {
+   "law_id": "02547",
+   "name": "緊急醫療救護法",
+   "name_en": "Emergency Medical Services Act",
+   "pcode": "L0020045",
+   "versions": 6,
+   "first_ly_date": "1995-07-14",
+   "last_ly_date": "2012-12-25",
+   "delayed_versions": 0,
+   "article_versions": 147
+  },
+  {
+   "law_id": "02564",
+   "name": "藥害救濟法",
+   "name_en": "Drug Injury Relief Act",
+   "pcode": "L0030023",
+   "versions": 4,
+   "first_ly_date": "2000-05-19",
+   "last_ly_date": "2026-01-30",
+   "delayed_versions": 0,
+   "article_versions": 39
+  },
+  {
+   "law_id": "02563",
+   "name": "罕見疾病防治及藥物法",
+   "name_en": "Prevention of Rare Diseases and Orphan Drug Act",
+   "pcode": "L0030003",
+   "versions": 4,
+   "first_ly_date": "2000-01-14",
+   "last_ly_date": "2014-12-30",
+   "delayed_versions": 1,
+   "article_versions": 71
+  },
+  {
+   "law_id": "02509",
+   "name": "藥師法",
+   "name_en": "Pharmacists Act",
+   "pcode": "L0030066",
+   "versions": 12,
+   "first_ly_date": "1943-09-15",
+   "last_ly_date": "2019-12-13",
+   "delayed_versions": 1,
+   "article_versions": 135
+  },
+  {
+   "law_id": "02512",
+   "name": "管制藥品管理條例",
+   "name_en": "Controlled Drugs Act",
+   "pcode": "L0030010",
+   "versions": 15,
+   "first_ly_date": "1929-10-26",
+   "last_ly_date": "2017-05-26",
+   "delayed_versions": 0,
+   "article_versions": 187
+  },
+  {
+   "law_id": "02556",
+   "name": "健康食品管理法",
+   "name_en": "Health Food Governing Act",
+   "pcode": "L0040012",
+   "versions": 7,
+   "first_ly_date": "1999-01-14",
+   "last_ly_date": "2019-12-13",
+   "delayed_versions": 1,
+   "article_versions": 50
+  }
+ ],
+ "medical_store_comparison": {
+  "article_versions_in_both": 3019,
+  "start_date_differs": 497,
+  "only_in_chronomed": 0,
+  "only_in_tax_parser": 4
+ }
+}

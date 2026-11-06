@@ -1,0 +1,1120 @@
+{
+ "p3_reader": "src\\med\\moj_med.py",
+ "p3_reader_sha256": "2a8f1ff93c38f77106f0697b0d9c1dde10dded84009eb8d58589446bff4c5d8d",
+ "orig_reader_sha256": "22ab970aafa763a4e487d44933e86ca313644100d194369ae94d6e85ace78a30",
+ "entries": 413,
+ "differences_by_entry_no": 31,
+ "differences_positional_zip": 31,
+ "alignment_problems": [],
+ "differences": [
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 28,
+   "promulgated": "1993-02-05",
+   "ly_version": "01513:1993-01-18-修正",
+   "ly_date": "1993-01-18",
+   "orig_effective": "1993-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "1993-02-07",
+   "new_basis": "default_§13",
+   "new_rules": [
+    {
+     "articles": [
+      "第五條之一",
+      "第十七條"
+     ],
+     "chapters": [],
+     "effective": "1993-01-01",
+     "basis": "explicit",
+     "source": "history"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "第5-1條增訂條文及第17條修正條文，自八十二年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:1993-01-18-修正",
+     "effective": "1993-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "28. 中華民國八十二年二月五日總統（82）華總（一）義字第 0477 號令 公布修正第 17、126 條；並增訂第 5-1 條條文；第 5-1 條增訂 條文及第 17 條修正條文，自八十二年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 35,
+   "promulgated": "2001-06-13",
+   "ly_version": "01513:2001-05-29-修正",
+   "ly_date": "2001-05-29",
+   "orig_effective": "2001-06-15",
+   "orig_basis": "default_§13",
+   "new_effective": "2001-07-01",
+   "new_basis": "explicit",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自九十年七月一日起施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2001-05-29-修正",
+     "effective": "2001-06-15",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "35. 中華民國九十年六月十三日總統（90）華總一義字第 9000116070 號 令修正公布第 123、126 條條文；並刪除第 56 條條文；並增訂第 3 -2、3-3、3-4、4-3、6-1、6-2、89-1、92-1、111-1 條條文；並自 九十年七月一日起施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 43,
+   "promulgated": "2008-01-02",
+   "ly_version": "01513:2007-12-14-修正",
+   "ly_date": "2007-12-14",
+   "orig_effective": "2008-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "2008-01-04",
+   "new_basis": "default_§13",
+   "new_rules": [],
+   "new_partial": [
+    {
+     "articles": [
+      "第十四條"
+     ],
+     "effective": "2008-01-01",
+     "basis": "explicit",
+     "ref": "第14條第1項第9類規定，"
+    }
+   ],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "第14條第1項第9類規定，自九十七年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2007-12-14-修正",
+     "effective": "2008-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "43. 中華民國九十七年一月二日總統華總一義字第 09600179021 號令修 正公布第 14、33、126 條條文；第 14 條第 1 項第 9 類規定， 自九十七年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 48,
+   "promulgated": "2010-06-15",
+   "ly_version": "01513:2010-05-28-修正",
+   "ly_date": "2010-05-28",
+   "orig_effective": "2010-06-17",
+   "orig_basis": "default_§13",
+   "new_effective": "2010-01-01",
+   "new_basis": "tax_year",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "定自九十九年度施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2010-05-28-修正",
+     "effective": "2010-06-17",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "48. 中華民國九十九年六月十五日總統華總一義字第 09900150571 號令 修正公布第 5、126 條條文；修正之第 5 項規定自九十九年度施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 49,
+   "promulgated": "2011-01-19",
+   "ly_version": "01513:2011-01-07-修正",
+   "ly_date": "2011-01-07",
+   "orig_effective": "2012-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "2011-01-21",
+   "new_basis": "default_§13",
+   "new_rules": [],
+   "new_partial": [
+    {
+     "articles": [
+      "第十七條",
+      "第四條"
+     ],
+     "effective": "2012-01-01",
+     "basis": "explicit",
+     "ref": "；但第4條第1項第1款、第2款及第17條第1項第1款第4目規定，"
+    }
+   ],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自公布日施行；但第4條第1項第1款、第2款及第17條第1項第1款第4目規定，自一百零一年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2011-01-07-修正",
+     "effective": "2012-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "49. 中華民國一百年一月十九日總統華總一義字第 10000010141 號令修 正公布第 4、17、126 條條文；並自公布日施行；但第 4 條第 1 項第 1 款、第 2 款及第 17 條第 1 項第 1 款第 4 目規定， 自一百零一年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 57,
+   "promulgated": "2014-06-04",
+   "ly_version": "01513:2014-05-16-修正",
+   "ly_date": "2014-05-16",
+   "orig_effective": "2014-06-06",
+   "orig_basis": "default_§13",
+   "new_effective": "2015-01-01",
+   "new_basis": "tax_year",
+   "new_rules": [
+    {
+     "articles": [
+      "第七十三條之二",
+      "第六十六條之六",
+      "第六十六條之四"
+     ],
+     "chapters": [],
+     "effective": "2015-01-01",
+     "basis": "explicit",
+     "source": "history"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "除第66-4、66-6、73-2條條文自一百零四年一月一日施行外，其餘條文自一百零四年度施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2014-05-16-修正",
+     "effective": "2014-06-06",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "57. 中華民國一百零三年六月四日總統華總一義字第 10300085101 號令 修正公布第 5、14、17、66-4、66-6、71、73-2、75、79、108、110 、126 條條文；除第 66-4、66-6、73-2 條條文自一百零四年一月一 日施行外，其餘條文自一百零四年度施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 60,
+   "promulgated": "2015-06-24",
+   "ly_version": "01513:2015-06-05-修正",
+   "ly_date": "2015-06-05",
+   "orig_effective": "2015-06-26",
+   "orig_basis": "default_§13",
+   "new_effective": "2016-01-01",
+   "new_basis": "explicit",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第126條規定：自一百零五年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2015-06-05-修正",
+     "effective": "2015-06-26",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "60. 中華民國一百零四年六月二十四日總統華總一義字第 10400073881 號令修正公布第 126 條條文；增訂第 4-4、4-5、14-4～14-8、 24-5、108-2、125-2 條條文；依第 126 條規定：自一百零五年一 月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 62,
+   "promulgated": "2016-07-27",
+   "ly_version": "01513:2016-07-12-修正",
+   "ly_date": "2016-07-12",
+   "orig_effective": "2016-08-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第十七條之四"
+     ],
+     "chapters": [],
+     "effective": "2016-08-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    },
+    {
+     "articles": [
+      "第四十三條之三"
+     ],
+     "chapters": [],
+     "effective": "2023-01-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第126條規定：施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2016-07-12-修正",
+     "effective": "2016-08-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "62. 中華民國一百零五年七月二十七日總統華總一義字第 10500080981 號令修正公布第 126 條條文；並增訂第 17-4、43-3、43-4 條條文 ；依第 126 條規定：施行日期，由行政院定之 中華民國一百零五年八月一日行政院院臺財字第 1050032843 號令發 布第 17-4 條條文定自一百零五年八月一日施行 中華民國一百十一年一月十四日行政院院臺財字第 1100041879 號令 發布第 43-3 條條文定自一百十二年度施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 64,
+   "promulgated": "2018-02-07",
+   "ly_version": "01513:2018-01-18-修正",
+   "ly_date": "2018-01-18",
+   "orig_effective": "2019-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "2018-01-01",
+   "new_basis": "explicit",
+   "new_rules": [
+    {
+     "articles": [
+      "第一百十條",
+      "第一百零八條",
+      "第七十一條",
+      "第七十九條",
+      "第七十五條",
+      "第五條",
+      "第六十六條之九"
+     ],
+     "chapters": [],
+     "effective": "2018-01-01",
+     "basis": "tax_year",
+     "source": "history"
+    },
+    {
+     "articles": [
+      "第七十三條之二"
+     ],
+     "chapters": [],
+     "effective": "2019-01-01",
+     "basis": "explicit",
+     "source": "history"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自一百零七年一月一日施行。但第5、66-9、71、75、79、108、110條條文自一百零七年度施行，第73-2條條文自一百零八年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2018-01-18-修正",
+     "effective": "2019-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "64. 中華民國一百零七年二月七日總統華總一義字第 10700015201 號令 修正公布第 5、14、14-3、15、17、24、42、66-9、71、75、76、79 、88～89-1、92、100、102-1、106、108、110、114-1～114-3、126 條條文； 增訂第 114-4 條條文；刪除第 3-1、66-1～66-8、73-2、 100-1 條條文及第三章第五節節名；並自一百零七年一月一日施行。 但第 5、66-9、71、75、79、108、110 條條文自一百零七年度施行 ，第 73-2 條條文自一百零八年一月一日施行"
+  },
+  {
+   "law_id": "01513",
+   "law": "所得稅法",
+   "pcode": "G0340003",
+   "no": 65,
+   "promulgated": "2019-07-24",
+   "ly_version": "01513:2019-07-01-修正",
+   "ly_date": "2019-07-01",
+   "orig_effective": "2019-07-26",
+   "orig_basis": "default_§13",
+   "new_effective": "2019-01-01",
+   "new_basis": "explicit",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自一百零八年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01513:2019-07-01-修正",
+     "effective": "2019-07-26",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "65. 中華民國一百零八年七月二十四日總統華總一經字第 10800075041 號令修正公布第 14、17、126 條條文；並自一百零八年一月一日施 行"
+  },
+  {
+   "law_id": "01526",
+   "law": "所得基本稅額條例",
+   "pcode": "G0340115",
+   "no": 1,
+   "promulgated": "2005-12-28",
+   "ly_version": "01526:2005-12-09-制定",
+   "ly_date": "2005-12-09",
+   "orig_effective": "2010-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "2006-01-01",
+   "new_basis": "explicit",
+   "new_rules": [
+    {
+     "articles": [
+      "第十五條"
+     ],
+     "chapters": [],
+     "effective": "2007-01-01",
+     "basis": "explicit",
+     "source": "history"
+    }
+   ],
+   "new_partial": [
+    {
+     "articles": [
+      "第十二條"
+     ],
+     "effective": "2010-01-01",
+     "basis": "executive_yuan_order",
+     "ref": "第12條第1項第1款條文"
+    }
+   ],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "本條例施行日期除另有規定外，自九十五年一月一日施行。但第15條規定，自九十六年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01526:2005-12-09-制定",
+     "effective": "2010-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "1.中華民國九十四年十二月二十八日總統華總一義字第 09400212601 號 令制定公布全文 18 條；本條例施行日期除另有規定外，自九十五年一 月一日施行。但第 15 條規定，自九十六年一月一日施行 中華民國九十七年九月十五日行政院院臺財字第 0970038167 號令發布 第 12 條第 1 項第 1 款條文定自九十九年一月一日施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,908人 本月瀏覽人次 12,668,457人 目前使用人次 2,529人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。"
+  },
+  {
+   "law_id": "01526",
+   "law": "所得基本稅額條例",
+   "pcode": "G0340115",
+   "no": 2,
+   "promulgated": "2012-08-08",
+   "ly_version": "01526:2012-07-25-修正",
+   "ly_date": "2012-07-25",
+   "orig_effective": "2012-08-10",
+   "orig_basis": "default_§13",
+   "new_effective": "2013-01-01",
+   "new_basis": "tax_year",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第18條規定：自中華民國一百零二年度施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01526:2012-07-25-修正",
+     "effective": "2012-08-10",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "2.中華民國一百零一年八月八日總統華總一義字第 10100177761 號令修 正公布第 3、5、7、8、12、18 條條文；增訂第 15-1 條條文；刪除第 10 條條文；依第 18 條規定：自中華民國一百零二年度施行"
+  },
+  {
+   "law_id": "01521",
+   "law": "加值型及非加值型營業稅法",
+   "pcode": "G0340080",
+   "no": 21,
+   "promulgated": "1997-05-07",
+   "ly_version": "01521:1997-04-15-修正",
+   "ly_date": "1997-04-15",
+   "orig_effective": "2002-01-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第二十條",
+      "第十六條"
+     ],
+     "chapters": [],
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "本法修正條文施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01521:1997-04-15-修正",
+     "effective": "2002-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "21. 中華民國八十六年五月七日總統（86）華總（一）義字第 860010481 0 號令修正公布第 16、20 條條文；本法修正條文施行日期，由行政 院定之 中華民國九十年十二月二十一日行政院（90）台財字第 073658 號令 發布本次修正條文第 16、20 條自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "law": "加值型及非加值型營業稅法",
+   "pcode": "G0340080",
+   "no": 23,
+   "promulgated": "1997-10-29",
+   "ly_version": "01521:1997-10-09-修正",
+   "ly_date": "1997-10-09",
+   "orig_effective": "1997-10-31",
+   "orig_basis": "default_§13",
+   "new_effective": "1997-12-01",
+   "new_basis": "executive_yuan_order",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "",
+   "stored_in_db": [
+    {
+     "ly_version": "01521:1997-10-09-修正",
+     "effective": "1997-10-31",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "23. 中華民國八十六年十月二十九日總統（86）華總（一）義字第 86002 31640 號令修正公布第 8 條條文 中華民國八十六年十一月二十八日行政院（86）台財字第 46701 號 令發布前項修正條文定於八十六年十二月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "law": "加值型及非加值型營業稅法",
+   "pcode": "G0340080",
+   "no": 24,
+   "promulgated": "1998-06-17",
+   "ly_version": "01521:1998-05-28-修正",
+   "ly_date": "1998-05-28",
+   "orig_effective": "1998-06-19",
+   "orig_basis": "default_§13",
+   "new_effective": "1998-07-10",
+   "new_basis": "executive_yuan_order",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "",
+   "stored_in_db": [
+    {
+     "ly_version": "01521:1998-05-28-修正",
+     "effective": "1998-06-19",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "24. 中華民國八十七年六月十七日總統（87）華總（一）義字第 8700119 510 號令增訂公布第 53-1 條條文 中華民國八十七年七月七日行政院（87）台財字第 33932 號令發布 前項條文定於八十七年七月十日施行"
+  },
+  {
+   "law_id": "01521",
+   "law": "加值型及非加值型營業稅法",
+   "pcode": "G0340080",
+   "no": 28,
+   "promulgated": "2003-06-25",
+   "ly_version": "01521:2003-06-05-修正",
+   "ly_date": "2003-06-05",
+   "orig_effective": "2003-07-01",
+   "orig_basis": "explicit",
+   "new_effective": "2003-06-27",
+   "new_basis": "default_§13",
+   "new_rules": [
+    {
+     "articles": [
+      "第十一條"
+     ],
+     "chapters": [],
+     "effective": "2003-07-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "",
+   "stored_in_db": [
+    {
+     "ly_version": "01521:2003-06-05-修正",
+     "effective": "2003-07-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "28. 中華民國九十二年六月二十五日總統華總一義字第 09200114870 號 令修正公布第 11 條條文 中華民國九十二年六月二十五日行政院院臺財字第 0920035508 號令 發布第 11 條定自九十二年七月一日施行"
+  },
+  {
+   "law_id": "01521",
+   "law": "加值型及非加值型營業稅法",
+   "pcode": "G0340080",
+   "no": 36,
+   "promulgated": "2011-01-26",
+   "ly_version": "01521:2011-01-10-修正",
+   "ly_date": "2011-01-10",
+   "orig_effective": "2011-09-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第七條",
+      "第三十二條",
+      "第三十六條",
+      "第三十條",
+      "第三十條之一",
+      "第三條之二",
+      "第九條",
+      "第二十三條",
+      "第二十八條",
+      "第二條",
+      "第五十一條",
+      "第五條",
+      "第八條",
+      "第八條之三",
+      "第六條之一",
+      "第十三條",
+      "第四十二條之一",
+      "第四十八條之一"
+     ],
+     "chapters": [],
+     "effective": "2011-04-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    },
+    {
+     "articles": [
+      "第二十條",
+      "第十六條"
+     ],
+     "chapters": [],
+     "effective": "2011-09-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01521:2011-01-10-修正",
+     "effective": "2011-09-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "36. 中華民國一百年一月二十六日總統華總一義字第 10000016571 號令 修正公布第 2、5、7、8、9、13、16、20、23、28、30、32、36、51 條條文；增訂第 3-2、6-1、8-3、30-1、42-1、48-1 條條文；施行 日期，由行政院定之 中華民國一百年三月三十一日行政院院臺財字第 1000016553 號令發 布除第 16、20 條外，其餘修正之第 2、5、7、8、9、13、23、28、 30、32、36、51 條條文及增訂之第 3-2、6-1、8-3、30-1、42-1、 48-1 條條文，定自一百年四月一日施行 中華民國一百年七月二十六日行政院院臺財字第 1000037876 號令發 布第 16、20 條條文，定自一百年九月一日施行"
+  },
+  {
+   "law_id": "01512",
+   "law": "稅捐稽徵法",
+   "pcode": "G0340001",
+   "no": 19,
+   "promulgated": "2011-05-11",
+   "ly_version": "01512:2011-04-26-修正",
+   "ly_date": "2011-04-26",
+   "orig_effective": "2011-05-13",
+   "orig_basis": "default_§13",
+   "new_effective": "2011-07-01",
+   "new_basis": "executive_yuan_order",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第51條規定，施行日期由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01512:2011-04-26-修正",
+     "effective": "2011-05-13",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "19. 中華民國一百年五月十一日總統華總一義字第 10000090961 號令修 正公布第 19、35、51 條條文；依第 51 條規定，施行日期由行政院 定之 中華民國一百年六月二十日行政院院臺財字第 1000030503 號令定自 一百年七月一日施行"
+  },
+  {
+   "law_id": "01512",
+   "law": "稅捐稽徵法",
+   "pcode": "G0340001",
+   "no": 31,
+   "promulgated": "2021-12-17",
+   "ly_version": "01512:2021-11-30-修正",
+   "ly_date": "2021-11-30",
+   "orig_effective": "2022-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "2021-12-19",
+   "new_basis": "default_§13",
+   "new_rules": [
+    {
+     "articles": [
+      "第二十條"
+     ],
+     "chapters": [],
+     "effective": "2022-01-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自公布日施行，但第20條條文施行日期由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01512:2021-11-30-修正",
+     "effective": "2022-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "31. 中華民國一百十年十二月十七日總統華總一經字第 11000112901 號 令修正公布第 6、19、20～24、28、30、34、35、39、41、43、44、 47、48-1、48-2、49、50-5、51 條條文；增訂第 26-1、49-1 條條 文；刪除第 12-1、50-1、50-3、50-4 條條文；並自公布日施行，但 第 20 條條文施行日期由行政院定之 中華民國一百十年十二月二十三日行政院院臺財字第 1100040703 號 令發布第 20 條條文定自一百十一年一月一日施行"
+  },
+  {
+   "law_id": "01655",
+   "law": "納稅者權利保護法",
+   "pcode": "G0340142",
+   "no": 1,
+   "promulgated": "2016-12-28",
+   "ly_version": "01655:2016-12-09-制定",
+   "ly_date": "2016-12-09",
+   "orig_effective": "2016-12-30",
+   "orig_basis": "default_§13",
+   "new_effective": "2017-12-28",
+   "new_basis": "relative_after_promulgation",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自公布後一年施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01655:2016-12-09-制定",
+     "effective": "2016-12-30",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "1.中華民國一百零五年十二月二十八日總統華總一義字第 10500161471 號令制定公布全文 23 條；並自公布後一年施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,916人 本月瀏覽人次 12,668,465人 目前使用人次 2,537人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。"
+  },
+  {
+   "law_id": "01655",
+   "law": "納稅者權利保護法",
+   "pcode": "G0340142",
+   "no": 2,
+   "promulgated": "2025-05-28",
+   "ly_version": "01655:2025-05-09-修正",
+   "ly_date": "2025-05-09",
+   "orig_effective": "2025-05-30",
+   "orig_basis": "default_§13",
+   "new_effective": "2026-05-28",
+   "new_basis": "relative_after_promulgation",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自公布後一年施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01655:2025-05-09-修正",
+     "effective": "2025-05-30",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "2.中華民國一百十四年五月二十八日總統華總一經字第 11400053691 號 令修正公布第 4、6、20 條條文；並自公布後一年施行"
+  },
+  {
+   "law_id": "01524",
+   "law": "房屋稅條例",
+   "pcode": "G0340102",
+   "no": 18,
+   "promulgated": "2024-01-03",
+   "ly_version": "01524:2023-12-19-修正",
+   "ly_date": "2023-12-19",
+   "orig_effective": "2024-07-01",
+   "orig_basis": "explicit",
+   "new_effective": "2024-01-05",
+   "new_basis": "default_§13",
+   "new_rules": [
+    {
+     "articles": [
+      "第七條",
+      "第五條",
+      "第六條",
+      "第十二條",
+      "第十五條",
+      "第四條"
+     ],
+     "chapters": [],
+     "effective": "2024-07-01",
+     "basis": "explicit",
+     "source": "history"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自公布日施行，但第4～7條、第12、15條條文，自一百十三年七月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01524:2023-12-19-修正",
+     "effective": "2024-07-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "18. 中華民國一百十三年一月三日總統華總一經字第 11200115291 號令 修正公布第 4～6、7、9、11、15、18、24、25 條條文；增訂第 6-1 條條文；刪除第 12 條條文；並自公布日施行，但第 4～7 條、第 12、15 條條文，自一百十三年七月一日施行"
+  },
+  {
+   "law_id": "01525",
+   "law": "契稅條例",
+   "pcode": "G0340105",
+   "no": 11,
+   "promulgated": "2001-06-13",
+   "ly_version": "01525:2001-05-29-修正",
+   "ly_date": "2001-05-29",
+   "orig_effective": "2001-06-15",
+   "orig_basis": "default_§13",
+   "new_effective": "2001-07-01",
+   "new_basis": "explicit",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自九十年七月一日起施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01525:2001-05-29-修正",
+     "effective": "2001-06-15",
+     "effective_basis": "default_§13"
+    }
+   ],
+   "note": "11. 中華民國九十年六月十三日總統（90）華總一義字第 9000115810 號 令修正公布第 33 條條文；並增訂第 7-1、14-1 條條文；並自九十 年七月一日起施行"
+  },
+  {
+   "law_id": "01522",
+   "law": "使用牌照稅法",
+   "pcode": "G0340095",
+   "no": 20,
+   "promulgated": "2014-06-18",
+   "ly_version": "01522:2014-05-30-修正",
+   "ly_date": "2014-05-30",
+   "orig_effective": "2015-01-01",
+   "orig_basis": "explicit",
+   "new_effective": "2014-06-20",
+   "new_basis": "default_§13",
+   "new_rules": [
+    {
+     "articles": [
+      "第七條"
+     ],
+     "chapters": [],
+     "effective": "2015-01-01",
+     "basis": "explicit",
+     "source": "history"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "並自公布日施行，但第7條條文，自一百零四年一月一日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "01522:2014-05-30-修正",
+     "effective": "2015-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "20. 中華民國一百零三年六月十八日總統華總一義字第 10300092701 號 令修正公布第 4、7、28、38 條條文；並自公布日施行，但第 7 條 條文，自一百零四年一月一日施行"
+  },
+  {
+   "law_id": "01517",
+   "law": "貨物稅條例",
+   "pcode": "G0340076",
+   "no": 20,
+   "promulgated": "1990-01-24",
+   "ly_version": "01517:1990-01-18-全文修正",
+   "ly_date": "1990-01-18",
+   "orig_effective": null,
+   "orig_basis": "by_executive_yuan_unknown",
+   "new_effective": "1990-06-01",
+   "new_basis": "executive_yuan_order",
+   "new_rules": [
+    {
+     "articles": [
+      "第一條",
+      "第七條",
+      "第三條",
+      "第九條",
+      "第二條",
+      "第五條",
+      "第八條",
+      "第六條",
+      "第十一條",
+      "第十二條",
+      "第十條",
+      "第四條"
+     ],
+     "chapters": [],
+     "effective": "1990-01-26",
+     "basis": "default_§13",
+     "source": "history"
+    }
+   ],
+   "new_partial": [
+    {
+     "articles": [
+      "第一條",
+      "第七條",
+      "第三條",
+      "第九條",
+      "第二條",
+      "第五條",
+      "第八條",
+      "第六條",
+      "第十一條",
+      "第十二條",
+      "第十條",
+      "第四條"
+     ],
+     "effective": "1990-01-26",
+     "basis": "executive_yuan_order",
+     "ref": "核定除第1～12條已"
+    }
+   ],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第37條規定：除第1～12條自公布日施行外，其餘條文施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01517:1990-01-18-全文修正",
+     "effective": "1990-01-24",
+     "effective_basis": "unknown_using_promulgation"
+    }
+   ],
+   "note": "20. 中華民國七十九年一月二十四日總統（79）華總（一）義字第 0425 號令修正公布全文 37 條；依第 37 條規定：除第 1～12 條自公布 日施行外，其餘條文施行日期，由行政院定之 中華民國七十九年五月二十九日行政院臺七十九財字第 12769 號函 核定除第 1～12 條已自公布日施行外，其餘條文自七十九年六月一 日施行"
+  },
+  {
+   "law_id": "01517",
+   "law": "貨物稅條例",
+   "pcode": "G0340076",
+   "no": 23,
+   "promulgated": "1997-05-07",
+   "ly_version": "01517:1997-04-15-修正",
+   "ly_date": "1997-04-15",
+   "orig_effective": "2002-01-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第三十二條",
+      "第三條",
+      "第十七條",
+      "第十八條"
+     ],
+     "chapters": [],
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [
+    {
+     "articles": [
+      "第十三條"
+     ],
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order",
+     "ref": "本次修正條文修正第3條、第13條至15條、第17條、第18條及第32條"
+    }
+   ],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第37規定：本條例修正條文施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01517:1997-04-15-修正",
+     "effective": "2002-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "23. 中華民國八十六年五月七日總統（86）華總（一）義字第 860010577 0 號令修正公布第 3、13～15、17、18、32、37 條條文；並刪除第 5 條條文；依第 37 規定：本條例修正條文施行日期，由行政院定之 中華民國九十年十二月二十一日行政院（90）台財字第 073658 號令 發布本次修正條文修正第 3 條、第 13 條至 15 條、第 17 條、第 18 條及第 32 條自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01517",
+   "law": "貨物稅條例",
+   "pcode": "G0340076",
+   "no": 25,
+   "promulgated": "2001-10-31",
+   "ly_version": "01517:2001-10-11-修正",
+   "ly_date": "2001-10-11",
+   "orig_effective": "2002-01-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第十二條"
+     ],
+     "chapters": [],
+     "effective": "2002-01-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "本條例修正條文施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01517:2001-10-11-修正",
+     "effective": "2002-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "25. 中華民國九十年十月三十一日總統（90）華總一義字第 9000213940 號令修正公布第 12、37 條條文；本條例修正條文施行日期，由行政 院定之 中華民國九十年十二月二十一日行政院（90）台財字第 073658 號令 發布本次修正條文第 12 條自九十一年一月一日施行"
+  },
+  {
+   "law_id": "01517",
+   "law": "貨物稅條例",
+   "pcode": "G0340076",
+   "no": 47,
+   "promulgated": "2025-08-19",
+   "ly_version": "01517:2025-08-05-修正",
+   "ly_date": "2025-08-05",
+   "orig_effective": "2026-01-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第八條",
+      "第十一條"
+     ],
+     "chapters": [],
+     "effective": "2026-01-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第37條規定：施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01517:2025-08-05-修正",
+     "effective": "2026-01-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "47. 中華民國一百十四年八月十九日總統華總一經字第 11400083161 號 令修正公布第 8、11、37 條條文；依第 37 條規定：施行日期，由 行政院定之 中華民國一百十四年十一月十四日行政院院臺財字第 1141031473 號 令發布第 8、11 條，定自一百十五年一月一日施行"
+  },
+  {
+   "law_id": "01622",
+   "law": "菸酒稅法",
+   "pcode": "G0330010",
+   "no": 6,
+   "promulgated": "2009-05-13",
+   "ly_version": "01622:2009-04-28-修正",
+   "ly_date": "2009-04-28",
+   "orig_effective": "2009-06-01",
+   "orig_basis": "explicit",
+   "new_effective": null,
+   "new_basis": "pending_executive_yuan",
+   "new_rules": [
+    {
+     "articles": [
+      "第八條"
+     ],
+     "chapters": [],
+     "effective": "2009-06-01",
+     "basis": "executive_yuan_order",
+     "source": "history_order"
+    }
+   ],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "施行日期由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "01622:2009-04-28-修正",
+     "effective": "2009-06-01",
+     "effective_basis": "explicit"
+    }
+   ],
+   "note": "6.中華民國九十八年五月十三日總統華總一義字第 09800118231 號令修 正公布第 8 條條文；施行日期由行政院定之 中華民國九十八年五月二十二日行政院院臺財字第 0980028996 號令發 布第 8 條條文定自九十八年六月一日施行"
+  },
+  {
+   "law_id": "08148",
+   "law": "特種貨物及勞務稅條例",
+   "pcode": "G0340128",
+   "no": 1,
+   "promulgated": "2011-05-04",
+   "ly_version": "08148:2011-04-15-制定",
+   "ly_date": "2011-04-15",
+   "orig_effective": null,
+   "orig_basis": "by_executive_yuan_unknown",
+   "new_effective": "2011-06-01",
+   "new_basis": "executive_yuan_order",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [],
+   "new_unparsed": [],
+   "commencement_text_new": "依第26條規定：施行日期，由行政院定之",
+   "stored_in_db": [
+    {
+     "ly_version": "08148:2011-04-15-制定",
+     "effective": "2011-05-04",
+     "effective_basis": "unknown_using_promulgation"
+    }
+   ],
+   "note": "1.中華民國一百年五月四日總統華總一義字第 10000085291 號令制定公 布全文 26 條；依第 26 條規定：施行日期，由行政院定之 中華民國一百年五月十九日行政院院臺財字第 1000025165 號令定自一 百年六月一日施行 ::: 最新訊息 中央法規 司法解釋 條約協定 兩岸協議 綜合查詢 跨機關檢索 法治宣導專區 智慧查找 法律扶助 創意教案 法律時事漫談 網站使用說明 網站使用手冊 會員服務介紹 網站單元簡介 法規資料檢索範圍 資料更新頻率說明 資訊服務 全國法規連結圖示 全國法規作業要點 法規名稱英譯標準表 相關網站 訂閱電子報 瀏覽人次總計 1,646,380,966人 本月瀏覽人次 12,668,515人 目前使用人次 2,374人 電子報訂閱人數 223,114人 本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。 若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。"
+  },
+  {
+   "law_id": "08128",
+   "law": "產業創新條例",
+   "pcode": "J0040051",
+   "no": 11,
+   "promulgated": "2025-05-07",
+   "ly_version": "08128:2025-04-18-修正",
+   "ly_date": "2025-04-18",
+   "orig_effective": null,
+   "orig_basis": "by_executive_yuan_unknown",
+   "new_effective": "2025-05-09",
+   "new_basis": "default_§13",
+   "new_rules": [],
+   "new_partial": [],
+   "new_pending": [
+    {
+     "articles": [
+      "第二十二條",
+      "第六十七條之三"
+     ],
+     "chapters": [],
+     "effective": "pending",
+     "basis": "by_executive_yuan",
+     "source": "history"
+    }
+   ],
+   "new_unparsed": [],
+   "commencement_text_new": "依第72條規定：第22、67-3條施行日期，由行政院定之；其餘條文自公布日施行",
+   "stored_in_db": [
+    {
+     "ly_version": "08128:2025-04-18-修正",
+     "effective": "2025-05-07",
+     "effective_basis": "unknown_using_promulgation"
+    }
+   ],
+   "note": "11. 中華民國一百十四年五月七日總統華總一經字第 11400044621 號令 修正公布第 10-1、22、23-1、23-2、67-1、67-2、70、72 條條文； 增訂第 67-3 條條文；修正之第 23-2 條施行期間，自一百十四年一 月一日起至一百十八年十二月三十一日止；依第 72 條規定：第 22、 67-3 條施行日期，由行政院定之；其餘條文自公布日施行"
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "checked_on_prefix_store": 3603,
+ "tw_taxtime_v0": [
+  {
+   "id": "tt-version_id-00294",
+   "type": "version_id",
+   "old_gold_version_id": 708,
+   "old_gold_from": "2010-01-01",
+   "new_gold_version_id": 723
+  },
+  {
+   "id": "tt-span-00323",
+   "type": "span",
+   "old_gold_version_id": 708,
+   "old_temporal_distractor_id": 705,
+   "new_gold_version_id": 723
+  },
+  {
+   "id": "tt-version_id-00721",
+   "type": "version_id",
+   "old_gold_version_id": 704,
+   "old_gold_from": "2009-05-29",
+   "new_gold_version_id": 679
+  },
+  {
+   "id": "tt-amount-00725",
+   "type": "amount",
+   "old_gold_version_id": 704,
+   "old_gold_amount": 500000,
+   "old_temporal_distractor": 300000,
+   "new_gold_version_id": 679,
+   "new_gold_amount": 300000
+  },
+  {
+   "id": "tt-amount-00727",
+   "type": "amount",
+   "old_gold_version_id": 704,
+   "old_gold_amount": 1090000,
+   "old_temporal_distractor": 800000,
+   "new_gold_version_id": 679,
+   "new_gold_amount": 800000
+  },
+  {
+   "id": "tt-amount-00729",
+   "type": "amount",
+   "old_gold_version_id": 704,
+   "old_gold_amount": 25000,
+   "old_temporal_distractor": 251000,
+   "new_gold_version_id": 679,
+   "new_gold_amount": 251000
+  },
+  {
+   "id": "tt-amount-00731",
+   "type": "amount",
+   "old_gold_version_id": 704,
+   "old_gold_amount": 1090000,
+   "old_temporal_distractor": 1600000,
+   "new_gold_version_id": 679,
+   "new_gold_amount": 1600000
+  },
+  {
+   "id": "tt-amount-00733",
+   "type": "amount",
+   "old_gold_version_id": 704,
+   "old_gold_amount": 120000,
+   "old_temporal_distractor": 50000,
+   "new_gold_version_id": 679,
+   "new_gold_amount": 50000
+  },
+  {
+   "id": "tt-amount-00735",
+   "type": "amount",
+   "old_gold_version_id": 704,
+   "old_gold_amount": 120000,
+   "old_temporal_distractor": 50000,
+   "new_gold_version_id": 679,
+   "new_gold_amount": 50000
+  },
+  {
+   "id": "tt-span-00763",
+   "type": "span",
+   "old_gold_version_id": 704,
+   "old_temporal_distractor_id": 679,
+   "new_gold_version_id": 679
+  },
+  {
+   "id": "tt-span-00765",
+   "type": "span",
+   "old_gold_version_id": 704,
+   "old_temporal_distractor_id": 679,
+   "new_gold_version_id": 679
+  },
+  {
+   "id": "tt-span-00766",
+   "type": "span",
+   "old_gold_version_id": 704,
+   "old_temporal_distractor_id": 730,
+   "new_gold_version_id": 679
+  },
+  {
+   "id": "tt-span-01473",
+   "type": "span",
+   "old_gold_version_id": 2716,
+   "old_temporal_distractor_id": 2699,
+   "new_gold_version_id": 2699
+  },
+  {
+   "id": "tt-span-01852",
+   "type": "span",
+   "old_gold_version_id": 1358,
+   "old_temporal_distractor_id": 1352,
+   "new_gold_version_id": 1403
+  },
+  {
+   "id": "tt-version_id-03305",
+   "type": "version_id",
+   "old_gold_version_id": 1662,
+   "old_gold_from": "2025-05-30",
+   "new_gold_version_id": 1642
+  },
+  {
+   "id": "tt-span-03306",
+   "type": "span",
+   "old_gold_version_id": 1662,
+   "old_temporal_distractor_id": 1642,
+   "new_gold_version_id": 1642
+  },
+  {
+   "id": "tt-span-03308",
+   "type": "span",
+   "old_gold_version_id": 1662,
+   "old_temporal_distractor_id": 1642,
+   "new_gold_version_id": 1642
+  },
+  {
+   "id": "tt-version_id-03310",
+   "type": "version_id",
+   "old_gold_version_id": 1648,
+   "old_gold_from": "2025-05-30",
+   "new_gold_version_id": 1641
+  },
+  {
+   "id": "tt-version_id-03313",
+   "type": "version_id",
+   "old_gold_version_id": 1646,
+   "old_gold_from": "2025-05-30",
+   "new_gold_version_id": 1640
+  },
+  {
+   "id": "tt-version_id-03377",
+   "type": "version_id",
+   "old_gold_version_id": 3597,
+   "old_gold_from": "2025-05-07",
+   "new_gold_version_id": 3565
+  },
+  {
+   "id": "tt-span-03378",
+   "type": "span",
+   "old_gold_version_id": 3597,
+   "old_temporal_distractor_id": 3565,
+   "new_gold_version_id": 3565
+  },
+  {
+   "id": "tt-span-03379",
+   "type": "span",
+   "old_gold_version_id": 3597,
+   "old_temporal_distractor_id": 3565,
+   "new_gold_version_id": 3565
+  },
+  {
+   "id": "tt-span-03380",
+   "type": "span",
+   "old_gold_version_id": 3597,
+   "old_temporal_distractor_id": 3565,
+   "new_gold_version_id": 3565
+  },
+  {
+   "id": "tt-version_id-03427",
+   "type": "version_id",
+   "old_gold_version_id": 3572,
+   "old_gold_from": "2019-07-26",
+   "new_gold_version_id": 3557
+  },
+  {
+   "id": "tt-bitemporal-03502",
+   "type": "bitemporal",
+   "old_gold_version_id": 621,
+   "new_gold_version_id": 599
+  },
+  {
+   "id": "tt-bitemporal-03508",
+   "type": "bitemporal",
+   "old_gold_version_id": 663,
+   "new_gold_version_id": 660
+  },
+  {
+   "id": "tt-bitemporal-03514",
+   "type": "bitemporal",
+   "old_gold_version_id": 708,
+   "new_gold_version_id": 705
+  },
+  {
+   "id": "tt-bitemporal-03546",
+   "type": "bitemporal",
+   "old_gold_version_id": 842,
+   "new_gold_version_id": 659
+  }
+ ],
+ "rerank_test": [
+  {
+   "id": "tt-span-00323",
+   "old_gold": 708,
+   "new_gold": 723
+  },
+  {
+   "id": "tt-amount-00725",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-amount-00727",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-amount-00729",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-amount-00731",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-amount-00733",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-amount-00735",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-span-00763",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-span-00765",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-span-00766",
+   "old_gold": 704,
+   "new_gold": 679
+  },
+  {
+   "id": "tt-span-03378",
+   "old_gold": 3597,
+   "new_gold": 3565
+  },
+  {
+   "id": "tt-span-03379",
+   "old_gold": 3597,
+   "new_gold": 3565
+  },
+  {
+   "id": "tt-span-03380",
+   "old_gold": 3597,
+   "new_gold": 3565
+  }
+ ],
+ "tw_taxtime_nl": [
+  {
+   "probe_id": "tt-amount-00735",
+   "old": {
+    "gold_version_id": 704,
+    "gold_amount": 120000,
+    "temporal_distractor": 50000
+   },
+   "new": {
+    "gold_version_id": 679,
+    "gold_amount": 50000,
+    "temporal_distractor": 120000
+   },
+   "rejected": "leak"
+  },
+  {
+   "probe_id": "tt-amount-00733",
+   "old": {
+    "gold_version_id": 704,
+    "gold_amount": 120000,
+    "temporal_distractor": 50000
+   },
+   "new": {
+    "gold_version_id": 679,
+    "gold_amount": 50000,
+    "temporal_distractor": 120000
+   },
+   "rejected": "leak"
+  },
+  {
+   "probe_id": "tt-amount-00727",
+   "old": {
+    "gold_version_id": 704,
+    "gold_amount": 1090000,
+    "temporal_distractor": 800000
+   },
+   "new": {
+    "gold_version_id": 679,
+    "gold_amount": 800000,
+    "temporal_distractor": 1090000
+   },
+   "rejected": null
+  },
+  {
+   "probe_id": "tt-amount-00729",
+   "old": {
+    "gold_version_id": 704,
+    "gold_amount": 25000,
+    "temporal_distractor": 251000
+   },
+   "new": {
+    "gold_version_id": 679,
+    "gold_amount": 251000,
+    "temporal_distractor": 25000
+   },
+   "rejected": null
+  },
+  {
+   "probe_id": "tt-amount-00725",
+   "old": {
+    "gold_version_id": 704,
+    "gold_amount": 500000,
+    "temporal_distractor": 300000
+   },
+   "new": {
+    "gold_version_id": 679,
+    "gold_amount": 300000,
+    "temporal_distractor": 500000
+   },
+   "rejected": "leak"
+  },
+  {
+   "probe_id": "tt-amount-00731",
+   "old": {
+    "gold_version_id": 704,
+    "gold_amount": 1090000,
+    "temporal_distractor": 1600000
+   },
+   "new": {
+    "gold_version_id": 679,
+    "gold_amount": 1600000,
+    "temporal_distractor": 1090000
+   },
+   "rejected": null
+  }
+ ],
+ "rerank_candidate_lists_differing_from_stored": 15,
+ "counts": {
+  "tw_taxtime_v0": 28,
+  "rerank_test": 13,
+  "tw_taxtime_nl": 6
+ },
+ "counts_by_type": {
+  "version_id": 7,
+  "amount": 6,
+  "span": 11,
+  "bitemporal": 4
+ },
+ "gold_none": []
+}

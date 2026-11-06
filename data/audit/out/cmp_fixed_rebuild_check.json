@@ -1,0 +1,36 @@
+{
+ "a": "data/audit/recon/lawtw_fixed_prev.db",
+ "b": "data/audit/lawtw_fixed.db",
+ "versions": [
+  406,
+  406
+ ],
+ "version_rows_differing": 0,
+ "version_fields_differing": [],
+ "version_date_changes": [],
+ "article_version_rows": [
+  3662,
+  3662
+ ],
+ "article_version_non_deleted": [
+  3555,
+  3555
+ ],
+ "ids_identical": true,
+ "identity_mismatch_ids": [],
+ "article_versions_changed": 0,
+ "article_versions_changed_non_deleted": 0,
+ "article_versions_valid_from_changed_non_deleted": 0,
+ "changed_columns_count": {
+  "valid_from": 0,
+  "valid_to": 0,
+  "from_basis": 0,
+  "retro": 0,
+  "overtaken": 0,
+  "pending": 0
+ },
+ "changed": [],
+ "regulation_rows_identical_ignoring_ids": true,
+ "article_en_identical": true,
+ "commencement_rule_identical": true
+}

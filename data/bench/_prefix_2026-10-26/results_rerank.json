@@ -1,0 +1,163 @@
+{
+ "bm25 (static)": {
+  "n": 1207,
+  "R@1": 0.474,
+  "R@1_ci": [
+   0.446,
+   0.502
+  ],
+  "misgrounding@1": 0.198,
+  "misgrounding@1_ci": [
+   0.177,
+   0.221
+  ]
+ },
+ "date filter → bm25": {
+  "n": 1207,
+  "R@1": 0.746,
+  "R@1_ci": [
+   0.72,
+   0.769
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.003
+  ]
+ },
+ "zero-shot (static)": {
+  "n": 1207,
+  "R@1": 0.537,
+  "R@1_ci": [
+   0.509,
+   0.565
+  ],
+  "misgrounding@1": 0.155,
+  "misgrounding@1_ci": [
+   0.136,
+   0.176
+  ]
+ },
+ "date filter → zero-shot": {
+  "n": 1207,
+  "R@1": 0.751,
+  "R@1_ci": [
+   0.726,
+   0.775
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.003
+  ]
+ },
+ "fine-tuned/bm25 (static)": {
+  "n": 1207,
+  "R@1": 0.671,
+  "R@1_ci": [
+   0.644,
+   0.697
+  ],
+  "misgrounding@1": 0.067,
+  "misgrounding@1_ci": [
+   0.054,
+   0.083
+  ]
+ },
+ "date filter → fine-tuned/bm25": {
+  "n": 1207,
+  "R@1": 0.747,
+  "R@1_ci": [
+   0.722,
+   0.771
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.003
+  ]
+ },
+ "fine-tuned/temporal (static)": {
+  "n": 1207,
+  "R@1": 0.675,
+  "R@1_ci": [
+   0.648,
+   0.701
+  ],
+  "misgrounding@1": 0.06,
+  "misgrounding@1_ci": [
+   0.048,
+   0.074
+  ]
+ },
+ "date filter → fine-tuned/temporal": {
+  "n": 1207,
+  "R@1": 0.748,
+  "R@1_ci": [
+   0.723,
+   0.772
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.003
+  ]
+ },
+ "fine-tuned/mixed (static)": {
+  "n": 1207,
+  "R@1": 0.673,
+  "R@1_ci": [
+   0.646,
+   0.699
+  ],
+  "misgrounding@1": 0.072,
+  "misgrounding@1_ci": [
+   0.059,
+   0.088
+  ]
+ },
+ "date filter → fine-tuned/mixed": {
+  "n": 1207,
+  "R@1": 0.751,
+  "R@1_ci": [
+   0.725,
+   0.774
+  ],
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.003
+  ]
+ },
+ "_mcnemar": {
+  "fine-tuned/temporal (static) vs fine-tuned/bm25 (static)": {
+   "only_A": 54,
+   "only_B": 49,
+   "p": 0.6937
+  },
+  "fine-tuned/temporal (static) vs fine-tuned/mixed (static)": {
+   "only_A": 44,
+   "only_B": 41,
+   "p": 0.8284
+  },
+  "fine-tuned/bm25 (static) vs zero-shot (static)": {
+   "only_A": 212,
+   "only_B": 50,
+   "p": 0.0
+  },
+  "date filter → fine-tuned/temporal vs date filter → bm25": {
+   "only_A": 23,
+   "only_B": 20,
+   "p": 0.7608
+  },
+  "date filter → bm25 vs fine-tuned/temporal (static)": {
+   "only_A": 104,
+   "only_B": 19,
+   "p": 0.0
+  }
+ },
+ "_test_by_type": {
+  "amount": 264,
+  "span": 943
+ }
+}

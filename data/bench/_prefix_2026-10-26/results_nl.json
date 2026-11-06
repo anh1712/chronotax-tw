@@ -1,0 +1,1536 @@
+{
+ "summary": {
+  "questions": 105,
+  "evaluated": 105,
+  "infra_errors": 0,
+  "year_ok": {
+   "rate": 1.0,
+   "ci": [
+    0.965,
+    1.0
+   ]
+  },
+  "r1": {
+   "rate": 0.581,
+   "ci": [
+    0.485,
+    0.671
+   ]
+  },
+  "r5": {
+   "rate": 0.8,
+   "ci": [
+    0.714,
+    0.865
+   ]
+  },
+  "amount_ok": {
+   "rate": 0.743,
+   "ci": [
+    0.652,
+    0.817
+   ]
+  },
+  "distractor": {
+   "rate": 0.038,
+   "ci": [
+    0.015,
+    0.094
+   ]
+  },
+  "all_verified": {
+   "rate": 0.676,
+   "ci": [
+    0.582,
+    0.758
+   ]
+  },
+  "insufficient": {
+   "rate": 0.181,
+   "ci": [
+    0.119,
+    0.265
+   ]
+  },
+  "wrong_answers_flagged_by_code": {
+   "n": 11,
+   "flagged": 1
+  }
+ },
+ "items": [
+  {
+   "id": "tt-amount-02863",
+   "period": {
+    "as_of": "2015-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03232",
+   "period": {
+    "as_of": "2003-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00515",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": true,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02866",
+   "period": {
+    "as_of": "2003-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01569",
+   "period": {
+    "as_of": "2019-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01277",
+   "period": {
+    "as_of": "2007-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00985",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01561",
+   "period": {
+    "as_of": "2017-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-01183",
+   "period": {
+    "as_of": "2007-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01262",
+   "period": {
+    "as_of": "2003-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01256",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": true,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03230",
+   "period": {
+    "as_of": "2003-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03404",
+   "period": {
+    "as_of": "2020-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03204",
+   "period": {
+    "as_of": "2006-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03371",
+   "period": {
+    "as_of": "2026-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00979",
+   "period": {
+    "as_of": "2012-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00745",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01565",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00477",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01285",
+   "period": {
+    "as_of": "2001-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02226",
+   "period": {
+    "as_of": "2024-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-01568",
+   "period": {
+    "as_of": "2001-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03234",
+   "period": {
+    "as_of": "2002-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02754",
+   "period": {
+    "as_of": "2002-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00757",
+   "period": {
+    "as_of": "2020-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00751",
+   "period": {
+    "as_of": "2015-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00006",
+   "period": {
+    "as_of": "2002-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-01308",
+   "period": {
+    "as_of": "2013-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00086",
+   "period": {
+    "as_of": "2018-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01559",
+   "period": {
+    "as_of": "2004-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03229",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02809",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00087",
+   "period": {
+    "as_of": "2015-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02810",
+   "period": {
+    "as_of": "2002-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00727",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03260",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00744",
+   "period": {
+    "as_of": "2010-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03428",
+   "period": {
+    "as_of": "2020-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00991",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00512",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03258",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00619",
+   "period": {
+    "as_of": "2023-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01563",
+   "period": {
+    "as_of": "2019-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03372",
+   "period": {
+    "as_of": "2019-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-03197",
+   "period": {
+    "as_of": "2019-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00978",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00746",
+   "period": {
+    "as_of": "2010-01-01",
+    "basis": "tax_year",
+    "tax_year": 2010
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03235",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02825",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00613",
+   "period": {
+    "as_of": "2004-01-01",
+    "basis": "tax_year",
+    "tax_year": 2004
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03231",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03261",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02808",
+   "period": {
+    "as_of": "2002-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00742",
+   "period": {
+    "as_of": "2012-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03203",
+   "period": {
+    "as_of": "2022-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00609",
+   "period": {
+    "as_of": "2020-01-01",
+    "basis": "tax_year",
+    "tax_year": 2020
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02807",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03475",
+   "period": {
+    "as_of": "2023-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00729",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00986",
+   "period": {
+    "as_of": "2018-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02227",
+   "period": {
+    "as_of": "2020-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": true,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02753",
+   "period": {
+    "as_of": "2010-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00631",
+   "period": {
+    "as_of": "2020-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01281",
+   "period": {
+    "as_of": "2004-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01311",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00977",
+   "period": {
+    "as_of": "2007-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-03202",
+   "period": {
+    "as_of": "2015-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00981",
+   "period": {
+    "as_of": "2014-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-03403",
+   "period": {
+    "as_of": "2025-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03199",
+   "period": {
+    "as_of": "2023-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00980",
+   "period": {
+    "as_of": "2017-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00514",
+   "period": {
+    "as_of": "2012-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03200",
+   "period": {
+    "as_of": "2002-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00743",
+   "period": {
+    "as_of": "2017-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-03201",
+   "period": {
+    "as_of": "2022-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-03236",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-03405",
+   "period": {
+    "as_of": "2026-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00753",
+   "period": {
+    "as_of": "2017-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-01570",
+   "period": {
+    "as_of": "2000-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03259",
+   "period": {
+    "as_of": "2003-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01260",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00754",
+   "period": {
+    "as_of": "2013-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01182",
+   "period": {
+    "as_of": "2014-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00731",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00473",
+   "period": {
+    "as_of": "2004-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02235",
+   "period": {
+    "as_of": "2010-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02826",
+   "period": {
+    "as_of": "2003-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00442",
+   "period": {
+    "as_of": "2011-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03233",
+   "period": {
+    "as_of": "2009-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03474",
+   "period": {
+    "as_of": "2025-01-01",
+    "basis": "tax_year",
+    "tax_year": 2025
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": true,
+   "distractor": true,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00465",
+   "period": {
+    "as_of": "2000-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-03198",
+   "period": {
+    "as_of": "2012-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00976",
+   "period": {
+    "as_of": "2008-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  },
+  {
+   "id": "tt-amount-00377",
+   "period": {
+    "as_of": "2017-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02865",
+   "period": {
+    "as_of": "2012-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00988",
+   "period": {
+    "as_of": "2018-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00756",
+   "period": {
+    "as_of": "2016-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00740",
+   "period": {
+    "as_of": "2012-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01567",
+   "period": {
+    "as_of": "2005-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02234",
+   "period": {
+    "as_of": "2014-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-02824",
+   "period": {
+    "as_of": "2004-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01258",
+   "period": {
+    "as_of": "2007-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00378",
+   "period": {
+    "as_of": "2006-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-00633",
+   "period": {
+    "as_of": "2013-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": true,
+   "r5": true,
+   "amount_ok": true,
+   "distractor": false,
+   "all_verified": true,
+   "insufficient": false
+  },
+  {
+   "id": "tt-amount-01180",
+   "period": {
+    "as_of": "2001-07-01",
+    "basis": "year_mid"
+   },
+   "year_ok": true,
+   "r1": false,
+   "r5": false,
+   "amount_ok": false,
+   "distractor": false,
+   "all_verified": false,
+   "insufficient": true
+  }
+ ]
+}

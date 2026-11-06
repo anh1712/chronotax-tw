@@ -1,0 +1,181 @@
+{
+ "checks": [
+  {
+   "id": "tt-amount-00727",
+   "old_gold": 1090000,
+   "old_distractor": 800000,
+   "new_gold": 800000,
+   "new_distractor": 1090000,
+   "swap_exact": true,
+   "old_flags": {
+    "amount_ok": true,
+    "distractor": false,
+    "insufficient": false,
+    "all_verified": false
+   },
+   "new_flags": {
+    "amount_ok": false,
+    "distractor": true,
+    "insufficient": false,
+    "all_verified": false
+   }
+  },
+  {
+   "id": "tt-amount-00729",
+   "old_gold": 25000,
+   "old_distractor": 251000,
+   "new_gold": 251000,
+   "new_distractor": 25000,
+   "swap_exact": true,
+   "old_flags": {
+    "amount_ok": false,
+    "distractor": false,
+    "insufficient": true,
+    "all_verified": false
+   },
+   "new_flags": {
+    "amount_ok": false,
+    "distractor": false,
+    "insufficient": true,
+    "all_verified": false
+   }
+  },
+  {
+   "id": "tt-amount-00731",
+   "old_gold": 1090000,
+   "old_distractor": 1600000,
+   "new_gold": 1600000,
+   "new_distractor": 1090000,
+   "swap_exact": true,
+   "old_flags": {
+    "amount_ok": true,
+    "distractor": false,
+    "insufficient": false,
+    "all_verified": false
+   },
+   "new_flags": {
+    "amount_ok": false,
+    "distractor": true,
+    "insufficient": false,
+    "all_verified": false
+   }
+  }
+ ],
+ "published": {
+  "year_ok": {
+   "rate": 1.0,
+   "ci": [
+    0.965,
+    1.0
+   ]
+  },
+  "r1": {
+   "rate": 0.581,
+   "ci": [
+    0.485,
+    0.671
+   ]
+  },
+  "r5": {
+   "rate": 0.8,
+   "ci": [
+    0.714,
+    0.865
+   ]
+  },
+  "amount_ok": {
+   "rate": 0.743,
+   "ci": [
+    0.652,
+    0.817
+   ]
+  },
+  "distractor": {
+   "rate": 0.038,
+   "ci": [
+    0.015,
+    0.094
+   ]
+  },
+  "all_verified": {
+   "rate": 0.676,
+   "ci": [
+    0.582,
+    0.758
+   ]
+  },
+  "insufficient": {
+   "rate": 0.181,
+   "ci": [
+    0.119,
+    0.265
+   ]
+  },
+  "wrong_answers_flagged_by_code": {
+   "n": 11,
+   "flagged": 1
+  }
+ },
+ "regraded_fix_ab": {
+  "year_ok": {
+   "rate": 1.0,
+   "ci": [
+    0.965,
+    1.0
+   ],
+   "count": 105
+  },
+  "r1": {
+   "rate": 0.581,
+   "ci": [
+    0.485,
+    0.671
+   ],
+   "count": 61
+  },
+  "r5": {
+   "rate": 0.8,
+   "ci": [
+    0.714,
+    0.865
+   ],
+   "count": 84
+  },
+  "amount_ok": {
+   "rate": 0.724,
+   "ci": [
+    0.632,
+    0.8
+   ],
+   "count": 76
+  },
+  "distractor": {
+   "rate": 0.057,
+   "ci": [
+    0.026,
+    0.119
+   ],
+   "count": 6
+  },
+  "all_verified": {
+   "rate": 0.676,
+   "ci": [
+    0.582,
+    0.758
+   ],
+   "count": 71
+  },
+  "insufficient": {
+   "rate": 0.181,
+   "ci": [
+    0.119,
+    0.265
+   ],
+   "count": 19
+  },
+  "wrong_answers_flagged_by_code": {
+   "n": 13,
+   "flagged": 3
+  }
+ }
+}

@@ -1,0 +1,111 @@
+tax_year,item,item_zh,amount,source,note
+105,exemption,免稅額,85000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,exemption_70plus,年滿70歲免稅額,127500,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,standard_deduction_single,標準扣除額(單身),90000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,standard_deduction_married,標準扣除額(有配偶者),180000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,salary_special_deduction,薪資所得特別扣除額,128000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,disability_special_deduction,身心障礙特別扣除額,128000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,bracket_5pct_upper,課稅級距5%上限,520000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,bracket_12pct_upper,課稅級距12%上限,1170000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,bracket_20pct_upper,課稅級距20%上限,2350000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook (row 同上); salary/disability read by row position
+105,bracket_30pct_upper,課稅級距30%上限,4400000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook (row 同上); salary/disability read by row position
+106,exemption,免稅額,88000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; salary/disability read by row position
+106,exemption_70plus,年滿70歲免稅額,132000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; salary/disability read by row position
+106,standard_deduction_single,標準扣除額(單身),90000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; salary/disability read by row position
+106,standard_deduction_married,標準扣除額(有配偶者),180000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; salary/disability read by row position
+106,salary_special_deduction,薪資所得特別扣除額,128000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; salary/disability read by row position
+106,disability_special_deduction,身心障礙特別扣除額,128000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; salary/disability read by row position
+106,bracket_5pct_upper,課稅級距5%上限,540000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; salary/disability read by row position
+106,bracket_12pct_upper,課稅級距12%上限,1210000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; salary/disability read by row position
+106,bracket_20pct_upper,課稅級距20%上限,2420000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; salary/disability read by row position
+106,bracket_30pct_upper,課稅級距30%上限,4530000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; salary/disability read by row position
+107,exemption,免稅額,88000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,exemption_70plus,年滿70歲免稅額,132000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,standard_deduction_single,標準扣除額(單身),120000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,standard_deduction_married,標準扣除額(有配偶者),240000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,salary_special_deduction,薪資所得特別扣除額,200000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,disability_special_deduction,身心障礙特別扣除額,200000,https://service.mof.gov.tw/public/Data/statistic/Year_Fin/112%E9%9B%BB%E5%AD%90%E6%9B%B8/htm/312030.pdf,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,bracket_5pct_upper,課稅級距5%上限,540000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,bracket_12pct_upper,課稅級距12%上限,1210000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,bracket_20pct_upper,課稅級距20%上限,2420000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; 2018 Act amendment raised deductions
+107,bracket_30pct_upper,課稅級距30%上限,4530000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,MOF statistics yearbook; 2018 Act amendment raised deductions
+108,exemption,免稅額,88000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+108,exemption_70plus,年滿70歲免稅額,132000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+108,standard_deduction_single,標準扣除額(單身),120000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+108,standard_deduction_married,標準扣除額(有配偶者),240000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+108,salary_special_deduction,薪資所得特別扣除額,200000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+108,disability_special_deduction,身心障礙特別扣除額,200000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+108,bracket_5pct_upper,課稅級距5%上限,540000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+108,bracket_12pct_upper,課稅級距12%上限,1210000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+108,bracket_20pct_upper,課稅級距20%上限,2420000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+108,bracket_30pct_upper,課稅級距30%上限,4530000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+109,exemption,免稅額,88000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+109,exemption_70plus,年滿70歲免稅額,132000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+109,standard_deduction_single,標準扣除額(單身),120000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+109,standard_deduction_married,標準扣除額(有配偶者),240000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+109,salary_special_deduction,薪資所得特別扣除額,200000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+109,disability_special_deduction,身心障礙特別扣除額,200000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+109,bracket_5pct_upper,課稅級距5%上限,540000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+109,bracket_12pct_upper,課稅級距12%上限,1210000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+109,bracket_20pct_upper,課稅級距20%上限,2420000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+109,bracket_30pct_upper,課稅級距30%上限,4530000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+110,exemption,免稅額,88000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+110,exemption_70plus,年滿70歲免稅額,132000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+110,standard_deduction_single,標準扣除額(單身),120000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+110,standard_deduction_married,標準扣除額(有配偶者),240000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+110,salary_special_deduction,薪資所得特別扣除額,200000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+110,disability_special_deduction,身心障礙特別扣除額,200000,https://www.ntbt.gov.tw/download/0e3835e49e754c679b966099678ecd56,Taipei NTB 108-115 table; announcement page unavailable
+110,bracket_5pct_upper,課稅級距5%上限,540000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+110,bracket_12pct_upper,課稅級距12%上限,1210000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+110,bracket_20pct_upper,課稅級距20%上限,2420000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+110,bracket_30pct_upper,課稅級距30%上限,4530000,https://www.ntbt.gov.tw/multiplehtml/1b82b380e1a34de9afd204d39b007db2,Taipei NTB 108-115 table; announcement page unavailable
+111,exemption,免稅額,92000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,exemption_70plus,年滿70歲免稅額,138000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,standard_deduction_single,標準扣除額(單身),124000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,standard_deduction_married,標準扣除額(有配偶者),248000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,salary_special_deduction,薪資所得特別扣除額,207000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,disability_special_deduction,身心障礙特別扣除額,207000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,bracket_5pct_upper,課稅級距5%上限,560000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,bracket_12pct_upper,課稅級距12%上限,1260000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,bracket_20pct_upper,課稅級距20%上限,2520000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+111,bracket_30pct_upper,課稅級距30%上限,4720000,https://www.dot.gov.tw/download/9fc2b06e1ca14a2b8ebbad66359e425d,DOT 111 table (announced 2021-11-24)
+112,exemption,免稅額,92000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,exemption_70plus,年滿70歲免稅額,138000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,standard_deduction_single,標準扣除額(單身),124000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,standard_deduction_married,標準扣除額(有配偶者),248000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,salary_special_deduction,薪資所得特別扣除額,207000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,disability_special_deduction,身心障礙特別扣除額,207000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,bracket_5pct_upper,課稅級距5%上限,560000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,bracket_12pct_upper,課稅級距12%上限,1260000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,bracket_20pct_upper,課稅級距20%上限,2520000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+112,bracket_30pct_upper,課稅級距30%上限,4720000,https://www.dot.gov.tw/download/5b089530d87e4535be4abc7b1886bda0,DOT 112 table; announcement: unchanged (CPI below threshold)
+113,exemption,免稅額,97000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,exemption_70plus,年滿70歲免稅額,145500,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,standard_deduction_single,標準扣除額(單身),131000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,standard_deduction_married,標準扣除額(有配偶者),262000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,salary_special_deduction,薪資所得特別扣除額,218000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,disability_special_deduction,身心障礙特別扣除額,218000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,bracket_5pct_upper,課稅級距5%上限,590000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,bracket_12pct_upper,課稅級距12%上限,1330000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,bracket_20pct_upper,課稅級距20%上限,2660000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+113,bracket_30pct_upper,課稅級距30%上限,4980000,https://www.mof.gov.tw/download/b067830b48234fbf92c7f7cbc63fbc69,MOF 113 table (announced 2023-11-23)
+114,exemption,免稅額,97000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,"MOF announcement 2025-11-27, attachment column 調整前 (amounts before the 115 adjustment); same as 113 (no adjustment for 114)"
+114,exemption_70plus,年滿70歲免稅額,145500,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,standard_deduction_single,標準扣除額(單身),131000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,standard_deduction_married,標準扣除額(有配偶者),262000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,salary_special_deduction,薪資所得特別扣除額,218000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,disability_special_deduction,身心障礙特別扣除額,218000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,bracket_5pct_upper,課稅級距5%上限,590000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,bracket_12pct_upper,課稅級距12%上限,1330000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,bracket_20pct_upper,課稅級距20%上限,2660000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+114,bracket_30pct_upper,課稅級距30%上限,4980000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,調整前; same as 113 (no adjustment for 114)
+115,exemption,免稅額,101000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,"MOF announcement 2025-11-27 (CPI +4.13%), attachment 115年度一覽表"
+115,exemption_70plus,年滿70歲免稅額,151500,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,standard_deduction_single,標準扣除額(單身),136000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,standard_deduction_married,標準扣除額(有配偶者),272000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,salary_special_deduction,薪資所得特別扣除額,227000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,disability_special_deduction,身心障礙特別扣除額,227000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,bracket_5pct_upper,課稅級距5%上限,610000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,bracket_12pct_upper,課稅級距12%上限,1380000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,bracket_20pct_upper,課稅級距20%上限,2770000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,
+115,bracket_30pct_upper,課稅級距30%上限,5190000,https://www.dot.gov.tw/singlehtml/ch26?cntId=cf5db69f558d42409aa56c70838e8802,

@@ -1,0 +1,46 @@
+{
+ "static": {
+  "n": 264,
+  "R@1": 0.239,
+  "R@1_ci": [
+   0.191,
+   0.294
+  ],
+  "R@5": 0.644,
+  "misgrounding@1": 0.432,
+  "misgrounding@1_ci": [
+   0.373,
+   0.492
+  ]
+ },
+ "latest": {
+  "n": 264,
+  "R@1": 0.117,
+  "R@1_ci": [
+   0.084,
+   0.162
+  ],
+  "R@5": 0.121,
+  "misgrounding@1": 0.39,
+  "misgrounding@1_ci": [
+   0.333,
+   0.45
+  ]
+ },
+ "temporal": {
+  "n": 264,
+  "R@1": 0.697,
+  "R@1_ci": [
+   0.639,
+   0.749
+  ],
+  "R@5": 0.788,
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ },
+ "_amount_probe_keys_same_as_published": "264/264 (same position, same law/article/gold/context)",
+ "_same_dates": 249
+}

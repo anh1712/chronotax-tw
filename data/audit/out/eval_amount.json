@@ -1,0 +1,229 @@
+{
+ "bench": "data\\bench\\tw_taxtime_v0.jsonl",
+ "n": 264,
+ "gold_changed": [],
+ "runs": {
+  "current/gold_orig": {
+   "static": {
+    "n": 264,
+    "R@1": 0.239,
+    "R@1_ci": [
+     0.191,
+     0.294
+    ],
+    "R@5": 0.644,
+    "misgrounding@1": 0.432,
+    "misgrounding@1_ci": [
+     0.373,
+     0.492
+    ],
+    "hits@1": 63,
+    "mis@1": 114
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "misgrounding@1": 0.39,
+    "misgrounding@1_ci": [
+     0.333,
+     0.45
+    ],
+    "hits@1": 31,
+    "mis@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.697,
+    "R@1_ci": [
+     0.639,
+     0.749
+    ],
+    "R@5": 0.788,
+    "misgrounding@1": 0.0,
+    "misgrounding@1_ci": [
+     0.0,
+     0.014
+    ],
+    "hits@1": 184,
+    "mis@1": 0
+   }
+  },
+  "fixed/gold_fixed": {
+   "static": {
+    "n": 264,
+    "R@1": 0.239,
+    "R@1_ci": [
+     0.191,
+     0.294
+    ],
+    "R@5": 0.644,
+    "misgrounding@1": 0.432,
+    "misgrounding@1_ci": [
+     0.373,
+     0.492
+    ],
+    "hits@1": 63,
+    "mis@1": 114
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "misgrounding@1": 0.39,
+    "misgrounding@1_ci": [
+     0.333,
+     0.45
+    ],
+    "hits@1": 31,
+    "mis@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.697,
+    "R@1_ci": [
+     0.639,
+     0.749
+    ],
+    "R@5": 0.788,
+    "misgrounding@1": 0.0,
+    "misgrounding@1_ci": [
+     0.0,
+     0.014
+    ],
+    "hits@1": 184,
+    "mis@1": 0
+   }
+  },
+  "current/gold_fixed": {
+   "static": {
+    "n": 264,
+    "R@1": 0.239,
+    "R@1_ci": [
+     0.191,
+     0.294
+    ],
+    "R@5": 0.644,
+    "misgrounding@1": 0.432,
+    "misgrounding@1_ci": [
+     0.373,
+     0.492
+    ],
+    "hits@1": 63,
+    "mis@1": 114
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "misgrounding@1": 0.39,
+    "misgrounding@1_ci": [
+     0.333,
+     0.45
+    ],
+    "hits@1": 31,
+    "mis@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.697,
+    "R@1_ci": [
+     0.639,
+     0.749
+    ],
+    "R@5": 0.788,
+    "misgrounding@1": 0.0,
+    "misgrounding@1_ci": [
+     0.0,
+     0.014
+    ],
+    "hits@1": 184,
+    "mis@1": 0
+   }
+  }
+ },
+ "mcnemar_R@1": {
+  "static: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "static: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  }
+ },
+ "mcnemar_mis@1": {
+  "static: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "static: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  }
+ },
+ "flipped": {
+  "static: fixed/gold_fixed vs current/gold_orig": [],
+  "static: current/gold_fixed vs current/gold_orig": [],
+  "latest: fixed/gold_fixed vs current/gold_orig": [],
+  "latest: current/gold_fixed vs current/gold_orig": [],
+  "temporal: fixed/gold_fixed vs current/gold_orig": [],
+  "temporal: current/gold_fixed vs current/gold_orig": []
+ }
+}

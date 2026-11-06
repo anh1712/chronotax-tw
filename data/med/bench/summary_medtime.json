@@ -1,0 +1,12 @@
+{
+ "seed": 19,
+ "total": 5203,
+ "by_type": {
+  "version_id": 1925,
+  "span": 3160,
+  "amount": 118
+ },
+ "laws": 19,
+ "articles": 840,
+ "source": "src/bench.py main() on data/med/medtw.db"
+}

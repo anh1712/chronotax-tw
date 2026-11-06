@@ -1,0 +1,56 @@
+{
+ "static": {
+  "n": 264,
+  "R@1": 0.242,
+  "R@1_ci": [
+   0.195,
+   0.298
+  ],
+  "R@5": 0.644,
+  "misgrounding@1": 0.428,
+  "misgrounding@1_ci": [
+   0.37,
+   0.488
+  ]
+ },
+ "latest": {
+  "n": 264,
+  "R@1": 0.117,
+  "R@1_ci": [
+   0.084,
+   0.162
+  ],
+  "R@5": 0.121,
+  "misgrounding@1": 0.39,
+  "misgrounding@1_ci": [
+   0.333,
+   0.45
+  ]
+ },
+ "temporal": {
+  "n": 264,
+  "R@1": 0.697,
+  "R@1_ci": [
+   0.639,
+   0.749
+  ],
+  "R@5": 0.788,
+  "misgrounding@1": 0.0,
+  "misgrounding@1_ci": [
+   0.0,
+   0.014
+  ]
+ },
+ "_summary": {
+  "seed": 19,
+  "total": 3594,
+  "by_type": {
+   "version_id": 1223,
+   "span": 2009,
+   "amount": 264,
+   "bitemporal": 98
+  },
+  "laws": 22,
+  "articles": 543
+ }
+}

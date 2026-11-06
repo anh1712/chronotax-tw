@@ -1,0 +1,497 @@
+[
+ {
+  "group": "store",
+  "number": "acts",
+  "published": 23,
+  "today": 23,
+  "fix_A": 23,
+  "fix_AB": 23,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "versions",
+  "published": 406,
+  "today": 406,
+  "fix_A": 406,
+  "fix_AB": 406,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "article versions",
+  "published": 3555,
+  "today": 3555,
+  "fix_A": 3555,
+  "fix_AB": 3555,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "retroactive article versions (README 54)",
+  "published": 54,
+  "today": 54,
+  "fix_A": 54,
+  "fix_AB": 53,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "overtaken pending article versions (README 4)",
+  "published": 4,
+  "today": 4,
+  "fix_A": 4,
+  "fix_AB": 5,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "overlapping non-empty intervals (REPORT 0)",
+  "published": 0,
+  "today": 0,
+  "fix_A": 0,
+  "fix_AB": 0,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "article versions not in force yet (pending)",
+  "published": "—",
+  "today": 0,
+  "fix_A": 3,
+  "fix_AB": 3,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "store",
+  "number": "versions starting later than the §13 default",
+  "published": "—",
+  "today": 46,
+  "fix_A": 56,
+  "fix_AB": 56,
+  "source": "store_stats.json, store_stats_ab.json"
+ },
+ {
+  "group": "retrieval (264 amount probes)",
+  "number": "all versions, date ignored: R@1",
+  "published": "0.239 (0.191–0.294)",
+  "today": "0.239 (0.191–0.294)",
+  "fix_A": "0.239 (0.191–0.294)",
+  "fix_AB": "0.242 (0.195–0.298)",
+  "source": "results_retrieval.json; eval_amount.json; eval_amount_ab.json"
+ },
+ {
+  "group": "retrieval (264 amount probes)",
+  "number": "all versions, date ignored: right article, wrong version @1",
+  "published": "0.432 (0.373–0.492)",
+  "today": "0.432 (0.373–0.492)",
+  "fix_A": "0.432 (0.373–0.492)",
+  "fix_AB": "0.428 (0.370–0.488)",
+  "source": "same"
+ },
+ {
+  "group": "retrieval (264 amount probes)",
+  "number": "today's text only: R@1",
+  "published": "0.117 (0.084–0.162)",
+  "today": "0.117 (0.084–0.162)",
+  "fix_A": "0.117 (0.084–0.162)",
+  "fix_AB": "0.117 (0.084–0.162)",
+  "source": "results_retrieval.json; eval_amount.json; eval_amount_ab.json"
+ },
+ {
+  "group": "retrieval (264 amount probes)",
+  "number": "today's text only: right article, wrong version @1",
+  "published": "0.390 (0.333–0.450)",
+  "today": "0.390 (0.333–0.450)",
+  "fix_A": "0.390 (0.333–0.450)",
+  "fix_AB": "0.390 (0.333–0.450)",
+  "source": "same"
+ },
+ {
+  "group": "retrieval (264 amount probes)",
+  "number": "versions in force on the date: R@1",
+  "published": "0.693 (0.635–0.746)",
+  "today": "0.697 (0.639–0.749)",
+  "fix_A": "0.697 (0.639–0.749)",
+  "fix_AB": "0.693 (0.635–0.746)",
+  "source": "results_retrieval.json; eval_amount.json; eval_amount_ab.json"
+ },
+ {
+  "group": "retrieval (264 amount probes)",
+  "number": "versions in force on the date: right article, wrong version @1",
+  "published": "0.000 (0.000–0.014)",
+  "today": "0.000 (0.000–0.014)",
+  "fix_A": "0.000 (0.000–0.014)",
+  "fix_AB": "0.000 (0.000–0.014)",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "bm25 (static): R@1",
+  "published": "0.474",
+  "today": "0.474",
+  "fix_A": "0.471",
+  "fix_AB": "0.471",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "bm25 (static): wrong version @1",
+  "published": "0.198",
+  "today": "0.198",
+  "fix_A": "0.200",
+  "fix_AB": "0.200",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → bm25: R@1",
+  "published": "0.746",
+  "today": "0.746",
+  "fix_A": "0.744",
+  "fix_AB": "0.742",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → bm25: wrong version @1",
+  "published": "0.000",
+  "today": "0.000",
+  "fix_A": "0.000",
+  "fix_AB": "0.000",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "zero-shot (static): R@1",
+  "published": "0.537",
+  "today": "0.537",
+  "fix_A": "0.538",
+  "fix_AB": "0.532",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "zero-shot (static): wrong version @1",
+  "published": "0.155",
+  "today": "0.155",
+  "fix_A": "0.154",
+  "fix_AB": "0.160",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → zero-shot: R@1",
+  "published": "0.751",
+  "today": "0.751",
+  "fix_A": "0.751",
+  "fix_AB": "0.748",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → zero-shot: wrong version @1",
+  "published": "0.000",
+  "today": "0.000",
+  "fix_A": "0.000",
+  "fix_AB": "0.000",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "fine-tuned/bm25 (static): R@1",
+  "published": "0.671",
+  "today": "0.671",
+  "fix_A": "0.672",
+  "fix_AB": "0.665",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "fine-tuned/bm25 (static): wrong version @1",
+  "published": "0.067",
+  "today": "0.067",
+  "fix_A": "0.065",
+  "fix_AB": "0.071",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → fine-tuned/bm25: R@1",
+  "published": "0.747",
+  "today": "0.747",
+  "fix_A": "0.745",
+  "fix_AB": "0.742",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → fine-tuned/bm25: wrong version @1",
+  "published": "0.000",
+  "today": "0.000",
+  "fix_A": "0.000",
+  "fix_AB": "0.000",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "fine-tuned/temporal (static): R@1",
+  "published": "0.675",
+  "today": "0.675",
+  "fix_A": "0.677",
+  "fix_AB": "0.673",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "fine-tuned/temporal (static): wrong version @1",
+  "published": "0.060",
+  "today": "0.060",
+  "fix_A": "0.059",
+  "fix_AB": "0.063",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → fine-tuned/temporal: R@1",
+  "published": "0.748",
+  "today": "0.748",
+  "fix_A": "0.748",
+  "fix_AB": "0.746",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → fine-tuned/temporal: wrong version @1",
+  "published": "0.000",
+  "today": "0.000",
+  "fix_A": "0.000",
+  "fix_AB": "0.000",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "fine-tuned/mixed (static): R@1",
+  "published": "0.673",
+  "today": "0.673",
+  "fix_A": "0.674",
+  "fix_AB": "0.669",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "fine-tuned/mixed (static): wrong version @1",
+  "published": "0.072",
+  "today": "0.072",
+  "fix_A": "0.070",
+  "fix_AB": "0.075",
+  "source": "same"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → fine-tuned/mixed: R@1",
+  "published": "0.751",
+  "today": "0.751",
+  "fix_A": "0.750",
+  "fix_AB": "0.747",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker (1,207 probes)",
+  "number": "date filter → fine-tuned/mixed: wrong version @1",
+  "published": "0.000",
+  "today": "0.000",
+  "fix_A": "0.000",
+  "fix_AB": "0.000",
+  "source": "same"
+ },
+ {
+  "group": "reranker McNemar",
+  "number": "fine-tuned/temporal (static) vs fine-tuned/bm25 (static)",
+  "published": "54 vs 49, p=0.6937",
+  "today": "54 vs 49, p=0.6937",
+  "fix_A": "53 vs 47, p=0.6173",
+  "fix_AB": "55 vs 46, p=0.4262",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker McNemar",
+  "number": "fine-tuned/temporal (static) vs fine-tuned/mixed (static)",
+  "published": "44 vs 41, p=0.8284",
+  "today": "44 vs 41, p=0.8284",
+  "fix_A": "43 vs 40, p=0.8264",
+  "fix_AB": "44 vs 40, p=0.7436",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker McNemar",
+  "number": "fine-tuned/bm25 (static) vs zero-shot (static)",
+  "published": "212 vs 50, p=0.0",
+  "today": "212 vs 50, p=0.0",
+  "fix_A": "213 vs 51, p=0.0",
+  "fix_AB": "213 vs 52, p=0.0",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker McNemar",
+  "number": "date filter → fine-tuned/temporal vs date filter → bm25",
+  "published": "23 vs 20, p=0.7608",
+  "today": "23 vs 20, p=0.7608",
+  "fix_A": "24 vs 19, p=0.5424",
+  "fix_AB": "24 vs 19, p=0.5424",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "reranker McNemar",
+  "number": "date filter → bm25 vs fine-tuned/temporal (static)",
+  "published": "104 vs 19, p=0.0",
+  "today": "104 vs 19, p=0.0",
+  "fix_A": "101 vs 20, p=0.0",
+  "fix_AB": "103 vs 20, p=0.0",
+  "source": "results_rerank.json; rerank_filter*.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "year_ok",
+  "published": "1.000 (0.965–1.000)",
+  "today": "1.000 (0.965–1.000)",
+  "fix_A": "1.000 (0.965–1.000) (no gold change)",
+  "fix_AB": "1.000 (0.965–1.000)",
+  "source": "results_nl.json; nl_and_items*.json; nl_regrade_ab.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "r1",
+  "published": "0.581 (0.485–0.671)",
+  "today": "0.581 (0.485–0.671)",
+  "fix_A": "0.581 (0.485–0.671)",
+  "fix_AB": "0.581 (0.485–0.671)",
+  "source": "results_nl.json; nl_and_items*.json; nl_regrade_ab.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "r5",
+  "published": "0.800 (0.714–0.865)",
+  "today": "0.800 (0.714–0.865)",
+  "fix_A": "0.800 (0.714–0.865)",
+  "fix_AB": "0.800 (0.714–0.865)",
+  "source": "results_nl.json; nl_and_items*.json; nl_regrade_ab.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "amount_ok",
+  "published": "0.743 (0.652–0.817)",
+  "today": "0.743 (0.652–0.817)",
+  "fix_A": "0.743 (0.652–0.817) (no gold change)",
+  "fix_AB": "0.724 (0.632–0.800)",
+  "source": "results_nl.json; nl_and_items*.json; nl_regrade_ab.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "distractor",
+  "published": "0.038 (0.015–0.094)",
+  "today": "0.038 (0.015–0.094)",
+  "fix_A": "0.038 (0.015–0.094) (no gold change)",
+  "fix_AB": "0.057 (0.026–0.119)",
+  "source": "results_nl.json; nl_and_items*.json; nl_regrade_ab.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "insufficient",
+  "published": "0.181 (0.119–0.265)",
+  "today": "0.181 (0.119–0.265)",
+  "fix_A": "0.181 (0.119–0.265) (no gold change)",
+  "fix_AB": "0.181 (0.119–0.265)",
+  "source": "results_nl.json; nl_and_items*.json; nl_regrade_ab.json"
+ },
+ {
+  "group": "NL (105 questions)",
+  "number": "wrong answers flagged by code",
+  "published": "1 of 11",
+  "today": "1 of 11",
+  "fix_A": "1 of 11",
+  "fix_AB": "3 of 13",
+  "source": "nl_regrade_ab.json"
+ },
+ {
+  "group": "exposure",
+  "number": "amount probes with a new gold label",
+  "published": "—",
+  "today": 0,
+  "fix_A": 0,
+  "fix_AB": 6,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "exposure",
+  "number": "rerank probes with a new gold label",
+  "published": "—",
+  "today": 0,
+  "fix_A": 4,
+  "fix_AB": 13,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "exposure",
+  "number": "NL questions with a new gold label",
+  "published": "—",
+  "today": 0,
+  "fix_A": 0,
+  "fix_AB": 3,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "exposure",
+  "number": "NL questions whose gold version's interval changes",
+  "published": "—",
+  "today": 0,
+  "fix_A": 10,
+  "fix_AB": 13,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "exposure",
+  "number": "NL questions with a retrieved source whose interval changes",
+  "published": "—",
+  "today": 0,
+  "fix_A": 53,
+  "fix_AB": 60,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "exposure",
+  "number": "P0 items whose reference version's interval changes",
+  "published": "—",
+  "today": 0,
+  "fix_A": 33,
+  "fix_AB": 45,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "exposure",
+  "number": "P0 items whose version in force on the item date changes",
+  "published": "—",
+  "today": 0,
+  "fix_A": 0,
+  "fix_AB": 6,
+  "source": "eval_amount*.json, rerank_filter*.json, nl_and_items*.json"
+ },
+ {
+  "group": "benchmark if regenerated",
+  "number": "probes by type (version/span/amount/bitemporal)",
+  "published": "1225/2010/264/104",
+  "today": "1225/2010/264/104",
+  "fix_A": "1224/2010/264/100",
+  "fix_AB": "1223/2009/264/98",
+  "source": "summary.json; regen/summary.json; regen_ab/summary.json"
+ },
+ {
+  "group": "benchmark if regenerated",
+  "number": "temporal R@1 on regenerated amount probes",
+  "published": "0.693",
+  "today": "0.697",
+  "fix_A": "0.697",
+  "fix_AB": "0.697",
+  "source": "regen_eval.json, regen_ab_eval.json"
+ }
+]

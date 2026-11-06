@@ -1,0 +1,2391 @@
+{
+ "n": 1207,
+ "published": {
+  "bm25 (static)": 0.474,
+  "date filter → bm25": 0.746,
+  "zero-shot (static)": 0.537,
+  "date filter → zero-shot": 0.751,
+  "fine-tuned/bm25 (static)": 0.671,
+  "date filter → fine-tuned/bm25": 0.747,
+  "fine-tuned/temporal (static)": 0.675,
+  "date filter → fine-tuned/temporal": 0.748,
+  "fine-tuned/mixed (static)": 0.673,
+  "date filter → fine-tuned/mixed": 0.751
+ },
+ "reproduced_from_stored": {
+  "bm25 (static)": 0.474,
+  "date filter → bm25": 0.746
+ },
+ "stored_intervals_differing_from_current_store": 0,
+ "affected_probes": [
+  "tt-span-00043",
+  "tt-span-00044",
+  "tt-span-00045",
+  "tt-span-00046",
+  "tt-span-00047",
+  "tt-span-00049",
+  "tt-amount-00086",
+  "tt-amount-00087",
+  "tt-span-00089",
+  "tt-span-00098",
+  "tt-span-00100",
+  "tt-span-00140",
+  "tt-span-00141",
+  "tt-span-00144",
+  "tt-span-00153",
+  "tt-span-00159",
+  "tt-span-00163",
+  "tt-span-00164",
+  "tt-span-00165",
+  "tt-span-00166",
+  "tt-span-00167",
+  "tt-span-00185",
+  "tt-span-00195",
+  "tt-span-00196",
+  "tt-span-00205",
+  "tt-span-00210",
+  "tt-span-00211",
+  "tt-span-00223",
+  "tt-span-00225",
+  "tt-span-00226",
+  "tt-span-00232",
+  "tt-span-00251",
+  "tt-span-00256",
+  "tt-span-00258",
+  "tt-span-00259",
+  "tt-span-00281",
+  "tt-span-00282",
+  "tt-span-00283",
+  "tt-span-00306",
+  "tt-span-00307",
+  "tt-span-00308",
+  "tt-span-00310",
+  "tt-span-00316",
+  "tt-span-00317",
+  "tt-span-00319",
+  "tt-span-00320",
+  "tt-span-00321",
+  "tt-span-00322",
+  "tt-span-00323",
+  "tt-span-00324",
+  "tt-span-00330",
+  "tt-amount-00488",
+  "tt-amount-00489",
+  "tt-amount-00490",
+  "tt-amount-00491",
+  "tt-span-00661",
+  "tt-span-00712",
+  "tt-span-00713",
+  "tt-span-01389",
+  "tt-span-01390",
+  "tt-span-01391",
+  "tt-span-01393",
+  "tt-span-01400",
+  "tt-span-01401",
+  "tt-span-01408",
+  "tt-span-01409",
+  "tt-span-01410",
+  "tt-span-01420",
+  "tt-span-01421",
+  "tt-span-01423",
+  "tt-span-01437",
+  "tt-span-01439",
+  "tt-span-01450",
+  "tt-span-01452",
+  "tt-span-01464",
+  "tt-span-01465",
+  "tt-span-01466",
+  "tt-span-01479",
+  "tt-span-01481",
+  "tt-span-01488",
+  "tt-span-01489",
+  "tt-span-01490",
+  "tt-span-01493",
+  "tt-span-01545",
+  "tt-span-01546",
+  "tt-span-01547",
+  "tt-span-01571",
+  "tt-span-01573",
+  "tt-span-01575",
+  "tt-span-01583",
+  "tt-span-01594",
+  "tt-span-01775",
+  "tt-span-01777",
+  "tt-span-01796",
+  "tt-span-01896",
+  "tt-span-02012",
+  "tt-span-02084",
+  "tt-span-02096",
+  "tt-span-02098",
+  "tt-amount-02226",
+  "tt-amount-02227",
+  "tt-amount-02234",
+  "tt-amount-02235",
+  "tt-span-02243",
+  "tt-span-02245",
+  "tt-span-02253",
+  "tt-amount-03359",
+  "tt-amount-03360",
+  "tt-amount-03361",
+  "tt-amount-03362",
+  "tt-span-03365",
+  "tt-span-03366",
+  "tt-span-03367",
+  "tt-span-03368",
+  "tt-amount-03371",
+  "tt-amount-03372",
+  "tt-span-03373",
+  "tt-span-03374",
+  "tt-span-03375",
+  "tt-span-03378",
+  "tt-span-03379",
+  "tt-span-03380",
+  "tt-amount-03403",
+  "tt-amount-03404",
+  "tt-amount-03405",
+  "tt-amount-03406",
+  "tt-span-03407",
+  "tt-span-03408",
+  "tt-span-03409",
+  "tt-amount-03428",
+  "tt-amount-03429",
+  "tt-span-03432",
+  "tt-span-03434",
+  "tt-span-03437",
+  "tt-span-03476",
+  "tt-span-03477",
+  "tt-span-03480",
+  "tt-span-03481"
+ ],
+ "affected_by_type": {
+  "amount": 22,
+  "span": 116
+ },
+ "gold_changed": [
+  {
+   "id": "tt-span-00323",
+   "old": 708,
+   "new": 723
+  },
+  {
+   "id": "tt-span-03378",
+   "old": 3597,
+   "new": 3565
+  },
+  {
+   "id": "tt-span-03379",
+   "old": 3597,
+   "new": 3565
+  },
+  {
+   "id": "tt-span-03380",
+   "old": 3597,
+   "new": 3565
+  }
+ ],
+ "fixed": {
+  "bm25 (static)": [
+   0.471,
+   [
+    0.443,
+    0.5
+   ],
+   0.2
+  ],
+  "date filter → bm25": [
+   0.744,
+   [
+    0.719,
+    0.768
+   ],
+   0.0
+  ]
+ },
+ "current": {
+  "bm25 (static)": [
+   0.474,
+   [
+    0.446,
+    0.502
+   ],
+   0.198
+  ],
+  "date filter → bm25": [
+   0.746,
+   [
+    0.72,
+    0.769
+   ],
+   0.0
+  ]
+ },
+ "mcnemar": {
+  "date filter → bm25: fixed vs current": {
+   "only_A": 0,
+   "only_B": 2,
+   "p": 0.5
+  },
+  "bm25 (static): fixed vs current": {
+   "only_A": 0,
+   "only_B": 3,
+   "p": 0.25
+  }
+ },
+ "affected_detail": [
+  {
+   "id": "tt-span-00043",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第三十五條",
+   "as_of": "1992-02-15",
+   "gold_old": 1510,
+   "gold_new": 1510,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00044",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第三十五條",
+   "as_of": "1977-05-25",
+   "gold_old": 1482,
+   "gold_new": 1482,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00045",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第三十五條",
+   "as_of": "2012-08-21",
+   "gold_old": 1552,
+   "gold_new": 1552,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00046",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第三十五條",
+   "as_of": "2018-12-11",
+   "gold_old": 1552,
+   "gold_new": 1552,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00047",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第三十五條",
+   "as_of": "2019-04-10",
+   "gold_old": 1552,
+   "gold_new": 1552,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00049",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第三十五條",
+   "as_of": "2023-08-06",
+   "gold_old": 1600,
+   "gold_new": 1600,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-amount-00086",
+   "type": "amount",
+   "law": "稅捐稽徵法",
+   "article": "第二十三條",
+   "as_of": "2018-08-19",
+   "gold_old": 1547,
+   "gold_new": 1547,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-00087",
+   "type": "amount",
+   "law": "稅捐稽徵法",
+   "article": "第二十三條",
+   "as_of": "2015-07-26",
+   "gold_old": 1526,
+   "gold_new": 1526,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00089",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第二十三條",
+   "as_of": "2001-10-26",
+   "gold_old": 1498,
+   "gold_new": 1498,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00098",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第二十三條",
+   "as_of": "2019-08-17",
+   "gold_old": 1547,
+   "gold_new": 1547,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00100",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第二十三條",
+   "as_of": "2017-09-15",
+   "gold_old": 1547,
+   "gold_new": 1547,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00140",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第五十一條",
+   "as_of": "2012-03-04",
+   "gold_old": 1565,
+   "gold_new": 1565,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00141",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第五十一條",
+   "as_of": "2023-09-30",
+   "gold_old": 1616,
+   "gold_new": 1616,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00144",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第五十條之一",
+   "as_of": "2005-12-11",
+   "gold_old": 1561,
+   "gold_new": 1561,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00153",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第五十條之四",
+   "as_of": "1998-06-10",
+   "gold_old": 1563,
+   "gold_new": 1563,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00159",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第六條",
+   "as_of": "1995-11-29",
+   "gold_old": 1496,
+   "gold_new": 1496,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00163",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第六條",
+   "as_of": "2007-03-08",
+   "gold_old": 1513,
+   "gold_new": 1513,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00164",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第六條",
+   "as_of": "2018-02-22",
+   "gold_old": 1541,
+   "gold_new": 1541,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00165",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第六條",
+   "as_of": "2014-08-20",
+   "gold_old": 1541,
+   "gold_new": 1541,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00166",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第六條",
+   "as_of": "2013-01-20",
+   "gold_old": 1541,
+   "gold_new": 1541,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00167",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第六條",
+   "as_of": "2024-05-05",
+   "gold_old": 1571,
+   "gold_new": 1571,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00185",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第十一條之五",
+   "as_of": "2014-10-08",
+   "gold_old": 1530,
+   "gold_new": 1530,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00195",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第十九條",
+   "as_of": "2012-09-22",
+   "gold_old": 1543,
+   "gold_new": 1543,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00196",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第十九條",
+   "as_of": "2012-03-05",
+   "gold_old": 1543,
+   "gold_new": 1543,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00205",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第十二條之一",
+   "as_of": "2016-07-26",
+   "gold_old": 1542,
+   "gold_new": 1542,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00210",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十一條",
+   "as_of": "1998-02-21",
+   "gold_old": 1554,
+   "gold_new": 1554,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00211",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十一條",
+   "as_of": "2011-12-31",
+   "gold_old": 1554,
+   "gold_new": 1554,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00223",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十三條",
+   "as_of": "2012-02-01",
+   "gold_old": 1521,
+   "gold_new": 1521,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00225",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十三條",
+   "as_of": "2025-10-02",
+   "gold_old": 1608,
+   "gold_new": 1608,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00226",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十三條",
+   "as_of": "2021-02-22",
+   "gold_old": 1555,
+   "gold_new": 1555,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00232",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十二條",
+   "as_of": "2025-06-21",
+   "gold_old": 1607,
+   "gold_new": 1607,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00251",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十八條之一",
+   "as_of": "1992-06-16",
+   "gold_old": 1494,
+   "gold_new": 1494,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00256",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十八條之一",
+   "as_of": "2017-04-17",
+   "gold_old": 1558,
+   "gold_new": 1558,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00258",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十八條之一",
+   "as_of": "2018-10-13",
+   "gold_old": 1558,
+   "gold_new": 1558,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00259",
+   "type": "span",
+   "law": "稅捐稽徵法",
+   "article": "第四十八條之一",
+   "as_of": "2020-11-10",
+   "gold_old": 1558,
+   "gold_new": 1558,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00281",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十三條",
+   "as_of": "1991-12-07",
+   "gold_old": 623,
+   "gold_new": 623,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00282",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十三條",
+   "as_of": "2000-11-10",
+   "gold_old": 623,
+   "gold_new": 623,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00283",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十三條",
+   "as_of": "1990-11-01",
+   "gold_old": 623,
+   "gold_new": 623,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00306",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "1993-02-24",
+   "gold_old": 621,
+   "gold_new": 621,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00307",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2001-03-13",
+   "gold_old": 624,
+   "gold_new": 624,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00308",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "1993-11-02",
+   "gold_old": 621,
+   "gold_new": 621,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00310",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2003-04-01",
+   "gold_old": 636,
+   "gold_new": 636,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00316",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2004-07-04",
+   "gold_old": 638,
+   "gold_new": 638,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00317",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2008-05-28",
+   "gold_old": 663,
+   "gold_new": 663,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00319",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2009-05-04",
+   "gold_old": 703,
+   "gold_new": 703,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00320",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2008-06-22",
+   "gold_old": 663,
+   "gold_new": 663,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00321",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2008-04-03",
+   "gold_old": 663,
+   "gold_new": 663,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00322",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2009-08-28",
+   "gold_old": 705,
+   "gold_new": 705,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00323",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2011-03-13",
+   "gold_old": 708,
+   "gold_new": 723,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00324",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2012-05-22",
+   "gold_old": 723,
+   "gold_new": 723,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00330",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第一百二十六條",
+   "as_of": "2017-10-26",
+   "gold_old": 785,
+   "gold_new": 785,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-00488",
+   "type": "amount",
+   "law": "所得稅法",
+   "article": "第一百零八條",
+   "as_of": "1996-08-06",
+   "gold_old": 632,
+   "gold_new": 632,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-00489",
+   "type": "amount",
+   "law": "所得稅法",
+   "article": "第一百零八條",
+   "as_of": "1982-11-30",
+   "gold_old": 591,
+   "gold_new": 591,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-00490",
+   "type": "amount",
+   "law": "所得稅法",
+   "article": "第一百零八條",
+   "as_of": "1996-01-10",
+   "gold_old": 632,
+   "gold_new": 632,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-00491",
+   "type": "amount",
+   "law": "所得稅法",
+   "article": "第一百零八條",
+   "as_of": "1979-09-09",
+   "gold_old": 591,
+   "gold_new": 591,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00661",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第三條之四",
+   "as_of": "2003-05-15",
+   "gold_old": 709,
+   "gold_new": 709,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-00712",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第五十六條",
+   "as_of": "1976-01-11",
+   "gold_old": 622,
+   "gold_new": 622,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-00713",
+   "type": "span",
+   "law": "所得稅法",
+   "article": "第五十六條",
+   "as_of": "1968-03-26",
+   "gold_old": 622,
+   "gold_new": 622,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01389",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第三條",
+   "as_of": "1994-03-05",
+   "gold_old": 2714,
+   "gold_new": 2714,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-01390",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第三條",
+   "as_of": "1974-06-16",
+   "gold_old": 2689,
+   "gold_new": 2689,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01391",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第三條",
+   "as_of": "1998-12-08",
+   "gold_old": 2714,
+   "gold_new": 2714,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01393",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第九條",
+   "as_of": "1994-11-03",
+   "gold_old": 2770,
+   "gold_new": 2770,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01400",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二十三條",
+   "as_of": "2003-07-30",
+   "gold_old": 2739,
+   "gold_new": 2739,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01401",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二十三條",
+   "as_of": "1974-10-12",
+   "gold_old": 2709,
+   "gold_new": 2709,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-01408",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二十二條",
+   "as_of": "1990-08-07",
+   "gold_old": 2783,
+   "gold_new": 2783,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01409",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二十二條",
+   "as_of": "2011-06-24",
+   "gold_old": 2783,
+   "gold_new": 2783,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01410",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二十二條",
+   "as_of": "1987-03-12",
+   "gold_old": 2708,
+   "gold_new": 2708,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-01420",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二條",
+   "as_of": "1988-10-28",
+   "gold_old": 2688,
+   "gold_new": 2688,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01421",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二條",
+   "as_of": "1982-02-11",
+   "gold_old": 2688,
+   "gold_new": 2688,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01423",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第二條",
+   "as_of": "2008-06-05",
+   "gold_old": 2735,
+   "gold_new": 2735,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01437",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第八條",
+   "as_of": "2001-06-12",
+   "gold_old": 2729,
+   "gold_new": 2729,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01439",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第八條",
+   "as_of": "1983-01-19",
+   "gold_old": 2694,
+   "gold_new": 2694,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01450",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十一條",
+   "as_of": "1983-06-05",
+   "gold_old": 2697,
+   "gold_new": 2697,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01452",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十一條",
+   "as_of": "2018-11-07",
+   "gold_old": 2758,
+   "gold_new": 2758,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-01464",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十七條",
+   "as_of": "1996-10-27",
+   "gold_old": 2719,
+   "gold_new": 2719,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01465",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十七條",
+   "as_of": "1976-02-09",
+   "gold_old": 2703,
+   "gold_new": 2703,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01466",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十七條",
+   "as_of": "1985-07-15",
+   "gold_old": 2703,
+   "gold_new": 2703,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01479",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十九條",
+   "as_of": "1978-02-22",
+   "gold_old": 2705,
+   "gold_new": 2705,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01481",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十九條",
+   "as_of": "1984-07-27",
+   "gold_old": 2705,
+   "gold_new": 2705,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01488",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十二條",
+   "as_of": "1979-03-04",
+   "gold_old": 2698,
+   "gold_new": 2698,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01489",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十二條",
+   "as_of": "2001-11-16",
+   "gold_old": 2724,
+   "gold_new": 2724,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-01490",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十二條",
+   "as_of": "1999-07-29",
+   "gold_old": 2724,
+   "gold_new": 2724,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-01493",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十二條",
+   "as_of": "1992-11-18",
+   "gold_old": 2724,
+   "gold_new": 2724,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01545",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十六條",
+   "as_of": "2000-12-03",
+   "gold_old": 2777,
+   "gold_new": 2777,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01546",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十六條",
+   "as_of": "1973-04-03",
+   "gold_old": 2702,
+   "gold_new": 2702,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01547",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十六條",
+   "as_of": "1975-05-12",
+   "gold_old": 2702,
+   "gold_new": 2702,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01571",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十條",
+   "as_of": "1993-12-16",
+   "gold_old": 2713,
+   "gold_new": 2713,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01573",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十條",
+   "as_of": "1965-10-19",
+   "gold_old": 2696,
+   "gold_new": 2696,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01575",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第十條",
+   "as_of": "1994-05-06",
+   "gold_old": 2713,
+   "gold_new": 2713,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01583",
+   "type": "span",
+   "law": "貨物稅條例",
+   "article": "第四條",
+   "as_of": "1996-09-05",
+   "gold_old": 2726,
+   "gold_new": 2726,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01594",
+   "type": "span",
+   "law": "證券交易稅條例",
+   "article": "第三條",
+   "as_of": "2025-06-11",
+   "gold_old": 2908,
+   "gold_new": 2908,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01775",
+   "type": "span",
+   "law": "加值型及非加值型營業稅法",
+   "article": "第三十六條",
+   "as_of": "2014-05-08",
+   "gold_old": 1371,
+   "gold_new": 1371,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01777",
+   "type": "span",
+   "law": "加值型及非加值型營業稅法",
+   "article": "第三十六條",
+   "as_of": "2011-10-22",
+   "gold_old": 1371,
+   "gold_new": 1371,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01796",
+   "type": "span",
+   "law": "加值型及非加值型營業稅法",
+   "article": "第二十八條",
+   "as_of": "1998-06-01",
+   "gold_old": 1364,
+   "gold_new": 1364,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-01896",
+   "type": "span",
+   "law": "加值型及非加值型營業稅法",
+   "article": "第十三條",
+   "as_of": "2024-08-02",
+   "gold_old": 1408,
+   "gold_new": 1408,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-02012",
+   "type": "span",
+   "law": "使用牌照稅法",
+   "article": "第二十八條",
+   "as_of": "2010-09-13",
+   "gold_old": 2491,
+   "gold_new": 2491,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-02084",
+   "type": "span",
+   "law": "房屋稅條例",
+   "article": "第九條",
+   "as_of": "2023-11-06",
+   "gold_old": 2064,
+   "gold_new": 2064,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-02096",
+   "type": "span",
+   "law": "房屋稅條例",
+   "article": "第二十五條",
+   "as_of": "2025-08-15",
+   "gold_old": 2095,
+   "gold_new": 2095,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-02098",
+   "type": "span",
+   "law": "房屋稅條例",
+   "article": "第二十五條",
+   "as_of": "2024-11-04",
+   "gold_old": 2095,
+   "gold_new": 2095,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-amount-02226",
+   "type": "amount",
+   "law": "所得基本稅額條例",
+   "article": "第三條",
+   "as_of": "2024-04-21",
+   "gold_old": 1023,
+   "gold_new": 1023,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-02227",
+   "type": "amount",
+   "law": "所得基本稅額條例",
+   "article": "第三條",
+   "as_of": "2020-12-27",
+   "gold_old": 1015,
+   "gold_new": 1015,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-02234",
+   "type": "amount",
+   "law": "所得基本稅額條例",
+   "article": "第八條",
+   "as_of": "2014-01-04",
+   "gold_old": 1028,
+   "gold_new": 1028,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-02235",
+   "type": "amount",
+   "law": "所得基本稅額條例",
+   "article": "第八條",
+   "as_of": "2010-11-08",
+   "gold_old": 1011,
+   "gold_new": 1011,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-02243",
+   "type": "span",
+   "law": "所得基本稅額條例",
+   "article": "第十二條",
+   "as_of": "2010-07-01",
+   "gold_old": 1013,
+   "gold_new": 1013,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-02245",
+   "type": "span",
+   "law": "所得基本稅額條例",
+   "article": "第十二條",
+   "as_of": "2011-09-20",
+   "gold_old": 1013,
+   "gold_new": 1013,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-02253",
+   "type": "span",
+   "law": "所得基本稅額條例",
+   "article": "第十八條",
+   "as_of": "2012-08-13",
+   "gold_old": 1014,
+   "gold_new": 1014,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-amount-03359",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2025-05-10",
+   "gold_old": 3573,
+   "gold_new": 3573,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03360",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2020-01-27",
+   "gold_old": 3566,
+   "gold_new": 3566,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03361",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2025-08-14",
+   "gold_old": 3573,
+   "gold_new": 3573,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03362",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2021-09-18",
+   "gold_old": 3566,
+   "gold_new": 3566,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03365",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2023-07-16",
+   "gold_old": 3566,
+   "gold_new": 3566,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03366",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2024-02-17",
+   "gold_old": 3566,
+   "gold_new": 3566,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03367",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2026-01-15",
+   "gold_old": 3573,
+   "gold_new": 3573,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03368",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之一",
+   "as_of": "2026-09-20",
+   "gold_old": 3573,
+   "gold_new": 3573,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03371",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第二十三條之二",
+   "as_of": "2026-03-22",
+   "gold_old": 3574,
+   "gold_new": 3574,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03372",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第二十三條之二",
+   "as_of": "2019-12-06",
+   "gold_old": 3567,
+   "gold_new": 3567,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03373",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之二",
+   "as_of": "2025-11-03",
+   "gold_old": 3574,
+   "gold_new": 3574,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03374",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之二",
+   "as_of": "2026-08-08",
+   "gold_old": 3574,
+   "gold_new": 3574,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03375",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十三條之二",
+   "as_of": "2026-01-02",
+   "gold_old": 3574,
+   "gold_new": 3574,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03378",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十二條",
+   "as_of": "2025-05-31",
+   "gold_old": 3597,
+   "gold_new": 3565,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-03379",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十二條",
+   "as_of": "2026-03-03",
+   "gold_old": 3597,
+   "gold_new": 3565,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-03380",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第二十二條",
+   "as_of": "2025-09-15",
+   "gold_old": 3597,
+   "gold_new": 3565,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03403",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2025-08-22",
+   "gold_old": 3656,
+   "gold_new": 3656,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03404",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2020-09-27",
+   "gold_old": 3569,
+   "gold_new": 3569,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03405",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2026-08-12",
+   "gold_old": 3656,
+   "gold_new": 3656,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03406",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2020-03-23",
+   "gold_old": 3569,
+   "gold_new": 3569,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-03407",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2022-12-23",
+   "gold_old": 3569,
+   "gold_new": 3569,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03408",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2021-10-30",
+   "gold_old": 3569,
+   "gold_new": 3569,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03409",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第六十七條之二",
+   "as_of": "2026-05-15",
+   "gold_old": 3656,
+   "gold_new": 3656,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-amount-03428",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第十九條之一",
+   "as_of": "2020-05-27",
+   "gold_old": 3572,
+   "gold_new": 3572,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-amount-03429",
+   "type": "amount",
+   "law": "產業創新條例",
+   "article": "第十九條之一",
+   "as_of": "2025-03-04",
+   "gold_old": 3572,
+   "gold_new": 3572,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-03432",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十九條之一",
+   "as_of": "2017-12-19",
+   "gold_old": 3552,
+   "gold_new": 3552,
+   "filter_bm25_hit_old": false,
+   "filter_bm25_hit_new": false,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-03434",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十九條之一",
+   "as_of": "2018-08-05",
+   "gold_old": 3557,
+   "gold_new": 3557,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03437",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十九條之一",
+   "as_of": "2022-12-07",
+   "gold_old": 3572,
+   "gold_new": 3572,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03476",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十條之一",
+   "as_of": "2025-02-13",
+   "gold_old": 3564,
+   "gold_new": 3564,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03477",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十條之一",
+   "as_of": "2024-11-05",
+   "gold_old": 3564,
+   "gold_new": 3564,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": true,
+   "static_bm25_hit_new": true
+  },
+  {
+   "id": "tt-span-03480",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十條之一",
+   "as_of": "2023-12-23",
+   "gold_old": 3564,
+   "gold_new": 3564,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  },
+  {
+   "id": "tt-span-03481",
+   "type": "span",
+   "law": "產業創新條例",
+   "article": "第十條之一",
+   "as_of": "2024-04-07",
+   "gold_old": 3564,
+   "gold_new": 3564,
+   "filter_bm25_hit_old": true,
+   "filter_bm25_hit_new": true,
+   "static_bm25_hit_old": false,
+   "static_bm25_hit_new": false
+  }
+ ],
+ "models": {
+  "systems": [
+   "zero-shot",
+   "fine-tuned/bm25",
+   "fine-tuned/temporal",
+   "fine-tuned/mixed"
+  ],
+  "zero_shot_cache": "$HF_HOME\\hub\\models--BAAI--bge-reranker-base",
+  "gpu_peak_mb/zero-shot": 1436,
+  "gpu_peak_mb/fine-tuned/bm25": 1436,
+  "gpu_peak_mb/fine-tuned/temporal": 1436,
+  "gpu_peak_mb/fine-tuned/mixed": 1436,
+  "current": {
+   "bm25 (static)": [
+    0.474,
+    [
+     0.446,
+     0.502
+    ],
+    0.198
+   ],
+   "date filter → bm25": [
+    0.746,
+    [
+     0.72,
+     0.769
+    ],
+    0.0
+   ],
+   "zero-shot (static)": [
+    0.537,
+    [
+     0.509,
+     0.565
+    ],
+    0.155
+   ],
+   "date filter → zero-shot": [
+    0.751,
+    [
+     0.726,
+     0.775
+    ],
+    0.0
+   ],
+   "fine-tuned/bm25 (static)": [
+    0.671,
+    [
+     0.644,
+     0.697
+    ],
+    0.067
+   ],
+   "date filter → fine-tuned/bm25": [
+    0.747,
+    [
+     0.722,
+     0.771
+    ],
+    0.0
+   ],
+   "fine-tuned/temporal (static)": [
+    0.675,
+    [
+     0.648,
+     0.701
+    ],
+    0.06
+   ],
+   "date filter → fine-tuned/temporal": [
+    0.748,
+    [
+     0.723,
+     0.772
+    ],
+    0.0
+   ],
+   "fine-tuned/mixed (static)": [
+    0.673,
+    [
+     0.646,
+     0.699
+    ],
+    0.072
+   ],
+   "date filter → fine-tuned/mixed": [
+    0.751,
+    [
+     0.725,
+     0.774
+    ],
+    0.0
+   ]
+  },
+  "mcnemar_current": {
+   "fine-tuned/temporal (static) vs fine-tuned/bm25 (static)": {
+    "only_A": 54,
+    "only_B": 49,
+    "p": 0.6937
+   },
+   "fine-tuned/temporal (static) vs fine-tuned/mixed (static)": {
+    "only_A": 44,
+    "only_B": 41,
+    "p": 0.8284
+   },
+   "fine-tuned/bm25 (static) vs zero-shot (static)": {
+    "only_A": 212,
+    "only_B": 50,
+    "p": 0.0
+   },
+   "date filter → fine-tuned/temporal vs date filter → bm25": {
+    "only_A": 23,
+    "only_B": 20,
+    "p": 0.7608
+   },
+   "date filter → bm25 vs fine-tuned/temporal (static)": {
+    "only_A": 104,
+    "only_B": 19,
+    "p": 0.0
+   }
+  },
+  "fixed": {
+   "bm25 (static)": [
+    0.471,
+    [
+     0.443,
+     0.5
+    ],
+    0.2
+   ],
+   "date filter → bm25": [
+    0.744,
+    [
+     0.719,
+     0.768
+    ],
+    0.0
+   ],
+   "zero-shot (static)": [
+    0.538,
+    [
+     0.509,
+     0.566
+    ],
+    0.154
+   ],
+   "date filter → zero-shot": [
+    0.751,
+    [
+     0.725,
+     0.774
+    ],
+    0.0
+   ],
+   "fine-tuned/bm25 (static)": [
+    0.672,
+    [
+     0.645,
+     0.698
+    ],
+    0.065
+   ],
+   "date filter → fine-tuned/bm25": [
+    0.745,
+    [
+     0.719,
+     0.769
+    ],
+    0.0
+   ],
+   "fine-tuned/temporal (static)": [
+    0.677,
+    [
+     0.65,
+     0.703
+    ],
+    0.059
+   ],
+   "date filter → fine-tuned/temporal": [
+    0.748,
+    [
+     0.723,
+     0.772
+    ],
+    0.0
+   ],
+   "fine-tuned/mixed (static)": [
+    0.674,
+    [
+     0.647,
+     0.7
+    ],
+    0.07
+   ],
+   "date filter → fine-tuned/mixed": [
+    0.75,
+    [
+     0.725,
+     0.773
+    ],
+    0.0
+   ]
+  },
+  "mcnemar_fixed": {
+   "fine-tuned/temporal (static) vs fine-tuned/bm25 (static)": {
+    "only_A": 53,
+    "only_B": 47,
+    "p": 0.6173
+   },
+   "fine-tuned/temporal (static) vs fine-tuned/mixed (static)": {
+    "only_A": 43,
+    "only_B": 40,
+    "p": 0.8264
+   },
+   "fine-tuned/bm25 (static) vs zero-shot (static)": {
+    "only_A": 213,
+    "only_B": 51,
+    "p": 0.0
+   },
+   "date filter → fine-tuned/temporal vs date filter → bm25": {
+    "only_A": 24,
+    "only_B": 19,
+    "p": 0.5424
+   },
+   "date filter → bm25 vs fine-tuned/temporal (static)": {
+    "only_A": 101,
+    "only_B": 20,
+    "p": 0.0
+   }
+  },
+  "fixed_vs_current_same_system": {
+   "bm25 (static)": {
+    "only_A": 0,
+    "only_B": 3,
+    "p": 0.25
+   },
+   "date filter → bm25": {
+    "only_A": 0,
+    "only_B": 2,
+    "p": 0.5
+   },
+   "zero-shot (static)": {
+    "only_A": 8,
+    "only_B": 7,
+    "p": 1.0
+   },
+   "date filter → zero-shot": {
+    "only_A": 1,
+    "only_B": 2,
+    "p": 1.0
+   },
+   "fine-tuned/bm25 (static)": {
+    "only_A": 6,
+    "only_B": 5,
+    "p": 1.0
+   },
+   "date filter → fine-tuned/bm25": {
+    "only_A": 0,
+    "only_B": 3,
+    "p": 0.25
+   },
+   "fine-tuned/temporal (static)": {
+    "only_A": 4,
+    "only_B": 2,
+    "p": 0.6875
+   },
+   "date filter → fine-tuned/temporal": {
+    "only_A": 1,
+    "only_B": 1,
+    "p": 1.0
+   },
+   "fine-tuned/mixed (static)": {
+    "only_A": 5,
+    "only_B": 3,
+    "p": 0.7266
+   },
+   "date filter → fine-tuned/mixed": {
+    "only_A": 1,
+    "only_B": 2,
+    "p": 1.0
+   }
+  },
+  "changed_probes": {
+   "bm25 (static)": [
+    "tt-span-00323",
+    "tt-span-03378",
+    "tt-span-03380"
+   ],
+   "date filter → bm25": [
+    "tt-span-03378",
+    "tt-span-03380"
+   ],
+   "zero-shot (static)": [
+    "tt-span-00043",
+    "tt-span-00045",
+    "tt-span-00210",
+    "tt-span-00223",
+    "tt-span-00232",
+    "tt-span-00258",
+    "tt-span-00306",
+    "tt-span-00323",
+    "tt-span-00324",
+    "tt-span-01400",
+    "tt-span-01546",
+    "tt-span-03375",
+    "tt-span-03380",
+    "tt-amount-03428",
+    "tt-span-03432"
+   ],
+   "date filter → zero-shot": [
+    "tt-span-00210",
+    "tt-span-03380",
+    "tt-span-03432"
+   ],
+   "fine-tuned/bm25 (static)": [
+    "tt-span-00046",
+    "tt-span-00047",
+    "tt-span-00164",
+    "tt-span-00210",
+    "tt-span-00323",
+    "tt-span-00324",
+    "tt-amount-02235",
+    "tt-span-03380",
+    "tt-amount-03406",
+    "tt-amount-03429",
+    "tt-span-03434"
+   ],
+   "date filter → fine-tuned/bm25": [
+    "tt-span-00210",
+    "tt-amount-02235",
+    "tt-span-03380"
+   ],
+   "fine-tuned/temporal (static)": [
+    "tt-span-00323",
+    "tt-span-01546",
+    "tt-span-03380",
+    "tt-amount-03406",
+    "tt-amount-03428",
+    "tt-span-03437"
+   ],
+   "date filter → fine-tuned/temporal": [
+    "tt-span-03380",
+    "tt-amount-03406"
+   ],
+   "fine-tuned/mixed (static)": [
+    "tt-span-00046",
+    "tt-span-00164",
+    "tt-span-00210",
+    "tt-span-00323",
+    "tt-amount-02234",
+    "tt-span-03380",
+    "tt-amount-03428",
+    "tt-amount-03429"
+   ],
+   "date filter → fine-tuned/mixed": [
+    "tt-span-00210",
+    "tt-amount-02234",
+    "tt-span-03380"
+   ]
+  }
+ }
+}

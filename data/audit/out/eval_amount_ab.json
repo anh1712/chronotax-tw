@@ -1,0 +1,289 @@
+{
+ "bench": "data\\bench\\tw_taxtime_v0.jsonl",
+ "n": 264,
+ "gold_changed": [
+  {
+   "id": "tt-amount-00725",
+   "law_id": "01513",
+   "article": "第五條",
+   "as_of": "2009-11-23",
+   "gold_orig": 704,
+   "gold_fixed": 679
+  },
+  {
+   "id": "tt-amount-00727",
+   "law_id": "01513",
+   "article": "第五條",
+   "as_of": "2009-08-18",
+   "gold_orig": 704,
+   "gold_fixed": 679
+  },
+  {
+   "id": "tt-amount-00729",
+   "law_id": "01513",
+   "article": "第五條",
+   "as_of": "2009-12-18",
+   "gold_orig": 704,
+   "gold_fixed": 679
+  },
+  {
+   "id": "tt-amount-00731",
+   "law_id": "01513",
+   "article": "第五條",
+   "as_of": "2009-11-24",
+   "gold_orig": 704,
+   "gold_fixed": 679
+  },
+  {
+   "id": "tt-amount-00733",
+   "law_id": "01513",
+   "article": "第五條",
+   "as_of": "2009-06-29",
+   "gold_orig": 704,
+   "gold_fixed": 679
+  },
+  {
+   "id": "tt-amount-00735",
+   "law_id": "01513",
+   "article": "第五條",
+   "as_of": "2009-10-05",
+   "gold_orig": 704,
+   "gold_fixed": 679
+  }
+ ],
+ "runs": {
+  "current/gold_orig": {
+   "static": {
+    "n": 264,
+    "R@1": 0.239,
+    "R@1_ci": [
+     0.191,
+     0.294
+    ],
+    "R@5": 0.644,
+    "misgrounding@1": 0.432,
+    "misgrounding@1_ci": [
+     0.373,
+     0.492
+    ],
+    "hits@1": 63,
+    "mis@1": 114
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "misgrounding@1": 0.39,
+    "misgrounding@1_ci": [
+     0.333,
+     0.45
+    ],
+    "hits@1": 31,
+    "mis@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.697,
+    "R@1_ci": [
+     0.639,
+     0.749
+    ],
+    "R@5": 0.788,
+    "misgrounding@1": 0.0,
+    "misgrounding@1_ci": [
+     0.0,
+     0.014
+    ],
+    "hits@1": 184,
+    "mis@1": 0
+   }
+  },
+  "fixed/gold_fixed": {
+   "static": {
+    "n": 264,
+    "R@1": 0.242,
+    "R@1_ci": [
+     0.195,
+     0.298
+    ],
+    "R@5": 0.64,
+    "misgrounding@1": 0.428,
+    "misgrounding@1_ci": [
+     0.37,
+     0.488
+    ],
+    "hits@1": 64,
+    "mis@1": 113
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "misgrounding@1": 0.39,
+    "misgrounding@1_ci": [
+     0.333,
+     0.45
+    ],
+    "hits@1": 31,
+    "mis@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.693,
+    "R@1_ci": [
+     0.635,
+     0.746
+    ],
+    "R@5": 0.784,
+    "misgrounding@1": 0.0,
+    "misgrounding@1_ci": [
+     0.0,
+     0.014
+    ],
+    "hits@1": 183,
+    "mis@1": 0
+   }
+  },
+  "current/gold_fixed": {
+   "static": {
+    "n": 264,
+    "R@1": 0.242,
+    "R@1_ci": [
+     0.195,
+     0.298
+    ],
+    "R@5": 0.64,
+    "misgrounding@1": 0.428,
+    "misgrounding@1_ci": [
+     0.37,
+     0.488
+    ],
+    "hits@1": 64,
+    "mis@1": 113
+   },
+   "latest": {
+    "n": 264,
+    "R@1": 0.117,
+    "R@1_ci": [
+     0.084,
+     0.162
+    ],
+    "R@5": 0.121,
+    "misgrounding@1": 0.39,
+    "misgrounding@1_ci": [
+     0.333,
+     0.45
+    ],
+    "hits@1": 31,
+    "mis@1": 103
+   },
+   "temporal": {
+    "n": 264,
+    "R@1": 0.682,
+    "R@1_ci": [
+     0.623,
+     0.735
+    ],
+    "R@5": 0.773,
+    "misgrounding@1": 0.015,
+    "misgrounding@1_ci": [
+     0.006,
+     0.038
+    ],
+    "hits@1": 180,
+    "mis@1": 4
+   }
+  }
+ },
+ "mcnemar_R@1": {
+  "static: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 1,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "static: current/gold_fixed vs current/gold_orig": {
+   "only_A": 1,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 1,
+   "p": 1.0
+  },
+  "temporal: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 4,
+   "p": 0.125
+  }
+ },
+ "mcnemar_mis@1": {
+  "static: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 1,
+   "p": 1.0
+  },
+  "static: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 1,
+   "p": 1.0
+  },
+  "latest: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "latest: current/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: fixed/gold_fixed vs current/gold_orig": {
+   "only_A": 0,
+   "only_B": 0,
+   "p": 1.0
+  },
+  "temporal: current/gold_fixed vs current/gold_orig": {
+   "only_A": 4,
+   "only_B": 0,
+   "p": 0.125
+  }
+ },
+ "flipped": {
+  "static: fixed/gold_fixed vs current/gold_orig": [
+   "tt-amount-00733"
+  ],
+  "static: current/gold_fixed vs current/gold_orig": [
+   "tt-amount-00733"
+  ],
+  "latest: fixed/gold_fixed vs current/gold_orig": [],
+  "latest: current/gold_fixed vs current/gold_orig": [],
+  "temporal: fixed/gold_fixed vs current/gold_orig": [
+   "tt-amount-00727"
+  ],
+  "temporal: current/gold_fixed vs current/gold_orig": [
+   "tt-amount-00727",
+   "tt-amount-00731",
+   "tt-amount-00733",
+   "tt-amount-00735"
+  ]
+ }
+}

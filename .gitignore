@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+*.log
+data/raw/
+data/med/raw/
+data/models/
+.claude/
+CLAUDE.md

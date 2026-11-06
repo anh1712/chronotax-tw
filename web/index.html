@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ChronoTax 稅法時光機</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=Noto+Serif+TC:wght@600;700;900&family=Noto+Sans+TC:wght@400;500;700&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* Newspaper layout, cream paper, crimson accent,
+   status colours for validity. Light by default; ◐ toggles dark. */
+:root{color-scheme:light;
+ --bg:#f6f3ec;--panel:#fffdf8;--panel2:#eee9dc;--text:#17181c;--ink2:#34373d;--muted:#565d66;--border:#d8d2c4;--rule:#17181c;
+ --accent:#c0182b;--accent-dark:#9c1322;--accent-ink:#fff;--accent-soft:#f7e7e6;--link:#0a4f9e;--gold:#9a6b16;
+ --c-con:#17703e;--c-con-bg:#e0f1e6;--c-mot:#8a5a00;--c-mot-bg:#f8ecd0;--c-het:#a3182a;--c-het-bg:#f8e1e0;
+ --c-chua:#0a4f9e;--c-chua-bg:#e1ebf7;--c-tk:#3f5a74;--c-tk-bg:#e2eaf1;--ins:#d7efdf;--del:#f8e1e0;
+ --serif:'Playfair Display','Noto Serif TC',Georgia,serif;--sans:'Be Vietnam Pro','Noto Sans TC',system-ui,'Segoe UI',sans-serif;
+ --cjk:'Noto Serif TC','Songti TC',serif}
+:root[data-theme=dark]{color-scheme:dark;
+ --bg:#15161a;--panel:#1e2025;--panel2:#272a30;--text:#efebe2;--ink2:#d6d2c8;--muted:#a8afb8;--border:#3a3e46;--rule:#efebe2;
+ --accent:#ff6b78;--accent-dark:#ff8a94;--accent-ink:#1a0508;--accent-soft:#3a1f23;--link:#8fc0ff;--gold:#e0b45c;
+ --c-con:#5fd394;--c-con-bg:#17382a;--c-mot:#f0bd5a;--c-mot-bg:#3b2d12;--c-het:#ff8f8a;--c-het-bg:#411f1c;
+ --c-chua:#8fc0ff;--c-chua-bg:#172f49;--c-tk:#a9c0d6;--c-tk-bg:#24303b;--ins:#17382a;--del:#411f1c}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:500 16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}@media(max-width:720px){.wrap{padding:0 16px}}
+header.top{border-bottom:1px solid var(--border);background:var(--bg);position:sticky;top:0;z-index:5}
+.nav{display:flex;align-items:center;gap:28px;height:62px}
+.brand{font:900 1.5rem/1 var(--serif);color:var(--text);white-space:nowrap}.brand small{font:700 .8rem var(--sans);color:var(--accent);margin-left:6px;letter-spacing:.04em}
+.nav a.tab{color:var(--ink2);font-weight:600;padding:19px 0;border-bottom:3px solid transparent}
+.nav a.tab.on{color:var(--accent);border-bottom-color:var(--accent);text-decoration:none}
+.nav .sp{flex:1}.iconbtn{border:1px solid var(--border);background:var(--panel);border-radius:4px;width:40px;height:38px;cursor:pointer;color:var(--text);font-size:18px}
+@media(max-width:720px){.nav{gap:14px}.nav a.tab{font-size:.9rem}.brand small{display:none}}
+.dateline{font-weight:700;padding:14px 0 6px;border-bottom:3px double var(--rule);margin-bottom:22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.dateline span{color:var(--muted);font-weight:500}
+h1{font:900 2.6rem/1.1 var(--serif);letter-spacing:-.015em;margin:0 0 .4em}h2{font:800 1.4rem/1.2 var(--serif);margin:0}
+.cjk{font-family:var(--cjk)}
+.grid2{display:grid;grid-template-columns:1.5fr 1fr;gap:36px}@media(max-width:900px){.grid2{grid-template-columns:1fr}}
+.search{display:flex;gap:10px}.search input{flex:1;font:inherit;font-size:1.05rem;padding:14px 16px;border:1px solid var(--rule);border-radius:4px;background:var(--panel);color:var(--text)}
+.btn{font:700 1rem var(--sans);background:var(--accent);color:var(--accent-ink);border:0;border-radius:4px;padding:0 26px;cursor:pointer;min-height:48px}
+.btn:hover{background:var(--accent-dark)}.btn.ghost{background:var(--panel);color:var(--text);border:1px solid var(--border)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0}.chip{border:1px solid var(--border);background:var(--panel);border-radius:999px;padding:5px 14px;font-size:.93rem;cursor:pointer;color:var(--ink2)}
+.chip:hover{border-color:var(--accent);color:var(--accent)}
+.sec{border-top:3px solid var(--rule);margin-top:30px;padding-top:12px}.sec h2 a{color:var(--text)}.sec h2 .arr{color:var(--accent)}
+.item{display:flex;gap:16px;padding:14px 0;border-bottom:1px solid var(--border);cursor:pointer}
+.stamp{flex:0 0 auto;width:72px;text-align:center;border:1px solid var(--border);background:var(--panel);font:700 1.05rem var(--serif);padding:6px 0;border-radius:2px;height:fit-content}
+.stamp.red{color:var(--accent);border-color:var(--accent);background:var(--accent-soft)}
+.code{color:var(--accent);font-weight:700;letter-spacing:.02em;font-size:.95rem}.ttl{font:600 1.05rem/1.4 var(--cjk)}
+.kicker{font:700 .78rem var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
+.badge{display:inline-flex;align-items:center;gap:6px;font:600 .8rem var(--sans);padding:2px 10px;border-radius:999px;border:1px solid currentColor}
+.b-con{color:var(--c-con);background:var(--c-con-bg)}.b-mot{color:var(--c-mot);background:var(--c-mot-bg)}.b-het{color:var(--c-het);background:var(--c-het-bg)}
+.b-chua{color:var(--c-chua);background:var(--c-chua-bg)}.b-tk{color:var(--c-tk);background:var(--c-tk-bg)}
+.lawgrid{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--border);background:var(--panel)}
+.lawgrid a{padding:13px 16px;border-bottom:1px solid var(--border);color:var(--text);font:700 1rem var(--cjk)}
+.lawgrid a:nth-child(odd){border-right:1px solid var(--border)}.lawgrid a span{display:block;font:500 .82rem var(--sans);color:var(--muted)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid var(--border);background:var(--panel);margin-top:18px}
+.stats div{padding:12px;border-right:1px solid var(--border)}.stats div:last-child{border-right:0}.stats b{display:block;font:900 1.5rem var(--serif)}
+.stats span{font-size:.82rem;color:var(--muted)}@media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}}
+.crumb{font-size:.9rem;color:var(--muted);margin:18px 0 8px}
+.callout{overflow-wrap:anywhere;border:1px solid var(--border);border-left:5px solid var(--gold);background:var(--c-mot-bg);padding:14px 18px;margin:16px 0;border-radius:2px}
+.callout.red{border-left-color:var(--accent);background:var(--accent-soft)}.callout h3{font:800 1.15rem var(--serif);margin:0 0 4px}
+.card{background:var(--panel);border:1px solid var(--border);border-top:4px solid var(--accent);padding:18px 20px;margin:16px 0}
+.layout{display:grid;grid-template-columns:280px minmax(0,1fr);gap:28px}.layout>section{min-width:0}@media(max-width:900px){.layout{grid-template-columns:1fr}}
+.side{border-top:3px solid var(--rule);padding-top:10px}.side input{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--border);border-radius:4px;background:var(--panel);color:var(--text)}
+.alist{max-height:70vh;overflow:auto;margin-top:8px}.alist a{display:flex;justify-content:space-between;padding:7px 4px;border-bottom:1px solid var(--border);color:var(--text);font-family:var(--cjk)}
+.alist a.on{color:var(--accent);font-weight:700}.alist small{color:var(--muted);font-family:var(--sans)}
+.timeline{display:flex;gap:3px;overflow-x:auto;padding:4px 0 8px;margin:10px 0}
+.seg{flex:1 0 42px;min-width:42px;height:38px;border:1px solid var(--border);background:var(--panel);cursor:pointer;font:600 .78rem var(--sans);color:var(--muted);display:flex;align-items:center;justify-content:center;border-radius:2px}
+.seg.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}.seg.retro{box-shadow:inset 0 -4px 0 var(--gold)}
+.ctl{display:flex;flex-wrap:wrap;gap:14px;align-items:end}.ctl label{display:block;font:700 .78rem var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.ctl input{font:inherit;padding:8px 10px;border:1px solid var(--border);border-radius:4px;background:var(--panel);color:var(--text)}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+.text{white-space:pre-wrap;overflow-wrap:anywhere;font:500 1.12rem/1.95 var(--cjk)}ins{background:var(--ins);color:var(--c-con);text-decoration:none}del{background:var(--del);color:var(--c-het)}
+.en{border-top:1px solid var(--border);margin-top:16px;padding-top:12px;color:var(--ink2);white-space:pre-wrap;font-size:.97rem}
+.claim{padding:10px 0;border-bottom:1px solid var(--border);font-size:1.05rem}.claim .mk{font-weight:800;margin-right:6px}
+.ok{color:var(--c-con)}.bad{color:var(--c-het)}.src{border:1px solid var(--border);background:var(--panel);padding:10px 14px;margin-top:10px}
+.src .t{white-space:pre-wrap;max-height:8em;overflow:hidden;font-family:var(--cjk);color:var(--ink2)}.muted{color:var(--muted)}
+footer{border-top:1px solid var(--border);margin-top:48px;padding:20px 0;color:var(--muted);font-size:.88rem}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap nav">
+  <a class="brand" href="#/">稅法時光機<small>CHRONOTAX · TW</small></a>
+  <a class="tab" data-r="home" href="#/">首頁 Home</a>
+  <a class="tab" data-r="ask" href="#/ask">問答 Ask</a>
+  <a class="tab" data-r="law" href="#/law/01513">條文時光機 Time machine</a>
+  <span class="sp"></span>
+  <button class="iconbtn" id="theme" title="Light / dark">◐</button>
+</div></header>
+<main class="wrap" id="view"></main>
+<footer class="wrap">Research prototype, not tax advice. Law texts: Legislative Yuan (LYAPI, CC BY 4.0) and Ministry of Justice;
+amounts: Ministry of Finance announcements (OGDL-Taiwan 1.0).</footer>
+<script>
+const $ = s => document.querySelector(s), V = () => $('#view');
+const api = (p, o = {}) => fetch(p + '?' + new URLSearchParams(o)).then(r => r.ok ? r.json() : Promise.reject(r));
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const fmt = d => d ? d.slice(5).replace('-', '/') : '';
+const today = new Date().toISOString().slice(0, 10);
+const st = {laws: null};
+try { if (localStorage.getItem('theme') === 'dark') document.documentElement.dataset.theme = 'dark'; } catch {}
+$('#theme').onclick = () => { const d = document.documentElement; d.dataset.theme = d.dataset.theme === 'dark' ? '' : 'dark';
+  try { localStorage.setItem('theme', d.dataset.theme); } catch {} };
+const SAMPLES = ['民國一百十一年度薪資所得特別扣除額是多少？', '民國一百零五年度單身標準扣除額是多少？',
+  'What is the standard deduction for a married couple for tax year 2026?', '民國九十二年進口菸絲每公斤健康福利捐多少元？'];
+function badge(v) {
+  if (v.deleted) return '<span class="badge b-het">已刪除 repealed</span>';
+  if (v.pending) return '<span class="badge b-mot">未施行 not in force — date to be set by the Executive Yuan</span>';
+  if (v.from_basis === 'moj_current_only') return '<span class="badge b-tk">僅現行條文 current text only</span>';
+  const now = !v.valid_to;
+  return (now ? '<span class="badge b-con">● 現行 in force</span>' : '<span class="badge b-het">已修正 superseded</span>')
+    + (v.retro ? ' <span class="badge b-mot">溯及既往 retroactive</span>' : '');
+}
+function dateline(extra) { return `<div class="dateline">${today.split('-').reverse().join('/')}<span>${extra || ''}</span></div>`; }
+
+async function home() {
+  const [recent, retro, stats, laws] = await Promise.all([api('/api/recent', {limit: 7}), api('/api/retro', {limit: 4}),
+    api('/api/stats'), st.laws || api('/api/laws')]);
+  st.laws = laws;
+  V().innerHTML = dateline(`${stats.laws} acts & regulations · ${stats.article_versions.toLocaleString()} article versions`) + `
+  <div class="grid2"><div>
+    <h1 class="cjk">用一句話查稅法<br><span style="font-size:.62em">Ask Taiwan tax law — for the year you mean</span></h1>
+    <div class="search"><input id="q" placeholder="例：民國一百十一年度薪資所得特別扣除額是多少？"><button class="btn" id="go">查詢 Ask</button></div>
+    <div class="chips">${SAMPLES.map(s => `<span class="chip">${esc(s)}</span>`).join('')}</div>
+    <div class="stats"><div><b>${stats.versions}</b><span>versions</span></div><div><b>${stats.article_versions.toLocaleString()}</b><span>article versions</span></div>
+      <div><b>${stats.retro}</b><span>retroactive</span></div><div><b>${stats.overtaken}</b><span>overtaken pending</span></div></div>
+    <div class="sec"><h2>最新修正 Latest amendments <span class="arr">→</span></h2>
+      ${recent.map(r => `<div class="item" data-law="${r.law_id}"><div class="stamp">${fmt(r.promulgated)}</div><div>
+        <div class="code">${r.promulgated.slice(0, 4)} · ${esc(r.name_en)}</div>
+        <div class="ttl">${esc(r.name)} · ${r.n_art} 條修正 · 生效 ${r.effective || '—'}</div></div></div>`).join('')}
+    </div></div>
+  <div><div class="sec" style="margin-top:0"><h2>溯及既往 Retroactive changes</h2>
+      ${retro.map(r => `<div class="item" data-law="${r.law_id}" data-art="${esc(r.article_no)}" data-asof="${r.valid_from}">
+        <div class="stamp red">${fmt(r.valid_from)}</div><div><div class="code">published ${r.published}</div>
+        <div class="ttl">${esc(r.name)} ${esc(r.article_no)} <span class="muted" style="font-family:var(--sans);font-size:.85rem">${esc(r.label || '')}</span></div>
+        <div class="muted" style="font-size:.88rem">applies from ${r.valid_from}, before it was published</div></div></div>`).join('')}
+    </div>
+    <div class="sec"><h2>法規 Acts</h2><div class="lawgrid" style="margin-top:10px">
+      ${laws.slice(0, 12).map(l => `<a href="#/law/${l.law_id}">${esc(l.name)}<span>${esc(l.name_en)} · ${l.versions} versions</span></a>`).join('')}
+    </div></div></div></div>`;
+  const go = () => { location.hash = '#/ask?q=' + encodeURIComponent($('#q').value || $('#q').placeholder.replace('例：', '')); };
+  $('#go').onclick = go; $('#q').onkeydown = e => { if (e.key === 'Enter') go(); };
+  V().querySelectorAll('.chip').forEach(c => c.onclick = () => { location.hash = '#/ask?q=' + encodeURIComponent(c.textContent); });
+  V().querySelectorAll('.item[data-law]').forEach(i => i.onclick = () => {
+    location.hash = `#/law/${i.dataset.law}` + (i.dataset.art ? `/${encodeURIComponent(i.dataset.art)}?as_of=${i.dataset.asof}` : ''); });
+}
+
+async function ask(qtext) {
+  V().innerHTML = dateline('問答 Ask') + `<h1 class="cjk" style="font-size:2rem">問答 · Ask by date</h1>
+    <div class="search"><input id="q" value="${esc(qtext || '')}" placeholder="${esc(SAMPLES[0])}"><button class="btn" id="go">查詢 Ask</button></div>
+    <div class="chips">${SAMPLES.map(s => `<span class="chip">${esc(s)}</span>`).join('')}</div><div id="ans"></div>`;
+  const go = () => { location.hash = '#/ask?q=' + encodeURIComponent($('#q').value || $('#q').placeholder); };
+  $('#go').onclick = go; $('#q').onkeydown = e => { if (e.key === 'Enter') go(); };
+  V().querySelectorAll('.chip').forEach(c => c.onclick = () => { location.hash = '#/ask?q=' + encodeURIComponent(c.textContent); });
+  if (!qtext) return;
+  $('#ans').innerHTML = '<p class="muted">查詢中… searching and checking</p>';
+  const r = await api('/api/ask', {question: qtext});
+  const p = r.period, ad = r.administrative || {};
+  const mode = {llm: 'AI 回答 · 程式驗證 verified by code', extractive: '未設定 AI：顯示適用條文', no_sources: '查無條文', llm_error: 'AI 服務錯誤'}[r.mode] || r.mode;
+  $('#ans').innerHTML = `
+    <div class="card"><div class="kicker">適用期間 Applicable period</div>
+      <div style="font:800 1.4rem var(--serif);margin:4px 0">${p.tax_year ? `${p.tax_year - 1911} 年度 · tax year ${p.tax_year}` : p.as_of}</div>
+      <div class="meta"><span class="badge b-chua">${esc(p.basis)}</span><span class="badge b-tk">${esc(mode)}</span>
+      ${r.insufficient ? '<span class="badge b-mot">sources insufficient</span>' : ''}</div>
+      ${(r.claims || []).map(c => `<div class="claim"><span class="mk ${c.verified ? 'ok' : 'bad'}">${c.verified ? '✓' : '✗'}</span>${esc(c.text)}
+        <span class="muted" style="font-size:.85rem"> [${c.cite.join(', ')}]${c.problems.length ? ' · ' + esc(c.problems.join('; ')) : ''}</span></div>`).join('')}
+    </div>
+    ${ad.note ? `<div class="callout ${ad.items && ad.items.length ? '' : 'red'}"><h3>財政部公告 · Ministry of Finance layer</h3>${esc(ad.note)}
+      ${(ad.items || []).map(a => `<div style="margin-top:4px"><b class="cjk">${esc(a.item_zh)}</b>：<b>${Number(a.amount).toLocaleString()}</b> 元（${a.tax_year} 年度）
+        <a href="${esc(a.source)}" target="_blank" rel="noopener">source</a></div>`).join('')}</div>` : ''}
+    <div class="sec"><h2>依據條文 Sources in force for this period</h2>
+      ${r.sources.map(s => `<div class="src"><div style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap">
+        <a href="#/law/${s.law_id}/${encodeURIComponent(s.article)}?as_of=${p.as_of}"><b class="cjk">${s.sid} · ${esc(s.law)} ${esc(s.article)}</b></a>
+        <span class="muted" style="font-size:.85rem">${s.valid_from} → ${s.valid_to || '現行 now'}${s.retro ? ' · 溯及' : ''}</span></div>
+        ${s.en_label ? `<div class="muted" style="font-size:.85rem">${esc(s.law_en)} · ${esc(s.en_label)}</div>` : ''}
+        <div class="t">${esc(s.text)}</div></div>`).join('') || '<p class="muted">No source found.</p>'}
+    </div>`;
+}
+
+async function law(lawId, art, opts) {
+  st.laws = st.laws || await api('/api/laws');
+  const L = st.laws.find(l => l.law_id === lawId) || st.laws[0];
+  const arts = await api('/api/articles', {law: L.law_id});
+  art = art || (arts[0] && arts[0].article_no);
+  V().innerHTML = `<div class="crumb"><a href="#/">首頁</a> › <a href="#/law/${L.law_id}">${esc(L.name)}</a>${art ? ' › ' + esc(art) : ''}</div>
+    <div class="kicker">${esc(L.name_en)}</div><h1 class="cjk" style="font-size:2.2rem">${esc(L.name)}</h1>
+    <div class="layout"><aside class="side"><select id="lawsel" style="width:100%;font:inherit;padding:8px;margin-bottom:8px;border:1px solid var(--border);background:var(--panel);color:var(--text)">
+      ${st.laws.map(l => `<option value="${l.law_id}" ${l.law_id === L.law_id ? 'selected' : ''}>${esc(l.name)}</option>`).join('')}</select>
+      <input id="flt" placeholder="篩選條文 filter (十七 / 17)"><div class="alist" id="alist"></div></aside>
+      <section id="art"></section></div>`;
+  const renderList = () => { const f = $('#flt').value.trim();
+    $('#alist').innerHTML = arts.filter(a => !f || a.article_no.includes(f) || (a.label || '').includes(f)).map(a =>
+      `<a href="#/law/${L.law_id}/${encodeURIComponent(a.article_no)}" class="${a.article_no === art ? 'on' : ''}">${esc(a.article_no)}
+       <small>${a.n_versions}×</small></a>`).join(''); };
+  $('#flt').oninput = renderList; renderList();
+  $('#lawsel').onchange = e => { location.hash = '#/law/' + e.target.value; };
+  if (art) await article(L, art, opts);
+}
+
+async function article(L, art, opts) {
+  const hist = await api('/api/history', {law: L.law_id, art});
+  const asOf = opts.as_of || today, known = opts.known_on || '';
+  let cur;
+  try { cur = await api('/api/article', Object.assign({law: L.law_id, art, as_of: asOf}, known ? {known_on: known} : {})); }
+  catch { $('#art').innerHTML = `<div class="callout red"><h3>未施行 Not in force</h3>${esc(art)} was not in force on ${asOf}.</div>`; return; }
+  const vs = hist.versions.filter(v => !v.zero_length), hv = hist.versions.find(v => v.id === cur.id), en = hist.english, vi = cur.version_info || {};
+  const body = cur.deleted ? '' : hv.diff.map(([op, t]) => op === 'eq' ? esc(t) : op === 'ins' ? `<ins>${esc(t)}</ins>` : `<del>${esc(t)}</del>`).join('');
+  $('#art').innerHTML = `
+    <div class="kicker">${esc(art)}${en ? ' · ' + esc(en.label) : ''}</div>
+    <div class="meta">${badge(cur)}<span class="badge b-chua">${cur.valid_from} → ${cur.valid_to || '現行 now'}</span></div>
+    ${cur.retro ? `<div class="callout"><h3>◐ 溯及既往 — retroactive</h3>Published ${cur.published}, but applies from ${cur.valid_from}.
+      Set a <b>known-on</b> date before ${cur.published} to see what a taxpayer could know then.</div>` : ''}
+    ${cur.from_basis === 'moj_current_only' ? `<div class="callout red"><h3>僅現行條文</h3>Only the current text of this regulation is
+      available; it is not shown for earlier years.</div>` : ''}
+    <div class="ctl"><div><label>適用日期 Applies on</label><input type="date" id="asof" value="${asOf}"></div>
+      <div><label>知悉日期 As known on (optional)</label><input type="date" id="known" value="${known}"></div></div>
+    <div class="timeline">${vs.map(v => v.pending ? `<div class="seg" title="amended text not in force yet: date to be set by the Executive Yuan (published ${v.published})">未施行</div>` :
+      `<div class="seg ${v.id === cur.id ? 'on' : ''} ${v.retro ? 'retro' : ''}" data-d="${v.valid_from}"
+      title="${v.valid_from} → ${v.valid_to || 'now'}${v.retro ? ' (retroactive)' : ''}">${v.valid_from.slice(0, 4)}</div>`).join('')}</div>
+    <div class="muted" style="font-size:.85rem">${vs.length} versions · gold underline = retroactive · click a year</div>
+    <div class="card"><div class="kicker">條文 Text in force${cur.deleted ? '' : ' — <ins>新增</ins> / <del>刪除</del> vs previous version'}</div>
+      <div class="text" style="margin-top:8px">${cur.deleted ? '本條已刪除 Repealed.' : body}</div>
+      <div class="meta" style="margin-top:12px"><span class="badge b-tk">公布 published ${cur.published || '—'}</span>
+        <span class="badge b-tk">三讀 passed ${vi.ly_date || '—'}</span><span class="badge b-tk">date rule: ${esc(cur.from_basis)}</span></div>
+      ${en ? `<div class="en"><b>Official English (MOJ, amendment of ${esc(en.en_amended || 'n/a')})</b>
+        ${cur.is_current ? '' : '<div class="callout red" style="margin:8px 0">This English text is the CURRENT version and may differ from the historical text above.</div>'}
+        ${esc(en.text)}</div>` : ''}</div>`;
+  const nav = (d, k) => { location.hash = `#/law/${L.law_id}/${encodeURIComponent(art)}?as_of=${d}` + (k ? `&known_on=${k}` : ''); };
+  const on = $('#art .seg.on'); if (on) on.scrollIntoView({block: 'nearest', inline: 'center'});
+  $('#asof').onchange = e => nav(e.target.value, $('#known').value); $('#known').onchange = e => nav($('#asof').value, e.target.value);
+  $('#art').querySelectorAll('.seg[data-d]').forEach(s => s.onclick = () => nav(s.dataset.d, $('#known').value));
+}
+
+async function route() {
+  const [path, qs] = location.hash.replace(/^#/, '').split('?'), parts = (path || '/').split('/').filter(Boolean);
+  const opts = Object.fromEntries(new URLSearchParams(qs || ''));
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('on', t.dataset.r === (parts[0] || 'home')));
+  try {
+    if (parts[0] === 'ask') await ask(opts.q);
+    else if (parts[0] === 'law') await law(parts[1], parts[2] && decodeURIComponent(parts[2]), opts);
+    else await home();
+  } catch (e) { V().innerHTML = `<div class="callout red"><h3>Error</h3>${esc(e.status || e.message || e)}</div>`; }
+  window.scrollTo(0, 0);
+}
+addEventListener('hashchange', route); route();
+</script>
+</body>
+</html>

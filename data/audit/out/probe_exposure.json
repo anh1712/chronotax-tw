@@ -1,0 +1,53 @@
+{
+ "amount": {
+  "n": 264,
+  "on_article_with_changed_interval": 32,
+  "date_inside_moved_window": 0,
+  "ids_inside": [],
+  "on_law_with_changes": 180
+ },
+ "span": {
+  "n": 2010,
+  "on_article_with_changed_interval": 467,
+  "date_inside_moved_window": 8,
+  "ids_inside": [
+   "tt-span-00323",
+   "tt-span-01473",
+   "tt-span-01852",
+   "tt-span-03306",
+   "tt-span-03308",
+   "tt-span-03378",
+   "tt-span-03379",
+   "tt-span-03380"
+  ],
+  "on_law_with_changes": 1201
+ },
+ "version_id": {
+  "n": 1225,
+  "on_article_with_changed_interval": 301,
+  "date_inside_moved_window": 6,
+  "ids_inside": [
+   "tt-version_id-00294",
+   "tt-version_id-03305",
+   "tt-version_id-03310",
+   "tt-version_id-03313",
+   "tt-version_id-03377",
+   "tt-version_id-03427"
+  ],
+  "on_law_with_changes": 782
+ },
+ "bitemporal": {
+  "n": 104,
+  "on_article_with_changed_interval": 22,
+  "date_inside_moved_window": 6,
+  "ids_inside": [
+   "tt-bitemporal-03501",
+   "tt-bitemporal-03502",
+   "tt-bitemporal-03507",
+   "tt-bitemporal-03508",
+   "tt-bitemporal-03545",
+   "tt-bitemporal-03546"
+  ],
+  "on_law_with_changes": 104
+ }
+}

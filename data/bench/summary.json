@@ -1,0 +1,12 @@
+{
+ "seed": 19,
+ "total": 3603,
+ "by_type": {
+  "version_id": 1225,
+  "span": 2010,
+  "amount": 264,
+  "bitemporal": 104
+ },
+ "laws": 22,
+ "articles": 543
+}
